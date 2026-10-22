@@ -1,0 +1,693 @@
+{
+ "snapshot": {
+  "fetched_mt": "Thu Oct 22, 2026, 5:07 AM MDT",
+  "last_updated_mt": "Thu Oct 22, 2026, 5:07 AM MDT",
+  "price": 1.33,
+  "latest_point": 1.3274,
+  "change_24h_pct": -2.05,
+  "market_cap_usd": 83787544650,
+  "volume_24h_usd": 1899767638,
+  "cross_check": "$1.3270 last trade on Kraken, 5:08 AM MDT",
+  "source": "CoinGecko public API",
+  "source_url": "https://www.coingecko.com/en/coins/xrp",
+  "change_7d_pct": -0.2,
+  "change_30d_pct": -13.5,
+  "change_90d_pct": 21.6,
+  "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
+ },
+ "closes": [
+  [
+   "2026-07-24",
+   1.0913
+  ],
+  [
+   "2026-07-25",
+   1.0974
+  ],
+  [
+   "2026-07-26",
+   1.112
+  ],
+  [
+   "2026-07-27",
+   1.0651
+  ],
+  [
+   "2026-07-28",
+   1.068
+  ],
+  [
+   "2026-07-29",
+   1.0726
+  ],
+  [
+   "2026-07-30",
+   1.0821
+  ],
+  [
+   "2026-07-31",
+   1.0606
+  ],
+  [
+   "2026-08-01",
+   1.0599
+  ],
+  [
+   "2026-08-02",
+   1.0856
+  ],
+  [
+   "2026-08-03",
+   1.0746
+  ],
+  [
+   "2026-08-04",
+   1.073
+  ],
+  [
+   "2026-08-05",
+   1.0613
+  ],
+  [
+   "2026-08-06",
+   1.0339
+  ],
+  [
+   "2026-08-07",
+   1.0206
+  ],
+  [
+   "2026-08-08",
+   1.0389
+  ],
+  [
+   "2026-08-09",
+   1.0291
+  ],
+  [
+   "2026-08-10",
+   1.0113
+  ],
+  [
+   "2026-08-11",
+   1.0218
+  ],
+  [
+   "2026-08-12",
+   1.0045
+  ],
+  [
+   "2026-08-13",
+   1.0084
+  ],
+  [
+   "2026-08-14",
+   0.9986
+  ],
+  [
+   "2026-08-15",
+   1.0018
+  ],
+  [
+   "2026-08-16",
+   0.9927
+  ],
+  [
+   "2026-08-17",
+   1.0024
+  ],
+  [
+   "2026-08-18",
+   1.0011
+  ],
+  [
+   "2026-08-19",
+   1.1051
+  ],
+  [
+   "2026-08-20",
+   1.2682
+  ],
+  [
+   "2026-08-21",
+   1.4543
+  ],
+  [
+   "2026-08-22",
+   1.4638
+  ],
+  [
+   "2026-08-23",
+   1.5205
+  ],
+  [
+   "2026-08-24",
+   1.4804
+  ],
+  [
+   "2026-08-25",
+   1.434
+  ],
+  [
+   "2026-08-26",
+   1.4225
+  ],
+  [
+   "2026-08-27",
+   1.4536
+  ],
+  [
+   "2026-08-28",
+   1.3834
+  ],
+  [
+   "2026-08-29",
+   1.3963
+  ],
+  [
+   "2026-08-30",
+   1.3579
+  ],
+  [
+   "2026-08-31",
+   1.3793
+  ],
+  [
+   "2026-09-01",
+   1.3515
+  ],
+  [
+   "2026-09-02",
+   1.3504
+  ],
+  [
+   "2026-09-03",
+   1.4513
+  ],
+  [
+   "2026-09-04",
+   1.3987
+  ],
+  [
+   "2026-09-05",
+   1.4123
+  ],
+  [
+   "2026-09-06",
+   1.4226
+  ],
+  [
+   "2026-09-07",
+   1.3961
+  ],
+  [
+   "2026-09-08",
+   1.4173
+  ],
+  [
+   "2026-09-09",
+   1.3947
+  ],
+  [
+   "2026-09-10",
+   1.334
+  ],
+  [
+   "2026-09-11",
+   1.3558
+  ],
+  [
+   "2026-09-12",
+   1.3662
+  ],
+  [
+   "2026-09-13",
+   1.3416
+  ],
+  [
+   "2026-09-14",
+   1.4232
+  ],
+  [
+   "2026-09-15",
+   1.2833
+  ],
+  [
+   "2026-09-16",
+   1.2983
+  ],
+  [
+   "2026-09-17",
+   1.2954
+  ],
+  [
+   "2026-09-18",
+   1.396
+  ],
+  [
+   "2026-09-19",
+   1.41
+  ],
+  [
+   "2026-09-20",
+   1.4102
+  ],
+  [
+   "2026-09-21",
+   1.535
+  ],
+  [
+   "2026-09-22",
+   1.5713
+  ],
+  [
+   "2026-09-23",
+   1.5011
+  ],
+  [
+   "2026-09-24",
+   1.534
+  ],
+  [
+   "2026-09-25",
+   1.5681
+  ],
+  [
+   "2026-09-26",
+   1.5273
+  ],
+  [
+   "2026-09-27",
+   1.5165
+  ],
+  [
+   "2026-09-28",
+   1.4959
+  ],
+  [
+   "2026-09-29",
+   1.4901
+  ],
+  [
+   "2026-09-30",
+   1.4896
+  ],
+  [
+   "2026-10-01",
+   1.4941
+  ],
+  [
+   "2026-10-02",
+   1.4846
+  ],
+  [
+   "2026-10-03",
+   1.4862
+  ],
+  [
+   "2026-10-04",
+   1.5197
+  ],
+  [
+   "2026-10-05",
+   1.5077
+  ],
+  [
+   "2026-10-06",
+   1.4968
+  ],
+  [
+   "2026-10-07",
+   1.4208
+  ],
+  [
+   "2026-10-08",
+   1.3793
+  ],
+  [
+   "2026-10-09",
+   1.3947
+  ],
+  [
+   "2026-10-10",
+   1.4012
+  ],
+  [
+   "2026-10-11",
+   1.409
+  ],
+  [
+   "2026-10-12",
+   1.341
+  ],
+  [
+   "2026-10-13",
+   1.3651
+  ],
+  [
+   "2026-10-14",
+   1.3306
+  ],
+  [
+   "2026-10-15",
+   1.3335
+  ],
+  [
+   "2026-10-16",
+   1.31
+  ],
+  [
+   "2026-10-17",
+   1.2927
+  ],
+  [
+   "2026-10-18",
+   1.3057
+  ],
+  [
+   "2026-10-19",
+   1.3031
+  ],
+  [
+   "2026-10-20",
+   1.3343
+  ],
+  [
+   "2026-10-21",
+   1.3651
+  ]
+ ],
+ "confirmed": [
+  "XRP is about $1.33, down about 2% over 24 hours, roughly flat over 7 days and down 13.5% from 30 days ago (snapshot).",
+  "An XRP Ledger bug fix (fixCleanup3_4_0) was pushed from Oct 23 to about Nov 4 after validator support briefly dipped; support is now 31 of 35 (CoinDesk, Oct 22).",
+  "Ripple Prime launched round-the-clock swaps on 100+ traditional markets on Oct 15; HSBC called it evolutionary, not revolutionary (Ripple; CoinDesk).",
+  "Cross River Bank embedded Ripple's RLUSD stablecoin on the XRP Ledger into its core banking system (Oct 15).",
+  "US spot XRP ETFs had $1.84M net outflows in the week to Oct 16, the first down week after 13 up weeks (CryptoSlate, SoSoValue data)."
+ ],
+ "not_confirmed": "No BlackRock XRP ETF filing exists, Ripple's bank charter is still only a preliminary conditional approval, and no German exchange called XRP the backbone of finance. Details are in the rumors section.",
+ "legend": [
+  [
+   "Official",
+   "type",
+   "Published by Ripple, a partner company, or a regulator about itself."
+  ],
+  [
+   "Mainstream",
+   "type",
+   "General financial press such as Reuters or Bloomberg."
+  ],
+  [
+   "Crypto press",
+   "type",
+   "Established crypto newsrooms such as CoinDesk, The Block, CryptoSlate."
+  ],
+  [
+   "Community",
+   "type",
+   "Commentators, influencers and post summaries on X, blogs or video."
+  ],
+  [
+   "Rumor",
+   "type",
+   "A claim of fact or future event with no named source."
+  ],
+  [
+   "High",
+   "rel",
+   "Primary document, or a newsroom report with named sources or data."
+  ],
+  [
+   "Medium",
+   "rel",
+   "Credible outlet relaying third-party data or company plans not yet delivered."
+  ],
+  [
+   "Low",
+   "rel",
+   "Partly true, but the conclusion drawn goes beyond the evidence."
+  ],
+  [
+   "Unverified",
+   "rel",
+   "No corroboration found. Treat as opinion."
+  ],
+  [
+   "Contradicted",
+   "rel",
+   "Available evidence points the other way."
+  ]
+ ],
+ "calendar": [
+  [
+   "Oct 27–29",
+   "Ripple Swell, New York",
+   "Ripple's annual conference; DriveWealth fireside on Oct 28.",
+   "Official"
+  ],
+  [
+   "Oct (reported Oct 28)",
+   "DTCC Tokenization Service launch",
+   "Canton and DTCC's private Besu network at launch; XRPL not named.",
+   "Crypto press"
+  ],
+  [
+   "About Nov 4",
+   "XRPL fixCleanup3_4_0 activation",
+   "If validator support holds above 29 of 35 for 14 days.",
+   "Crypto press"
+  ]
+ ],
+ "news": [
+  {
+   "headline": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+   "outlet": "CoinDesk",
+   "date": "2026-10-22",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Support for fixCleanup3_4_0 briefly fell to 26 of 35 validators, resetting its 14-day clock; activation moves from Oct 23 to about Nov 4, and support is now 31 of 35.",
+   "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours"
+  },
+  {
+   "headline": "Ripple brings Wall Street into 24/7 bets, but HSBC warns of thin orderbooks",
+   "outlet": "CoinDesk",
+   "date": "2026-10-21",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "HSBC's head of digital assets research called Ripple Prime's new swaps evolutionary, not revolutionary, and said limited liquidity may restrict large trades at first.",
+   "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin"
+  },
+  {
+   "headline": "DTCC prepares to tokenize $30 trillion in assets across 25 securities",
+   "outlet": "Crypto Briefing",
+   "date": "2026-10-21",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "DTCC's Tokenization Service is due to launch this month on Canton Network and DTCC's private Besu network; Stellar and Circle's Arc are expected in 2027. XRPL is not named.",
+   "url": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/"
+  },
+  {
+   "headline": "XRP's 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+   "outlet": "CryptoSlate (SoSoValue data)",
+   "date": "2026-10-19",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "US spot XRP ETFs had $1.84M net outflows in the week to Oct 16, their first negative week since mid-July; cumulative net inflows about $1.80B, assets $1.47B.",
+   "url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/"
+  },
+  {
+   "headline": "Ripple Opens $9 Billion Perps Boom to Wall Street Clients",
+   "outlet": "Bloomberg Law",
+   "date": "2026-10-15",
+   "type": "Mainstream",
+   "reliability": "High",
+   "summary": "Bloomberg coverage of Ripple Prime opening perpetual-swap access to institutional clients (paywalled; headline only was read).",
+   "url": "https://news.bloomberglaw.com/crypto/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1"
+  },
+  {
+   "headline": "Ripple Prime launches support for real-world asset perpetual swaps",
+   "outlet": "Ripple",
+   "date": "2026-10-15",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "Institutional clients, including Virtu, can trade swaps on 100+ equity, index, metals, energy and FX markets around the clock, with RLUSD usable as collateral.",
+   "url": "https://ripple.com/ripple-press/ripple-launches-support-for-institutions-to-access-real-world-asset-perpetual-swaps/"
+  },
+  {
+   "headline": "Cross River embeds Ripple USD stablecoin on the XRP Ledger into its core banking infrastructure",
+   "outlet": "Cross River Bank",
+   "date": "2026-10-15",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "Eligible fintech clients can move between USD and RLUSD through one API for 24/7 payments, initially in a limited set of US states.",
+   "url": "https://www.crossriver.com/newsroom/cross-river-embeds-ripple-usd-stablecoin-on-the-xrp-ledger-into-its-core-banking-infrastructure-expanding-faster-payment-capabilities-for-businesses"
+  },
+  {
+   "headline": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+   "outlet": "The Block",
+   "date": "2026-10-14",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Nasdaq-listed Evernorth (XRPN), holding 473M XRP, plans to begin deploying it through institutional strategies in Q4; the amount was not disclosed.",
+   "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503"
+  },
+  {
+   "headline": "DriveWealth and Ripple partner to bring institutional digital asset infrastructure to global investing",
+   "outlet": "Ripple",
+   "date": "2026-10-14",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "DriveWealth will integrate RLUSD settlement in Europe, Ripple Payments and custody; equity financing with Ripple Prime is still exploratory.",
+   "url": "https://ripple.com/ripple-press/drivewealth-and-ripple-partner-to-bring-institutional-digital-asset-infrastructure-to-global-investing/"
+  },
+  {
+   "headline": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+   "outlet": "The Block",
+   "date": "2026-10-13",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Developers using Privy can create XRPL wallets and sign XRP and RLUSD transactions without building wallet infrastructure themselves.",
+   "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463"
+  },
+  {
+   "headline": "Standard Chartered launches RLUSD custody and joins planned collateral integration with Ripple and LMAX",
+   "outlet": "Ripple",
+   "date": "2026-10-12",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "RLUSD custody is live via the bank's Dubai (DIFC) branch; the LMAX collateral piece is planned and subject to testing and approvals.",
+   "url": "https://ripple.com/ripple-press/standard-chartered-launches-rlusd-custody-and-joins-planned-collateral-integration-with-ripple-and-lmax-group/"
+  },
+  {
+   "headline": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+   "outlet": "The Block",
+   "date": "2026-10-11",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "An overflow flaw dating to 2015 was fixed in xrpld 3.4.1 on Sept 25; developers found no evidence it was ever exploited. Finder received a $250,000 bounty.",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "Germany's largest stock exchange says XRP will be the backbone of the new financial system, with $7 to $9 soon and $100+ later",
+   "who": "Identical text from 10+ accounts, e.g. @whiplash970, @Mrthekingxrp, @charlieward0010",
+   "date": "Oct 18–22",
+   "type": "Rumor",
+   "reliability": "Contradicted",
+   "check": "No exchange statement found. Deutsche Börse's own material describes its D7 platform, not XRP; its Clearstream unit added XRP to a custody list in July 2026, which is custody, not adoption as a settlement layer. The copy-paste pattern suggests coordinated promotion.",
+   "post_url": "https://x.com/whiplash970/status/2112089434917064838",
+   "check_title": "Clearstream: six new cryptocurrencies added to custody offering",
+   "check_url": "https://www.clearstream.com/clearstream-en/newsroom/260706-5368576"
+  },
+  {
+   "claim": "BlackRock XRP ETF next, with XRP to $249.78 very soon",
+   "who": "@9PPPZZZ and @FastersBG (identical text)",
+   "date": "Oct 22",
+   "type": "Rumor",
+   "reliability": "Contradicted",
+   "check": "BlackRock told The Block it had no plans to file an XRP ETF, and an Oct 6, 2026 Motley Fool piece says it has never filed one. No filing found in an ETF filing tracker. The price figure has no stated basis.",
+   "post_url": "https://x.com/9PPPZZZ/status/2113096804535259229",
+   "check_title": "The Motley Fool, Oct 6: BlackRock has no plans to launch an XRP ETF",
+   "check_url": "https://www.fool.com/investing/2026/10/06/this-15-trillion-investment-giant-has-no-plans-to/"
+  },
+  {
+   "claim": "Summary of X posts refers to ongoing Ripple-SEC talks",
+   "who": "X trending story (machine-generated summary of posts)",
+   "date": "Oct 22",
+   "type": "Community",
+   "reliability": "Contradicted",
+   "check": "The SEC case against Ripple ended in August 2025, when both sides dropped their appeals. No new talks were found in mainstream coverage.",
+   "post_url": "https://x.com/i/trending/2113207865632600290",
+   "check_title": "The Block, Aug 8 2025: Ripple's SEC lawsuit coming to an end",
+   "check_url": "https://www.theblock.co/news/regulation/2025-08-08-how-ripples-years-long-sec-lawsuit-coming-to-an-end-affects-or-doesnt-the-xrp-etf-race-366212"
+  },
+  {
+   "claim": "Garlinghouse will announce at Swell that Ripple is now operating as a bank",
+   "who": "@XRPMoonWalkK (stated as personal opinion)",
+   "date": "Oct 13",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "The OCC letter of Dec 12, 2025 grants Ripple National Trust Bank preliminary conditional approval only; it cannot open until final approval. No final approval was found.",
+   "post_url": "https://x.com/XRPMoonWalkK/status/2109947255931167187",
+   "check_title": "OCC Conditional Approval #1359 (Ripple National Trust Bank)",
+   "check_url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/ca1359.pdf"
+  },
+  {
+   "claim": "DTCC tokenization goes live Oct 28, the same day as Ripple Swell, implying something big for XRP",
+   "who": "@TickerMelody, @DeltaUnknownXRP",
+   "date": "Oct 17–18",
+   "type": "Rumor",
+   "reliability": "Low",
+   "check": "Partly true: DTCC's service is reported to launch this month and Swell runs Oct 27 to 29. But launch networks are Canton and DTCC's private Besu; no XRPL or XRP role is reported. The link between the two is speculation.",
+   "post_url": "https://x.com/TickerMelody/status/2111426063079456891",
+   "check_title": "Crypto Briefing, Oct 21: DTCC prepares to tokenize $30 trillion",
+   "check_url": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/"
+  },
+  {
+   "claim": "Evernorth says something special is planned for Ripple Swell 2026",
+   "who": "@xrp_herald, @MackAttackXRP; The Crypto Basic",
+   "date": "Oct 20",
+   "type": "Community",
+   "reliability": "Low",
+   "check": "The teaser itself is reported, but no details exist. Anything said about what it is, or about its price effect, is guesswork.",
+   "post_url": "https://x.com/xrp_herald/status/2112521717906321681",
+   "check_title": "The Crypto Basic, Oct 20: Evernorth teaser",
+   "check_url": "https://thecryptobasic.com/2026/10/20/xrp-treasury-firm-evernorth-says-something-special-is-planned-for-ripple-swell-2026/"
+  },
+  {
+   "claim": "An account hints at an XRP Ledger connection with a major payments company, details soon",
+   "who": "@GrahamHods23b (citing @Xrplogy)",
+   "date": "Oct 21",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No company named and nothing new found. The only confirmed payments-company tie-in in the last two weeks is the Oct 13 Privy (Stripe) integration.",
+   "post_url": "https://x.com/GrahamHods23b/status/2112964022333034767",
+   "check_title": "The Block, Oct 13: Ripple and Privy partner",
+   "check_url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463"
+  },
+  {
+   "claim": "XRP ETF flows turned positive again after the streak broke, about $6M to $8M a day",
+   "who": "@chachaX72",
+   "date": "Oct 19",
+   "type": "Community",
+   "reliability": "Unverified",
+   "check": "The latest weekly data found (week to Oct 16) shows net outflows. No published figures for the following days were found to confirm the claim; the post itself notes trackers conflict.",
+   "post_url": "https://x.com/chachaX72/status/2112208685254811915",
+   "check_title": "CryptoSlate, Oct 19: XRP ETF inflow streak ends",
+   "check_url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/"
+  },
+  {
+   "claim": "Cycle alert: 1,064 days up and 365 days down, repeated for 10+ years, next green phase starts soon",
+   "who": "@Lina_qwq_, @Anna_Miller_E (identical text)",
+   "date": "Oct 20",
+   "type": "Community",
+   "reliability": "Unverified",
+   "check": "Chart-pattern opinion. Past cycles do not establish future prices, and no mainstream analysis supports a timed cycle.",
+   "post_url": "https://x.com/Lina_qwq_/status/2112602732167041273",
+   "check_title": "",
+   "check_url": ""
+  },
+  {
+   "claim": "Technical analysis shows XRP will fall below $0.50 soon",
+   "who": "@TruthReaderQ",
+   "date": "Oct 18",
+   "type": "Community",
+   "reliability": "Unverified",
+   "check": "Bearish opinion with no stated method or data. Included for balance; same weight as the bullish targets.",
+   "post_url": "https://x.com/TruthReaderQ/status/2111909854608592917",
+   "check_title": "",
+   "check_url": ""
+  },
+  {
+   "claim": "A mega whale is shorting about $80M across ETH, BTC, XRP and others; insider dumping coming?",
+   "who": "@Cryptoc80166370",
+   "date": "Oct 17",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No wallet, venue or position data given. Not found in crypto press.",
+   "post_url": "https://x.com/Cryptoc80166370/status/2111492919366742396",
+   "check_title": "",
+   "check_url": ""
+  }
+ ]
+}

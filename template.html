@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src https://api.coingecko.com; img-src 'none'; base-uri 'none'; form-action 'none'">
+<title>XRP Tracker</title>
+<style>
+:root{--bg:#fafaf8;--card:#fff;--text:#1d1d1f;--muted:#5f6368;--border:#e3e3e0;--accent:#2f6fde;--ok:#1e7a46;--warn:#9a6200;--bad:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--card:#1b1b1b;--text:#ececec;--muted:#a0a0a0;--border:#2e2e2e;--accent:#6ea0ff;--ok:#5cc28a;--warn:#e0a84a;--bad:#ff8a80}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+main{max-width:960px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.8rem;margin:0 0 4px}
+h2{font-size:1.25rem;margin:40px 0 12px;padding-top:8px;border-top:1px solid var(--border)}
+.muted{color:var(--muted);font-size:.92rem}
+.disclaimer{border:1px solid var(--border);background:var(--card);border-radius:10px;padding:12px 14px;margin:16px 0;font-size:.95rem}
+nav{display:flex;flex-wrap:wrap;gap:8px 16px;margin:12px 0;font-size:.92rem}
+a{color:var(--accent)}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px;margin:12px 0}
+.kv{display:grid;grid-template-columns:minmax(140px,max-content) 1fr;gap:6px 16px;margin:0}
+.kv dt{color:var(--muted)}.kv dd{margin:0}
+@media (max-width:520px){.kv{grid-template-columns:1fr}.kv dd{margin-bottom:6px}}
+.big{font-size:2rem;font-weight:600}
+.pill{display:inline-block;font-size:.78rem;padding:1px 8px;border-radius:999px;border:1px solid var(--border);margin-right:6px;white-space:nowrap}
+.r-High{color:var(--ok);border-color:var(--ok)}.r-Low,.r-Unverified{color:var(--warn);border-color:var(--warn)}.r-Contradicted{color:var(--bad);border-color:var(--bad)}
+ul.items{list-style:none;padding:0;margin:0}
+ul.items li{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin:10px 0}
+.item-title{font-weight:600;margin:6px 0 4px}
+.claim-title::before{content:"Claim: ";color:var(--muted);font-weight:400}
+table{border-collapse:collapse;width:100%;font-size:.95rem}
+td,th{text-align:left;padding:8px;border-bottom:1px solid var(--border);vertical-align:top}
+.chart-wrap{width:100%}
+svg text{fill:var(--muted);font-size:11px}
+.btns{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
+.btns button{font:inherit;font-size:.9rem;padding:4px 12px;border-radius:999px;border:1px solid var(--border);background:var(--card);color:var(--text);cursor:pointer}
+.btns button[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
+footer{margin-top:48px;font-size:.88rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<h1>XRP Tracker</h1>
+<p class="muted">Last updated: {{LAST_UPDATED}} (Mountain Time). News and price snapshot as of {{FETCHED}}.</p>
+<div class="disclaimer"><strong>Information only, not financial advice; rumors are labeled and unverified.</strong> Every item carries a source-type label and a reliability rating. Nothing here is a recommendation to buy or sell.</div>
+<nav>
+<a href="#confirmed">Confirmed this week</a><a href="#price">Price</a><a href="#legend">Labels</a><a href="#news">News</a><a href="#rumors">Community and rumors</a><a href="#calendar">Calendar</a><a href="#about">About</a>
+</nav>
+
+<h2 id="confirmed">What's actually confirmed this week</h2>
+<ul>{{CONFIRMED}}</ul>
+<div class="card"><strong>Not confirmed:</strong> {{NOT_CONFIRMED}}</div>
+
+<h2 id="price">Price</h2>
+<div class="card">
+<div class="big" id="live-price">${{PRICE}}</div>
+<div id="price-label" class="muted">Snapshot from {{SOURCE}}, {{FETCHED}}. 24h change {{CHG24}}.</div>
+<dl class="kv" style="margin-top:12px">
+<dt>Cross-check</dt><dd>{{CROSS}}</dd>
+<dt>Market cap</dt><dd>{{MCAP}}</dd>
+<dt>24h volume</dt><dd>{{VOL}}</dd>
+<dt>90-day range (closes)</dt><dd>{{RANGE}}</dd>
+<dt>Change vs 7 / 30 / 90 days ago</dt><dd>{{CHGS}} (snapshot)</dd>
+</dl>
+</div>
+<div class="card">
+<div class="btns" role="group" aria-label="Chart range"><button data-range="30" aria-pressed="false">30 days</button><button data-range="90" aria-pressed="true">90 days</button></div>
+<div class="chart-wrap" id="chart" role="img" aria-label="XRP/USD daily closing price chart"></div>
+<p class="muted">Daily closes (00:00 UTC) from {{SOURCE}}, snapshot. The chart does not update live.</p>
+</div>
+
+<h2 id="legend">How to read the labels</h2>
+<table><thead><tr><th>Label</th><th>Meaning</th></tr></thead><tbody>{{LEGEND}}</tbody></table>
+
+<h2 id="news">Mainstream and crypto press news</h2>
+<p class="muted">{{NEWS_RANGE}}, newest first.</p>
+<ul class="items">{{NEWS}}</ul>
+
+<h2 id="rumors">Community chatter and rumors</h2>
+<p class="muted">Claims as posted, not facts. Each one is checked against what mainstream or primary sources say.</p>
+<ul class="items">{{CLAIMS}}</ul>
+<p class="muted">Price targets circulating on X range widely. None has a verifiable basis, and none is repeated here as a forecast.</p>
+
+<h2 id="calendar">Dates on the calendar</h2>
+<table><thead><tr><th>When</th><th>What</th><th>Source type</th></tr></thead><tbody>{{CALENDAR}}</tbody></table>
+
+<h2 id="about">About this page</h2>
+<p>Price snapshot from the <a href="{{SOURCE_URL}}" rel="noopener noreferrer">{{SOURCE}}</a>, fetched {{FETCHED}}. When your browser can reach the CoinGecko public API, the headline price above is replaced with a live figure and labeled as live; otherwise the snapshot is shown and labeled as a snapshot. No cookies, trackers or analytics.</p>
+<footer>Information only, not financial advice; rumors are labeled and unverified.</footer>
+</main>
+<script id="closes" type="application/json">{{CLOSES_JSON}}</script>
+<script>
+(function(){
+  var closes = JSON.parse(document.getElementById('closes').textContent);
+  var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function lbl(d){var p=d.split('-');return months[+p[1]-1]+' '+(+p[2]);}
+  function draw(n){
+    var box=document.getElementById('chart'); var pts = closes.slice(-n), W=Math.max(300, Math.min(900, box.clientWidth||900)), H=W<500?220:280, L=52, R=14, T=14, B=30;
+    var vals = pts.map(function(p){return p[1];});
+    var lo = Math.min.apply(null,vals), hi = Math.max.apply(null,vals), pad=(hi-lo)*0.08||0.05;
+    lo-=pad; hi+=pad;
+    function x(i){return L+(W-L-R)*i/(pts.length-1);}
+    function y(v){return T+(H-T-B)*(1-(v-lo)/(hi-lo));}
+    var s='<svg viewBox="0 0 '+W+' '+H+'" width="100%" preserveAspectRatio="xMidYMid meet">';
+    for(var g=0;g<=4;g++){var v=lo+(hi-lo)*g/4, yy=y(v);
+      s+='<line x1="'+L+'" x2="'+(W-R)+'" y1="'+yy+'" y2="'+yy+'" stroke="currentColor" stroke-opacity=".12"/>';
+      s+='<text x="'+(L-6)+'" y="'+(yy+4)+'" text-anchor="end">$'+v.toFixed(2)+'</text>';}
+    var d=pts.map(function(p,i){return (i?'L':'M')+x(i).toFixed(1)+' '+y(p[1]).toFixed(1);}).join(' ');
+    s+='<path d="'+d+' L'+x(pts.length-1)+' '+(H-B)+' L'+L+' '+(H-B)+' Z" fill="#2f6fde" fill-opacity=".10"/>';
+    s+='<path d="'+d+'" fill="none" stroke="#2f6fde" stroke-width="2"/>';
+    var nt=W<500?3:5; for(var k=0;k<=nt;k++){var i=Math.round((pts.length-1)*k/nt);
+      s+='<text x="'+x(i)+'" y="'+(H-8)+'" text-anchor="'+(k===0?'start':k===nt?'end':'middle')+'">'+lbl(pts[i][0])+'</text>';}
+    s+='</svg>';
+    document.getElementById('chart').innerHTML=s;
+    document.querySelectorAll('.btns button').forEach(function(b){b.setAttribute('aria-pressed', String(+b.dataset.range===n));});
+  }
+  document.querySelectorAll('.btns button').forEach(function(b){b.addEventListener('click',function(){cur=+b.dataset.range;draw(cur);});});
+  var cur=90; draw(90);
+  var rt; window.addEventListener('resize',function(){clearTimeout(rt);rt=setTimeout(function(){draw(cur);},150);});
+
+  var ctl = ('AbortController' in window) ? new AbortController() : null;
+  var timer = setTimeout(function(){ if(ctl) ctl.abort(); }, 8000);
+  fetch('https://api.coingecko.com/api/v3/simple/price?ids=ripple&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true', ctl?{signal:ctl.signal}:{})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(j){
+      clearTimeout(timer);
+      var r=j && j.ripple; if(!r || typeof r.usd!=='number') throw new Error('bad data');
+      var t=new Date((r.last_updated_at||Date.now()/1000)*1000);
+      var when=t.toLocaleString('en-US',{timeZone:'America/Denver',month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'});
+      document.getElementById('live-price').textContent='$'+r.usd.toFixed(4).replace(/0+$/,'').replace(/\.$/,'');
+      var ch=(typeof r.usd_24h_change==='number')?((r.usd_24h_change>=0?'+':'−')+Math.abs(r.usd_24h_change).toFixed(2)+'%'):'n/a';
+      document.getElementById('price-label').textContent='Live price from CoinGecko, updated '+when+'. 24h change '+ch+'. Other figures below are from the snapshot.';
+    })
+    .catch(function(){
+      clearTimeout(timer);
+      var el=document.getElementById('price-label');
+      el.textContent = el.textContent + ' Live price unavailable, showing snapshot.';
+    });
+})();
+</script>
+</body>
+</html>
