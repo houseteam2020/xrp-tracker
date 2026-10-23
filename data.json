@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Thu Oct 22, 2026, 6:05 PM MDT",
-  "last_updated_mt": "Thu Oct 22, 2026, 6:07 PM MDT",
-  "price": 1.31,
-  "latest_point": 1.3079,
-  "change_24h_pct": -4.34,
-  "market_cap_usd": 82534676942.82475,
-  "volume_24h_usd": 1554679618.0079596,
-  "cross_check": "$1.3075 last trade on Kraken, 6:05 PM MDT",
+  "fetched_mt": "Fri Oct 23, 2026, 3:27 AM MDT",
+  "last_updated_mt": "Fri Oct 23, 2026, 3:27 AM MDT",
+  "price": 1.32,
+  "latest_point": 1.3218,
+  "change_24h_pct": -0.26,
+  "market_cap_usd": 83454574809.3485,
+  "volume_24h_usd": 1383721051.17996,
+  "cross_check": "not re-checked in this refresh",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -1.9,
-  "change_30d_pct": -16.8,
-  "change_90d_pct": 19.8,
+  "change_7d_pct": 0.9,
+  "change_30d_pct": -11.9,
+  "change_90d_pct": 20.4,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-07-24",
-   1.0913
-  ],
   [
    "2026-07-25",
    1.0974
@@ -375,17 +371,22 @@
   [
    "2026-10-21",
    1.3651
+  ],
+  [
+   "2026-10-22",
+   1.308
   ]
  ],
  "confirmed": [
-  "XRP is about $1.31, down about 4.3% over 24 hours in a broad market sell-off (Bitcoin down about 4% near $81,000, Nasdaq down 2.6%); down 1.9% over 7 days and 16.8% from 30 days ago (snapshot).",
+  "XRP is about $1.32, roughly flat over 24 hours (-0.26%) after Thursday's broad market sell-off; +0.9% over 7 days and -11.9% from 30 days ago (CoinGecko snapshot).",
+  "CryptEscrow announced a partnership with Ripple for crypto-funded real estate closings; no financial terms or XRP-specific details were given (CryptEscrow press release, Oct 22).",
+  "Binance started a campaign on Oct 23 sharing 600,000 XRP among eligible RLUSD holders through Nov 20; US users are excluded (Binance).",
   "Arf, a Swiss-regulated payment-finance firm, partnered with Ripple to provide short-term RLUSD settlement loans on the XRP Ledger; a second phase depends on validator approval of the XLS-65/66 lending amendments (Arf, Ripple, Oct 22).",
   "An XRP Ledger bug fix (fixCleanup3_4_0) was pushed from Oct 23 to about Nov 4 after validator support briefly dipped; support is now 31 of 35 (CoinDesk, Oct 22).",
-  "US spot XRP ETFs had $1.84M net outflows in the week to Oct 16; this week shows no flows Oct 19–20 and about +$0.71M on Oct 21 (SoSoValue data).",
-  "Ripple Prime launched round-the-clock swaps on 100+ traditional markets on Oct 15; HSBC called it evolutionary, not revolutionary (Ripple; CoinDesk).",
-  "Cross River Bank embedded Ripple's RLUSD stablecoin on the XRP Ledger into its core banking system (Oct 15)."
+  "Ripple filed an Oct 20 letter backing the SEC's proposed crypto-asset rules and asking for clarity on when tokens stop being securities (Crypto Briefing).",
+  "US spot XRP ETFs had $1.84M net outflows in the week to Oct 16; this week shows no flows Oct 19–20 and about +$0.71M on Oct 21 (SoSoValue data)."
  ],
- "not_confirmed": "No BlackRock–Ripple announcement or BlackRock XRP ETF filing exists, no Trump family quote about XRP was found, Ripple's bank charter is still only a preliminary conditional approval, and no German exchange called XRP the backbone of finance. Posts telling holders to open 'QFS' accounts or move coins to a new wallet fit common scam patterns. Details are in the rumors section.",
+ "not_confirmed": "No Bank of America–Ripple partnership was announced (Bank of America's link is an older RippleNet membership and a small ETF holding), no BlackRock–Ripple announcement or BlackRock XRP ETF filing exists, no Trump family quote about XRP was found, and Ripple's bank charter is still only a preliminary conditional approval. Posts telling holders to open 'QFS' accounts or move coins to a new wallet fit common scam patterns. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -523,15 +524,6 @@
    "url": "https://www.crossriver.com/newsroom/cross-river-embeds-ripple-usd-stablecoin-on-the-xrp-ledger-into-its-core-banking-infrastructure-expanding-faster-payment-capabilities-for-businesses"
   },
   {
-   "headline": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-   "outlet": "The Block",
-   "date": "2026-10-14",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "Nasdaq-listed Evernorth (XRPN), holding 473M XRP, plans to begin deploying it through institutional strategies in Q4; the amount was not disclosed.",
-   "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503"
-  },
-  {
    "headline": "DriveWealth and Ripple partner to bring institutional digital asset infrastructure to global investing",
    "outlet": "Ripple",
    "date": "2026-10-14",
@@ -539,24 +531,6 @@
    "reliability": "High",
    "summary": "DriveWealth will integrate RLUSD settlement in Europe, Ripple Payments and custody; equity financing with Ripple Prime is still exploratory.",
    "url": "https://ripple.com/ripple-press/drivewealth-and-ripple-partner-to-bring-institutional-digital-asset-infrastructure-to-global-investing/"
-  },
-  {
-   "headline": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
-   "outlet": "The Block",
-   "date": "2026-10-13",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "Developers using Privy can create XRPL wallets and sign XRP and RLUSD transactions without building wallet infrastructure themselves.",
-   "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463"
-  },
-  {
-   "headline": "Standard Chartered launches RLUSD custody and joins planned collateral integration with Ripple and LMAX",
-   "outlet": "Ripple",
-   "date": "2026-10-12",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "RLUSD custody is live via the bank's Dubai (DIFC) branch; the LMAX collateral piece is planned and subject to testing and approvals.",
-   "url": "https://ripple.com/ripple-press/standard-chartered-launches-rlusd-custody-and-joins-planned-collateral-integration-with-ripple-and-lmax-group/"
   },
   {
    "headline": "Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
@@ -584,9 +558,58 @@
    "reliability": "Medium",
    "summary": "CryptoQuant analyst data show large XRP deposits to Binance at a seven-month high (deposits are not proof of sales). US spot XRP ETFs took in about $0.71M on Oct 21 after two days with no flows (SoSoValue).",
    "url": "https://crypto.news/xrp-price-whale-inflows-binance-etf-demand/"
+  },
+  {
+   "headline": "CryptEscrow and Ripple announce strategic partnership to advance crypto-powered real estate settlement",
+   "outlet": "CryptEscrow via GlobeNewswire",
+   "date": "2026-10-22",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "Press release from CryptEscrow (Miami) describing a partnership pairing its regulated crypto-to-fiat real estate closing service with Ripple's infrastructure. No financial terms, volumes or XRP-specific mechanics were disclosed, and it is not yet listed on Ripple's own press page.",
+   "url": "https://www.globenewswire.com/news-release/2026/10/23/3387005/0/en/cryptescrow-and-ripple-announce-strategic-partnership-to-advance-crypto-powered-real-estate-settlement.html"
+  },
+  {
+   "headline": "Hold RLUSD in any Binance account to share 600,000 XRP rewards",
+   "outlet": "Binance",
+   "date": "2026-10-23",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "Binance campaign running Oct 23 to Nov 20 (UTC): eligible users holding at least 0.01 RLUSD share a 600,000 XRP pool paid weekly on Fridays starting Oct 30. KYC and supported regions only; the US is among excluded jurisdictions. A promotion, not a change to XRP itself.",
+   "url": "https://www.binance.com/en/support/announcement/detail/c453734d8dcc42d9af49c8f0627d67f7"
+  },
+  {
+   "headline": "Ripple urges SEC to finalize crypto rules, clarify when tokens cease to be securities",
+   "outlet": "Crypto Briefing",
+   "date": "2026-10-21",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "In an Oct 20 comment letter, Ripple backed the SEC's proposed Regulation Crypto Assets framework and asked for clearer rules on when an investment contract ends and how secondary-market trading is treated. This is a public comment, not a rule change.",
+   "url": "https://cryptobriefing.com/ripple-seeks-regulation-crypto-assets/"
   }
  ],
  "claims": [
+  {
+   "claim": "BREAKING: Ripple and Bank of America partnership officially confirmed",
+   "who": "@Joshuahall525",
+   "date": "Oct 23",
+   "type": "Rumor",
+   "reliability": "Contradicted",
+   "check": "No such announcement on Ripple's press page or in any mainstream or crypto outlet. The documented link is older and narrower: Bank of America is a long-listed RippleNet member, connects through Ripple Treasury's bank gateway, and disclosed a small XRP ETF holding in a Feb 2026 SEC filing. No mainstream corroboration.",
+   "post_url": "https://x.com/Joshuahall525/status/2113443260676841621",
+   "check_title": "BSC News: what XRP's relationship with banks actually looks like",
+   "check_url": "https://bsc.news/post/xrp-banks-relationship"
+  },
+  {
+   "claim": "Garlinghouse 'just opened the door' to XRP reaching Bitcoin's price; 'XRP is the next Bitcoin'",
+   "who": "@jakobclavernba",
+   "date": "Oct 23",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No quote or interview cited, and no outlet reports Garlinghouse saying this. Matching XRP's per-coin price to Bitcoin's would imply a market value far above all crypto combined; treat as hype. No mainstream corroboration.",
+   "post_url": "https://x.com/jakobclavernba/status/2113496638962725232",
+   "check_title": "",
+   "check_url": ""
+  },
   {
    "claim": "BlackRock x Ripple: a big announcement is coming that will send shockwaves through the XRP community",
    "who": "@24hrscrypto1 (about 19K views), copied by @Rophy15; similar from @MoltMoney",
@@ -718,28 +741,6 @@
    "post_url": "https://x.com/chachaX72/status/2112208685254811915",
    "check_title": "crypto.news, Oct 22: XRP ETF inflows struggle",
    "check_url": "https://crypto.news/xrp-price-whale-inflows-binance-etf-demand/"
-  },
-  {
-   "claim": "Cycle alert: 1,064 days up and 365 days down, repeated for 10+ years, next green phase starts soon",
-   "who": "@Lina_qwq_, @Anna_Miller_E (identical text)",
-   "date": "Oct 20",
-   "type": "Community",
-   "reliability": "Unverified",
-   "check": "Chart-pattern opinion. Past cycles do not establish future prices, and no mainstream analysis supports a timed cycle.",
-   "post_url": "https://x.com/Lina_qwq_/status/2112602732167041273",
-   "check_title": "",
-   "check_url": ""
-  },
-  {
-   "claim": "Technical analysis shows XRP will fall below $0.50 soon",
-   "who": "@TruthReaderQ",
-   "date": "Oct 18",
-   "type": "Community",
-   "reliability": "Unverified",
-   "check": "Bearish opinion with no stated method or data. Included for balance; same weight as the bullish targets.",
-   "post_url": "https://x.com/TruthReaderQ/status/2111909854608592917",
-   "check_title": "",
-   "check_url": ""
   }
  ]
 }
