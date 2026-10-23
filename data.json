@@ -7,7 +7,7 @@
   "change_24h_pct": -0.26,
   "market_cap_usd": 83454574809.3485,
   "volume_24h_usd": 1383721051.17996,
-  "cross_check": "not re-checked in this refresh",
+  "cross_check": "$1.3208 last trade on Kraken, 3:28 AM MDT",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
   "change_7d_pct": 0.9,
