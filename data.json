@@ -1,18 +1,18 @@
 {
  "snapshot": {
-  "fetched_mt": "Thu Oct 22, 2026, 5:07 AM MDT",
-  "last_updated_mt": "Thu Oct 22, 2026, 5:07 AM MDT",
-  "price": 1.33,
-  "latest_point": 1.3274,
-  "change_24h_pct": -2.05,
-  "market_cap_usd": 83787544650,
-  "volume_24h_usd": 1899767638,
-  "cross_check": "$1.3270 last trade on Kraken, 5:08 AM MDT",
+  "fetched_mt": "Thu Oct 22, 2026, 6:05 PM MDT",
+  "last_updated_mt": "Thu Oct 22, 2026, 6:07 PM MDT",
+  "price": 1.31,
+  "latest_point": 1.3079,
+  "change_24h_pct": -4.34,
+  "market_cap_usd": 82534676942.82475,
+  "volume_24h_usd": 1554679618.0079596,
+  "cross_check": "$1.3075 last trade on Kraken, 6:05 PM MDT",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -0.2,
-  "change_30d_pct": -13.5,
-  "change_90d_pct": 21.6,
+  "change_7d_pct": -1.9,
+  "change_30d_pct": -16.8,
+  "change_90d_pct": 19.8,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
@@ -378,13 +378,14 @@
   ]
  ],
  "confirmed": [
-  "XRP is about $1.33, down about 2% over 24 hours, roughly flat over 7 days and down 13.5% from 30 days ago (snapshot).",
+  "XRP is about $1.31, down about 4.3% over 24 hours in a broad market sell-off (Bitcoin down about 4% near $81,000, Nasdaq down 2.6%); down 1.9% over 7 days and 16.8% from 30 days ago (snapshot).",
+  "Arf, a Swiss-regulated payment-finance firm, partnered with Ripple to provide short-term RLUSD settlement loans on the XRP Ledger; a second phase depends on validator approval of the XLS-65/66 lending amendments (Arf, Ripple, Oct 22).",
   "An XRP Ledger bug fix (fixCleanup3_4_0) was pushed from Oct 23 to about Nov 4 after validator support briefly dipped; support is now 31 of 35 (CoinDesk, Oct 22).",
+  "US spot XRP ETFs had $1.84M net outflows in the week to Oct 16; this week shows no flows Oct 19–20 and about +$0.71M on Oct 21 (SoSoValue data).",
   "Ripple Prime launched round-the-clock swaps on 100+ traditional markets on Oct 15; HSBC called it evolutionary, not revolutionary (Ripple; CoinDesk).",
-  "Cross River Bank embedded Ripple's RLUSD stablecoin on the XRP Ledger into its core banking system (Oct 15).",
-  "US spot XRP ETFs had $1.84M net outflows in the week to Oct 16, the first down week after 13 up weeks (CryptoSlate, SoSoValue data)."
+  "Cross River Bank embedded Ripple's RLUSD stablecoin on the XRP Ledger into its core banking system (Oct 15)."
  ],
- "not_confirmed": "No BlackRock XRP ETF filing exists, Ripple's bank charter is still only a preliminary conditional approval, and no German exchange called XRP the backbone of finance. Details are in the rumors section.",
+ "not_confirmed": "No BlackRock–Ripple announcement or BlackRock XRP ETF filing exists, no Trump family quote about XRP was found, Ripple's bank charter is still only a preliminary conditional approval, and no German exchange called XRP the backbone of finance. Posts telling holders to open 'QFS' accounts or move coins to a new wallet fit common scam patterns. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -441,7 +442,7 @@
   [
    "Oct 27–29",
    "Ripple Swell, New York",
-   "Ripple's annual conference; DriveWealth fireside on Oct 28.",
+   "Ripple's annual conference; keynotes include Garlinghouse, Matt Damon and Gary White (Water.org), Bullish CEO Tom Farley; DriveWealth fireside on Oct 28.",
    "Official"
   ],
   [
@@ -558,16 +559,78 @@
    "url": "https://ripple.com/ripple-press/standard-chartered-launches-rlusd-custody-and-joins-planned-collateral-integration-with-ripple-and-lmax-group/"
   },
   {
-   "headline": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-   "outlet": "The Block",
-   "date": "2026-10-11",
-   "type": "Crypto press",
+   "headline": "Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
+   "outlet": "Arf (with Ripple)",
+   "date": "2026-10-22",
+   "type": "Official",
    "reliability": "High",
-   "summary": "An overflow flaw dating to 2015 was fixed in xrpld 3.4.1 on Sept 25; developers found no evidence it was ever exploited. Finder received a $250,000 bounty.",
-   "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230"
+   "summary": "Swiss-regulated Arf (about $10B a year in settlement volume) will lend RLUSD on XRPL to licensed payment firms for 1 to 5 days. A later phase depends on validators approving the XLS-65/66 lending amendments. No RLUSD amount was disclosed.",
+   "url": "https://arf.one/arf-and-ripple-partner-to-bring-settlement-liquidity-to-the-xrp-ledger/"
+  },
+  {
+   "headline": "Bitcoin falls 4% as chip stocks plunge 6.7% and oil surges",
+   "outlet": "FXStreet",
+   "date": "2026-10-22",
+   "type": "Mainstream",
+   "reliability": "Medium",
+   "summary": "A broad risk-off day: Bitcoin fell to about $81,000, XRP about 5%, Ethereum and Solana over 4%, with the Nasdaq down 2.6% on AI-spending worries, higher oil and US-Iran tensions. XRP's drop was market-wide, not XRP-specific news.",
+   "url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-falls-4-as-chip-stocks-plunge-67-and-oil-surges-202610222333"
+  },
+  {
+   "headline": "XRP price falls to $1.33 as whale inflows hit seven-month high",
+   "outlet": "crypto.news",
+   "date": "2026-10-22",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "CryptoQuant analyst data show large XRP deposits to Binance at a seven-month high (deposits are not proof of sales). US spot XRP ETFs took in about $0.71M on Oct 21 after two days with no flows (SoSoValue).",
+   "url": "https://crypto.news/xrp-price-whale-inflows-binance-etf-demand/"
   }
  ],
  "claims": [
+  {
+   "claim": "BlackRock x Ripple: a big announcement is coming that will send shockwaves through the XRP community",
+   "who": "@24hrscrypto1 (about 19K views), copied by @Rophy15; similar from @MoltMoney",
+   "date": "Oct 22",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "Not corroborated. No BlackRock or Ripple announcement found; mainstream and crypto press report BlackRock still has no XRP ETF plans. Posts give no source, only a 'feeling'.",
+   "post_url": "https://x.com/24hrscrypto1/status/2113341809862586555",
+   "check_title": "Crypto Briefing, Oct 6: BlackRock still has no plans for an XRP ETF",
+   "check_url": "https://cryptobriefing.com/blackrock-no-plans-xrp-etf/"
+  },
+  {
+   "claim": "Trump's son says there's no replacement for XRP; 'secure XRP and set up your QFS Web3 account'",
+   "who": "@StewPetersQ, @_ChicagoRay1 (identical text)",
+   "date": "Oct 22",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No report of such a quote found in any outlet. 'QFS account' pitches are a known crypto-scam pattern; never move coins or enter a seed phrase because of a post like this.",
+   "post_url": "https://x.com/StewPetersQ/status/2113291024126902514",
+   "check_title": "",
+   "check_url": ""
+  },
+  {
+   "claim": "Garlinghouse is hinting XRP will join America's financial system; projections above $30,000 per XRP; 'move your asset to a decentralized wallet'",
+   "who": "@3TWarriorAcad01, @coachty236cy",
+   "date": "Oct 22",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No new Garlinghouse statement found that says this, and the price figure has no source. Urging holders to move coins is a common scam lead-in.",
+   "post_url": "https://x.com/3TWarriorAcad01/status/2113264841112907893",
+   "check_title": "",
+   "check_url": ""
+  },
+  {
+   "claim": "Garlinghouse said at HDAX 'this morning' that 'the vote today' has no bearing on XRP",
+   "who": "@godie_stiles_",
+   "date": "Oct 22",
+   "type": "Community",
+   "reliability": "Low",
+   "check": "Appears recycled: the HDAX fireside with Esther George was Sep 14–15, and the only recent Senate CLARITY Act vote (failed cloture) was Sep 15. No crypto vote took place Oct 22.",
+   "post_url": "https://x.com/godie_stiles_/status/2113374610368405959",
+   "check_title": "Kansas City Digital Drive: HDAX returns to Kansas City",
+   "check_url": "https://www.kcdigitaldrive.org/article/hdax-returns-to-kansas-city-as-digital-assets-move-into-the-real-economy/"
+  },
   {
    "claim": "Germany's largest stock exchange says XRP will be the backbone of the new financial system, with $7 to $9 soon and $100+ later",
    "who": "Identical text from 10+ accounts, e.g. @whiplash970, @Mrthekingxrp, @charlieward0010",
@@ -650,11 +713,11 @@
    "who": "@chachaX72",
    "date": "Oct 19",
    "type": "Community",
-   "reliability": "Unverified",
-   "check": "The latest weekly data found (week to Oct 16) shows net outflows. No published figures for the following days were found to confirm the claim; the post itself notes trackers conflict.",
+   "reliability": "Contradicted",
+   "check": "Data since then: no net flows on Oct 19 and 20, then about +$0.71M on Oct 21 (SoSoValue), far below the $6M to $8M a day claimed.",
    "post_url": "https://x.com/chachaX72/status/2112208685254811915",
-   "check_title": "CryptoSlate, Oct 19: XRP ETF inflow streak ends",
-   "check_url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/"
+   "check_title": "crypto.news, Oct 22: XRP ETF inflows struggle",
+   "check_url": "https://crypto.news/xrp-price-whale-inflows-binance-etf-demand/"
   },
   {
    "claim": "Cycle alert: 1,064 days up and 365 days down, repeated for 10+ years, next green phase starts soon",
@@ -675,17 +738,6 @@
    "reliability": "Unverified",
    "check": "Bearish opinion with no stated method or data. Included for balance; same weight as the bullish targets.",
    "post_url": "https://x.com/TruthReaderQ/status/2111909854608592917",
-   "check_title": "",
-   "check_url": ""
-  },
-  {
-   "claim": "A mega whale is shorting about $80M across ETH, BTC, XRP and others; insider dumping coming?",
-   "who": "@Cryptoc80166370",
-   "date": "Oct 17",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "No wallet, venue or position data given. Not found in crypto press.",
-   "post_url": "https://x.com/Cryptoc80166370/status/2111492919366742396",
    "check_title": "",
    "check_url": ""
   }
