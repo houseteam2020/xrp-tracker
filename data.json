@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Fri Oct 23, 2026, 6:01 PM MDT",
-  "last_updated_mt": "Fri Oct 23, 2026, 6:01 PM MDT",
-  "price": 1.29,
-  "latest_point": 1.2938,
-  "change_24h_pct": -1.02,
-  "market_cap_usd": 81685511121.31207,
-  "volume_24h_usd": 1311352658.9002922,
-  "cross_check": "$1.2936 last trade on Kraken, 6:01 PM MDT",
+  "fetched_mt": "Sat Oct 24, 2026, 3:20 AM MDT",
+  "last_updated_mt": "Sat Oct 24, 2026, 3:20 AM MDT",
+  "price": 1.28,
+  "latest_point": 1.2769,
+  "change_24h_pct": -3.5,
+  "market_cap_usd": 80655448205.67703,
+  "volume_24h_usd": 1198295607.060783,
+  "cross_check": "$1.2755 last trade on Kraken, 3:20 AM MDT",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
   "change_7d_pct": -1.2,
-  "change_30d_pct": -13.8,
-  "change_90d_pct": 17.9,
+  "change_30d_pct": -16.8,
+  "change_90d_pct": 14.8,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-07-25",
-   1.0974
-  ],
   [
    "2026-07-26",
    1.112
@@ -375,11 +371,16 @@
   [
    "2026-10-22",
    1.308
+  ],
+  [
+   "2026-10-23",
+   1.2938
   ]
  ],
  "confirmed": [
-  "XRP is about $1.29 this evening, down about 1% over 24 hours and 1.2% over 7 days, and about 13.8% below 30 days ago (CoinGecko snapshot; Kraken last trade $1.2936).",
-  "US spot XRP ETFs took in $3.55M on Oct 22 (all into Franklin's XRPZ), a second straight day of inflows after $0.71M on Oct 21 (SoSoValue data).",
+  "XRP is about $1.28 early Saturday, down about 3.5% over 24 hours and 1.2% over 7 days, and about 16.8% below 30 days ago (CoinGecko snapshot; Kraken last trade $1.2755).",
+  "US spot XRP ETFs had no net flows on Oct 23, ending a two-day inflow run ($0.71M on Oct 21, $3.55M on Oct 22); cumulative net inflows are about $1.81B (SoSoValue via TokenPost).",
+  "Franklin Templeton added about $150M of its tokenized money-market fund shares to the XRP Ledger, bringing its XRPL total to about $200M in a single wallet; these are fund shares, not XRP buys (CoinDesk, Oct 24).",
   "CryptEscrow announced a partnership with Ripple for crypto-funded real estate closings; no financial terms or XRP-specific details were given (CryptEscrow press release, Oct 22).",
   "Binance started a campaign on Oct 23 sharing 600,000 XRP among eligible RLUSD holders through Nov 20; US users are excluded (Binance).",
   "Arf, a Swiss-regulated payment-finance firm, partnered with Ripple to provide short-term RLUSD settlement loans on the XRP Ledger; a second phase depends on validator approval of the XLS-65/66 lending amendments (Arf, Ripple, Oct 22).",
@@ -388,7 +389,7 @@
   "Malaysia's and Thailand's central banks joined Singapore's BLOOM stablecoin payments initiative, where Ripple is one of many participants testing RLUSD trade payments on the XRP Ledger (MAS via The Block, Oct 23).",
   "Evernorth (XRPN) filed a preliminary, not-yet-effective S-1 on Oct 23 for up to 5.2M shares it may sell to Cantor (about $80.7M); the filing does not by itself confirm new XRP purchases (SEC filing)."
  ],
- "not_confirmed": "No Bank of America–Ripple partnership was announced (Bank of America's link is an older RippleNet membership and a small ETF holding), no BlackRock–Ripple announcement or BlackRock XRP ETF filing exists, no Trump family quote about XRP was found, and Ripple's bank charter is still only a preliminary conditional approval. Posts telling holders to open 'QFS' accounts or move coins to a new wallet fit common scam patterns. A 'Ripple × Xaman anniversary XRP airdrop' is a scam pattern: Xaman says it does not run airdrops. Russia's VTB is not launching XRP trading for retail (Russia's retail list is BTC, ETH and USDT), and the US is not paying its debt with XRP. Details are in the rumors section.",
+ "not_confirmed": "No Bank of America–Ripple partnership was announced (Bank of America's link is an older RippleNet membership and a small ETF holding), no BlackRock–Ripple announcement or BlackRock XRP ETF filing exists (posts asking whether one comes at Swell next week are guesses), no Trump family quote about XRP was found, and Ripple's bank charter is still only a preliminary conditional approval. Posts telling holders to open 'QFS' accounts or move coins to a new wallet fit common scam patterns. A 'Ripple × Xaman anniversary XRP airdrop' is a scam pattern: Xaman says it does not run airdrops. Russia's VTB is not launching XRP trading for retail (Russia's retail list is BTC, ETH and USDT), and the US is not paying its debt with XRP. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -517,15 +518,6 @@
    "url": "https://www.crossriver.com/newsroom/cross-river-embeds-ripple-usd-stablecoin-on-the-xrp-ledger-into-its-core-banking-infrastructure-expanding-faster-payment-capabilities-for-businesses"
   },
   {
-   "headline": "DriveWealth and Ripple partner to bring institutional digital asset infrastructure to global investing",
-   "outlet": "Ripple",
-   "date": "2026-10-14",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "DriveWealth will integrate RLUSD settlement in Europe, Ripple Payments and custody; equity financing with Ripple Prime is still exploratory.",
-   "url": "https://ripple.com/ripple-press/drivewealth-and-ripple-partner-to-bring-institutional-digital-asset-infrastructure-to-global-investing/"
-  },
-  {
    "headline": "Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
    "outlet": "Arf (with Ripple)",
    "date": "2026-10-22",
@@ -605,6 +597,24 @@
    "reliability": "Medium",
    "summary": "Technical commentary: XRP held near $1.30 after Thursday's drop, with the 50-, 100- and 200-day averages overhead. Analysis, not a forecast to act on.",
    "url": "https://www.fxstreet.com/cryptocurrencies/news/xrp-defends-130-support-as-ripple-partners-with-arf-to-bring-rlusd-settlement-liquidity-to-xrpl-202610231213"
+  },
+  {
+   "headline": "Franklin Templeton adds $150 million of money-market fund shares to XRP Ledger, all in one wallet",
+   "outlet": "CoinDesk",
+   "date": "2026-10-24",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Two $75M subscriptions brought Franklin's tokenized money-market fund (sgBENJI) on XRPL to about 193M shares, roughly $200M, all held in one wallet that shares signers with Franklin's issuing account. Who the investors are is undisclosed. These are fund shares, not XRP purchases.",
+   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet"
+  },
+  {
+   "headline": "U.S. spot XRP ETFs record no net flows on Oct 23, ending a two-day inflow run",
+   "outlet": "TokenPost (SoSoValue data)",
+   "date": "2026-10-24",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Flat flows on Oct 23 after inflows on Oct 21 and 22. Cumulative net inflows about $1.81B; net assets about $1.48B; daily trading volume $18.8M.",
+   "url": "https://www.tokenpost.com/news/investing/39598"
   }
  ],
  "claims": [
@@ -614,10 +624,30 @@
    "date": "Oct 23",
    "type": "Rumor",
    "reliability": "Contradicted",
-   "check": "Likely impersonation scam. The account is not Xaman's official @XamanWallet, and Xaman's help center says it does not run airdrops or giveaways. Never connect a wallet, sign a transaction, or enter secret numbers on a 'claim' page. Link deliberately not opened. No mainstream corroboration.",
+   "check": "Likely impersonation scam. The account is not Xaman's official @XamanWallet, and Xaman's help center says it does not run airdrops or giveaways. On Oct 23 an X user (@libertine1042) posted that all 1,633 of their XRP left their wallet after opening a 'Xaman airdrop', and so-called 'recovery' accounts then replied offering help, a common follow-up scam. Never connect a wallet, sign a transaction, or enter secret numbers on a 'claim' page, and ignore unsolicited recovery offers. Links deliberately not opened. No mainstream corroboration.",
    "post_url": "https://x.com/XRPL_Fndt/status/2113676682016260404",
    "check_title": "Xaman Help Center: airdrop scams",
    "check_url": "https://help.xaman.app/app/all-about-scams/airdrop-scams"
+  },
+  {
+   "claim": "BlackRock XRP ETF announcement at Ripple Swell next week?",
+   "who": "@cryptodylnews (about 1.5K views)",
+   "date": "Oct 24",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "Posed as a question with no source. BlackRock has never filed for a spot XRP ETF, per The Motley Fool (Oct 6) and other reviews of SEC filings; Swell's published agenda has a session on the first year of spot XRP ETFs but names no BlackRock filing. No mainstream corroboration.",
+   "post_url": "https://x.com/cryptodylnews/status/2113798948485791944",
+   "check_title": "The Motley Fool: BlackRock has no plans to launch an XRP ETF",
+   "check_url": "https://www.fool.com/investing/2026/10/06/this-15-trillion-investment-giant-has-no-plans-to/"
+  },
+  {
+   "claim": "Ripple CTO emeritus David Schwartz: a world where XRPL succeeds in finance but XRP lacks high demand and value is 'very unlikely'",
+   "who": "@JoelKatz (David Schwartz; about 410K views)",
+   "date": "Oct 23",
+   "type": "Community",
+   "reliability": "Unverified",
+   "check": "The post is real and his own words, but it is his opinion about the future, not a forecast with numbers or a company announcement. Price targets attached to it in replies (for example $10,000 per XRP) are not his. No mainstream coverage of the thread found.",
+   "post_url": "https://x.com/JoelKatz/status/2113696870866493856"
   },
   {
    "claim": "Russia's VTB will launch XRP trading for retail customers next month and recommends allocating up to 7% to XRP",
@@ -750,17 +780,6 @@
    "post_url": "https://x.com/i/trending/2113207865632600290",
    "check_title": "The Block, Aug 8 2025: Ripple's SEC lawsuit coming to an end",
    "check_url": "https://www.theblock.co/news/regulation/2025-08-08-how-ripples-years-long-sec-lawsuit-coming-to-an-end-affects-or-doesnt-the-xrp-etf-race-366212"
-  },
-  {
-   "claim": "Garlinghouse will announce at Swell that Ripple is now operating as a bank",
-   "who": "@XRPMoonWalkK (stated as personal opinion)",
-   "date": "Oct 13",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "The OCC letter of Dec 12, 2025 grants Ripple National Trust Bank preliminary conditional approval only; it cannot open until final approval. No final approval was found.",
-   "post_url": "https://x.com/XRPMoonWalkK/status/2109947255931167187",
-   "check_title": "OCC Conditional Approval #1359 (Ripple National Trust Bank)",
-   "check_url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/ca1359.pdf"
   },
   {
    "claim": "DTCC tokenization goes live Oct 28, the same day as Ripple Swell, implying something big for XRP",
