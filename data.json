@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Sat Oct 24, 2026, 6:00 PM MDT",
-  "last_updated_mt": "Sat Oct 24, 2026, 6:00 PM MDT",
-  "price": 1.3,
-  "latest_point": 1.2985,
-  "change_24h_pct": 0.36,
-  "market_cap_usd": 82273294144.26225,
-  "volume_24h_usd": 1295226503.3090699,
-  "cross_check": "$1.2970 last trade on Kraken, 6:00 PM MDT",
+  "fetched_mt": "Sun Oct 25, 2026, 3:22 AM MDT",
+  "last_updated_mt": "Sun Oct 25, 2026, 3:22 AM MDT",
+  "price": 1.29,
+  "latest_point": 1.2915,
+  "change_24h_pct": 1.11,
+  "market_cap_usd": 81680894388.56232,
+  "volume_24h_usd": 1346043970.6510139,
+  "cross_check": "$1.2926 last trade on Kraken, 3:22 AM MDT (Kraken 24h range $1.2533 to $1.3138)",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": 0.5,
-  "change_30d_pct": -15.3,
-  "change_90d_pct": 16.8,
+  "change_7d_pct": -0.01,
+  "change_30d_pct": -17.6,
+  "change_90d_pct": 21.3,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-07-26",
-   1.112
-  ],
   [
    "2026-07-27",
    1.0651
@@ -375,21 +371,26 @@
   [
    "2026-10-23",
    1.2938
+  ],
+  [
+   "2026-10-24",
+   1.2983
   ]
  ],
  "confirmed": [
-  "XRP is about $1.30 Saturday evening, up about 0.4% over 24 hours and 0.5% over 7 days after dipping near $1.25 earlier in the day, and about 15.3% below 30 days ago (CoinGecko snapshot; Kraken last trade $1.2970, 24h low $1.2533).",
-  "US spot XRP ETFs had no net flows on Oct 23, ending a two-day inflow run ($0.71M on Oct 21, $3.55M on Oct 22); cumulative net inflows are about $1.81B (SoSoValue via TokenPost).",
+  "XRP is about $1.29 early Sunday, up about 1.1% over 24 hours and roughly flat over 7 days (−0.01%), and about 17.6% below 30 days ago (CoinGecko snapshot, 3:22 AM MDT; Kraken last trade $1.2926, 24h range $1.2533 to $1.3138).",
+  "Crypto sold off broadly on Saturday as the US evacuated personnel across the Middle East over Iranian threats; bitcoin fell below $80,000 (low about $79,150) and XRP, ether and solana dropped 3% to 4% at the low before recovering. Bitcoin was back near $80,900 early Sunday (CoinDesk Oct 24; Investing.com Oct 25).",
+  "More than $800 million in leveraged crypto positions were liquidated over 24 hours, mostly bullish bets, as thin weekend trading amplified the drop (Coinglass via Investing.com, Oct 25). This tracker covers spot holdings only.",
+  "US spot XRP ETFs took in about $4.3M net from Oct 19 to 22 and had no net flows on Oct 23; cumulative net inflows are about $1.80B and net assets about $1.48B, below inflows because XRP's price has fallen since much of that money came in (SoSoValue via TokenPost and 24/7 Wall St., Oct 24). No ETF trading happens on weekends.",
   "Franklin Templeton added about $150M of its tokenized money-market fund shares to the XRP Ledger, bringing its XRPL total to about $200M in a single wallet; these are fund shares, not XRP buys (CoinDesk, Oct 24).",
-  "CryptEscrow announced a partnership with Ripple for crypto-funded real estate closings; no financial terms or XRP-specific details were given (CryptEscrow press release, Oct 22).",
-  "Binance started a campaign on Oct 23 sharing 600,000 XRP among eligible RLUSD holders through Nov 20; US users are excluded (Binance).",
+  "Ripple's regular monthly escrow release of up to 1 billion XRP is scheduled for Nov 1 (00:00 UTC, which is 6 PM MDT Oct 31); in October 700M was re-locked and 300M stayed out (ledger data via TokenPost). This is routine, not new.",
+  "BlackRock's Max Stein is listed on an invite-only Swell panel about how asset managers build digital-asset strategies (Oct 27); a speaking slot is not a product announcement, and BlackRock has not filed for an XRP ETF (Swell agenda screenshots via Times Tabloid).",
   "Arf, a Swiss-regulated payment-finance firm, partnered with Ripple to provide short-term RLUSD settlement loans on the XRP Ledger; a second phase depends on validator approval of the XLS-65/66 lending amendments (Arf, Ripple, Oct 22).",
   "An XRP Ledger bug fix (fixCleanup3_4_0) was pushed from Oct 23 to about Nov 4 after validator support briefly dipped; support is now 31 of 35 (CoinDesk, Oct 22).",
-  "Ripple filed an Oct 20 letter backing the SEC's proposed crypto-asset rules and asking for clarity on when tokens stop being securities (Crypto Briefing).",
-  "Malaysia's and Thailand's central banks joined Singapore's BLOOM stablecoin payments initiative, where Ripple is one of many participants testing RLUSD trade payments on the XRP Ledger (MAS via The Block, Oct 23).",
+  "Ripple filed an Oct 20 letter backing the SEC's proposed crypto-asset rules and asking for clarity on when tokens stop being securities. The rules are not final and the letter does not change XRP's status (Crypto Briefing; Yahoo Finance).",
   "Evernorth (XRPN) filed a preliminary, not-yet-effective S-1 on Oct 23 for up to 5.2M shares it may sell to Cantor (about $80.7M); the filing does not by itself confirm new XRP purchases (SEC filing)."
  ],
- "not_confirmed": "No Bank of America–Ripple partnership was announced (Bank of America's link is an older RippleNet membership and a small ETF holding), no BlackRock–Ripple announcement, tokenization deal or BlackRock XRP ETF filing exists (posts asking whether one comes at Swell next week are guesses), no Trump family quote about XRP was found, and Ripple's bank charter is still only a preliminary conditional approval. Posts telling holders to open 'QFS' accounts or move coins to a new wallet fit common scam patterns. A 'Ripple × Xaman anniversary XRP airdrop' is a scam pattern: Xaman says it does not run airdrops. Russia's VTB is not launching XRP trading for retail (Russia's retail list is BTC, ETH and USDT), and the US is not paying its debt with XRP. Franklin Templeton's $150M on the XRP Ledger is tokenized fund shares, not XRP buying. Details are in the rumors section.",
+ "not_confirmed": "Ripple is not releasing 1.3 billion XRP on Nov 1: the scheduled escrow release is up to 1 billion XRP (about $1.3 billion in dollar terms at today's price). No BlackRock XRP ETF filing or BlackRock–Ripple deal exists; BlackRock's Max Stein speaking on a Swell panel is not an announcement. Ripple has not signed a '$10 billion' partner; that figure is Arf's annual settlement volume, and viral '$45.50' targets have no basis. Evernorth's Ripple, Kraken, Coinbase and BitGo execution partners were announced Oct 14 and are being reposted as 'just in'. Also still unconfirmed from earlier: no Bank of America–Ripple partnership, no Trump family quote about XRP, and Ripple's bank charter is still only a preliminary conditional approval. 'Ripple × Xaman airdrop' posts and 'QFS' or move-your-coins messages fit common scam patterns; Xaman says it does not run airdrops. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -444,6 +445,12 @@
  ],
  "calendar": [
   [
+   "Oct 27–28",
+   "Federal Reserve meeting",
+   "Rate decision; markets are watching it alongside oil prices and Iran headlines.",
+   "Mainstream"
+  ],
+  [
    "Oct 27–29",
    "Ripple Swell, New York",
    "Ripple's annual conference; keynotes include Garlinghouse, Matt Damon and Gary White (Water.org), Bullish CEO Tom Farley; DriveWealth fireside on Oct 28.",
@@ -459,6 +466,12 @@
    "About Nov 4",
    "XRPL fixCleanup3_4_0 activation",
    "If validator support holds above 29 of 35 for 14 days.",
+   "Crypto press"
+  ],
+  [
+   "Nov 1 (6 PM MDT Oct 31)",
+   "Monthly XRP escrow release",
+   "Up to 1B XRP unlocks as usual; Ripple usually re-locks most of it.",
    "Crypto press"
   ]
  ],
@@ -489,33 +502,6 @@
    "reliability": "Medium",
    "summary": "DTCC's Tokenization Service is due to launch this month on Canton Network and DTCC's private Besu network; Stellar and Circle's Arc are expected in 2027. XRPL is not named.",
    "url": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/"
-  },
-  {
-   "headline": "Ripple Opens $9 Billion Perps Boom to Wall Street Clients",
-   "outlet": "Bloomberg Law",
-   "date": "2026-10-15",
-   "type": "Mainstream",
-   "reliability": "High",
-   "summary": "Bloomberg coverage of Ripple Prime opening perpetual-swap access to institutional clients (paywalled; headline only was read).",
-   "url": "https://news.bloomberglaw.com/crypto/ripple-opens-9-billion-perps-boom-to-wall-street-clients-1"
-  },
-  {
-   "headline": "Ripple Prime launches support for real-world asset perpetual swaps",
-   "outlet": "Ripple",
-   "date": "2026-10-15",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "Institutional clients, including Virtu, can trade swaps on 100+ equity, index, metals, energy and FX markets around the clock, with RLUSD usable as collateral.",
-   "url": "https://ripple.com/ripple-press/ripple-launches-support-for-institutions-to-access-real-world-asset-perpetual-swaps/"
-  },
-  {
-   "headline": "Cross River embeds Ripple USD stablecoin on the XRP Ledger into its core banking infrastructure",
-   "outlet": "Cross River Bank",
-   "date": "2026-10-15",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "Eligible fintech clients can move between USD and RLUSD through one API for 24/7 payments, initially in a limited set of US states.",
-   "url": "https://www.crossriver.com/newsroom/cross-river-embeds-ripple-usd-stablecoin-on-the-xrp-ledger-into-its-core-banking-infrastructure-expanding-faster-payment-capabilities-for-businesses"
   },
   {
    "headline": "Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
@@ -624,9 +610,107 @@
    "reliability": "Medium",
    "summary": "Swell runs Oct 27–29 at The Shed in Manhattan with 100+ speakers including executives from CME, BNY, Robinhood and ICE, and is combined with XRPL Apex and UBRI Connect this year. Agenda preview only; no announcements are confirmed in advance.",
    "url": "https://coinpaper.com/37809/ripple-prepares-80-sessions-at-swell-2026-as-banks-and-developers-gather-for-three-days-in-new-york"
+  },
+  {
+   "headline": "Crypto under weekend pressure: bitcoin slides below $80,000 on U.S. Middle East evacuations",
+   "outlet": "CoinDesk",
+   "date": "2026-10-24",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "The WSJ reported the US is evacuating personnel across the Middle East on threat of Iranian attacks; bitcoin fell to its weakest level in more than a month and XRP, ether and solana were down 3% to 4% at the time.",
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations"
+  },
+  {
+   "headline": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+   "outlet": "Investing.com",
+   "date": "2026-10-25",
+   "type": "Mainstream",
+   "reliability": "Medium",
+   "summary": "Bitcoin bounced from a Saturday low of about $79,146; more than $810M of crypto positions were liquidated in 24 hours (Coinglass). Traders are watching the Fed's Oct 27–28 meeting and Brent oil above $117.",
+   "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035"
+  },
+  {
+   "headline": "Trump says Iran strikes could come today. Can bitcoin hold $80,000?",
+   "outlet": "Yahoo Finance (BeInCrypto)",
+   "date": "2026-10-25",
+   "type": "Mainstream",
+   "reliability": "Medium",
+   "summary": "President Trump said the US could strike Iran as soon as Sunday or reach a deal instead; the piece reviews how bitcoin moved on earlier Iran headlines this month. Context for weekend volatility, not XRP-specific.",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/trump-says-iran-strikes-could-063826916.html"
+  },
+  {
+   "headline": "XRP ETFs took in just $4.3 million in a week. Could WisdomTree's fund change that?",
+   "outlet": "24/7 Wall St.",
+   "date": "2026-10-24",
+   "type": "Mainstream",
+   "reliability": "Medium",
+   "summary": "Using SoSoValue data, spot XRP ETFs took in $4.3M from Oct 19 to 22 and nothing on Oct 23. Cumulative inflows are $1.80B but assets are $1.48B, mainly because XRP's price has fallen.",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/10/24/xrp-etfs-took-in-just-4-3-million-in-a-week-could-wisdomtrees-fund-change-that/"
+  },
+  {
+   "headline": "The IMF and BlackRock are both speaking at Ripple Swell 2026",
+   "outlet": "Times Tabloid",
+   "date": "2026-10-23",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Screenshots of Swell's invite-only Platinum Summit agenda show BlackRock's Max Stein on an asset-manager panel and the IMF's Tobias Adrian on a stablecoin panel on Oct 27. Panel slots only; no product news.",
+   "url": "https://timestabloid.com/the-imf-and-blackrock-are-both-speaking-at-ripple-xrp-swell-2026/"
+  },
+  {
+   "headline": "Ripple schedules up to 1 billion XRP escrow release for Nov. 1, 2026",
+   "outlet": "TokenPost",
+   "date": "2026-10-10",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Routine monthly escrow unlock at 00:00 UTC Nov 1. In October, 700M of the 1B released was re-locked. How much stays out or is sold is not known in advance.",
+   "url": "https://www.tokenpost.com/news/investing/29537"
   }
  ],
  "claims": [
+  {
+   "claim": "Why is Ripple planning to release 1.3 billion XRP on November 1st instead of 1 billion? ... a BlackRock ETF or some type of announcement?",
+   "who": "@XRPMoonWalkK (about 7.8K views)",
+   "date": "Oct 25",
+   "type": "Rumor",
+   "reliability": "Contradicted",
+   "check": "The scheduled Nov 1 escrow release is up to 1 billion XRP, the same as every month; about $1.3 billion is its dollar value at today's price, not a bigger unlock. Nothing links it to BlackRock. No mainstream corroboration.",
+   "post_url": "https://x.com/XRPMoonWalkK/status/2114242119846035574",
+   "check_title": "TokenPost: Ripple schedules up to 1 billion XRP escrow release for Nov. 1",
+   "check_url": "https://www.tokenpost.com/news/investing/29537"
+  },
+  {
+   "claim": "BlackRock's Max Stein highlights a blockchain-agnostic future as XRP ETF rumors surface; holders watch his Swell appearance for signals",
+   "who": "@MackAttackXRP (about 540 views)",
+   "date": "Oct 25",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "Stein is listed on a Swell panel and has said BlackRock is 'agnostic to the blockchain', but he did not name XRP, and BlackRock has not filed for or announced an XRP ETF. 'Watch for signals' is speculation. No mainstream corroboration.",
+   "post_url": "https://x.com/MackAttackXRP/status/2114246041675403318",
+   "check_title": "CoinTurk: BlackRock's Max Stein highlights blockchain-agnostic future",
+   "check_url": "https://en.coin-turk.com/blackrocks-max-stein-highlights-blockchain-agnostic-future-xrp-community-reacts/"
+  },
+  {
+   "claim": "XRP supercycle incoming? $45.50 price target viral as Ripple secures massive $10B payments partner",
+   "who": "@barronturmp8 (name mimics Barron Trump), copied by other accounts",
+   "date": "Oct 25",
+   "type": "Rumor",
+   "reliability": "Contradicted",
+   "check": "Misreads the Arf partnership: $10B is Arf's own annual settlement volume, not a deal size or committed XRP Ledger volume, and the deal uses RLUSD, not XRP. The price target has no source. Lookalike account name. No mainstream corroboration.",
+   "post_url": "https://x.com/barronturmp8/status/2114153724461363211",
+   "check_title": "Arf: Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
+   "check_url": "https://arf.one/arf-and-ripple-partner-to-bring-settlement-liquidity-to-the-xrp-ledger/"
+  },
+  {
+   "claim": "JUST IN: Evernorth named Ripple, Kraken, Coinbase and BitGo as execution partners to begin deploying its 473 million XRP treasury",
+   "who": "@JakeClavers4dc",
+   "date": "Oct 25",
+   "type": "Community",
+   "reliability": "Low",
+   "check": "Real, but old: Evernorth announced this on Oct 14, subject to closing conditions and approvals, with no amounts disclosed. Reposting it as 'just in' makes it look new.",
+   "post_url": "https://x.com/JakeClavers4dc/status/2114167754634707115",
+   "check_title": "Evernorth press release (Oct 14)",
+   "check_url": "https://ir.evernorth.xyz/news-releases/news-release-details/evernorth-begin-deploying-473-million-xrp-treasury-ripple-kraken"
+  },
   {
    "claim": "BREAKING: BlackRock just signed a massive $6.5 TRILLION XRP tokenization deal",
    "who": "@DonaldTrumlf (display name 'Commentary Donald Trump jr.', an unverified lookalike account; about 14 views)",
@@ -800,50 +884,6 @@
    "post_url": "https://x.com/9PPPZZZ/status/2113096804535259229",
    "check_title": "The Motley Fool, Oct 6: BlackRock has no plans to launch an XRP ETF",
    "check_url": "https://www.fool.com/investing/2026/10/06/this-15-trillion-investment-giant-has-no-plans-to/"
-  },
-  {
-   "claim": "Summary of X posts refers to ongoing Ripple-SEC talks",
-   "who": "X trending story (machine-generated summary of posts)",
-   "date": "Oct 22",
-   "type": "Community",
-   "reliability": "Contradicted",
-   "check": "The SEC case against Ripple ended in August 2025, when both sides dropped their appeals. No new talks were found in mainstream coverage.",
-   "post_url": "https://x.com/i/trending/2113207865632600290",
-   "check_title": "The Block, Aug 8 2025: Ripple's SEC lawsuit coming to an end",
-   "check_url": "https://www.theblock.co/news/regulation/2025-08-08-how-ripples-years-long-sec-lawsuit-coming-to-an-end-affects-or-doesnt-the-xrp-etf-race-366212"
-  },
-  {
-   "claim": "DTCC tokenization goes live Oct 28, the same day as Ripple Swell, implying something big for XRP",
-   "who": "@TickerMelody, @DeltaUnknownXRP",
-   "date": "Oct 17–18",
-   "type": "Rumor",
-   "reliability": "Low",
-   "check": "Partly true: DTCC's service is reported to launch this month and Swell runs Oct 27 to 29. But launch networks are Canton and DTCC's private Besu; no XRPL or XRP role is reported. The link between the two is speculation.",
-   "post_url": "https://x.com/TickerMelody/status/2111426063079456891",
-   "check_title": "Crypto Briefing, Oct 21: DTCC prepares to tokenize $30 trillion",
-   "check_url": "https://cryptobriefing.com/dtcc-tokenization-service-launch-october/"
-  },
-  {
-   "claim": "Evernorth says something special is planned for Ripple Swell 2026",
-   "who": "@xrp_herald, @MackAttackXRP; The Crypto Basic",
-   "date": "Oct 20",
-   "type": "Community",
-   "reliability": "Low",
-   "check": "The teaser itself is reported, but no details exist. Anything said about what it is, or about its price effect, is guesswork.",
-   "post_url": "https://x.com/xrp_herald/status/2112521717906321681",
-   "check_title": "The Crypto Basic, Oct 20: Evernorth teaser",
-   "check_url": "https://thecryptobasic.com/2026/10/20/xrp-treasury-firm-evernorth-says-something-special-is-planned-for-ripple-swell-2026/"
-  },
-  {
-   "claim": "An account hints at an XRP Ledger connection with a major payments company, details soon",
-   "who": "@GrahamHods23b (citing @Xrplogy)",
-   "date": "Oct 21",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "No company named and nothing new found. The only confirmed payments-company tie-in in the last two weeks is the Oct 13 Privy (Stripe) integration.",
-   "post_url": "https://x.com/GrahamHods23b/status/2112964022333034767",
-   "check_title": "The Block, Oct 13: Ripple and Privy partner",
-   "check_url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463"
   }
  ]
 }
