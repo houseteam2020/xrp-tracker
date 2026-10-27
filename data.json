@@ -1,18 +1,18 @@
 {
  "snapshot": {
-  "fetched_mt": "Tue Oct 27, 2026, 3:18 AM MDT",
-  "last_updated_mt": "Tue Oct 27, 2026, 3:18 AM MDT",
-  "price": 1.3,
-  "latest_point": 1.2978,
-  "change_24h_pct": 0.86,
-  "market_cap_usd": 82229526215.2508,
-  "volume_24h_usd": 1332391157.4148953,
-  "cross_check": "$1.2982 last trade on Kraken, 3:18 AM MDT (Kraken 24h range $1.2791 to $1.3113)",
+  "fetched_mt": "Tue Oct 27, 2026, 5:57 PM MDT",
+  "last_updated_mt": "Tue Oct 27, 2026, 5:57 PM MDT",
+  "price": 1.33,
+  "latest_point": 1.3297,
+  "change_24h_pct": 1.71,
+  "market_cap_usd": 84240650219.8651,
+  "volume_24h_usd": 1473507361.6291022,
+  "cross_check": "$1.3294 last trade on Kraken, 5:58 PM MDT (Kraken 24h range $1.2891 to $1.3329)",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -2.7,
-  "change_30d_pct": -14.4,
-  "change_90d_pct": 21.0,
+  "change_7d_pct": -0.3,
+  "change_30d_pct": -12.3,
+  "change_90d_pct": 24.0,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
@@ -378,20 +378,13 @@
   ]
  ],
  "confirmed": [
-  "XRP is about $1.30 early Tuesday, up about 0.9% over 24 hours but about 2.7% lower than 7 days ago and about 14.4% below 30 days ago (CoinGecko snapshot, 3:18 AM MDT; Kraken last trade $1.2982, 24h range $1.2791 to $1.3113).",
-  "Ripple's national trust bank got final approval: the OCC (the federal bank regulator) granted final approval for Ripple National Trust Bank, completing the conditional approval from December 2025. It will manage the reserves backing Ripple's RLUSD stablecoin (about $2.5B in circulation) and offer custody of digital assets for businesses; it cannot take deposits or make loans, and RLUSD stays issued by Ripple's New York-regulated trust company. Ripple announced it Oct 26 (Business Wire release and CEO Brad Garlinghouse on X); CoinDesk and Benzinga independently reported it Oct 27. This is about Ripple's stablecoin and custody business; it gives XRP itself no new role.",
-  "Ripple Swell runs Oct 27 to 29 in New York. Ahead of it, Ripple announced new Ripple Treasury features, including AI workflow tools and '24/7 Returns' that let eligible corporate customers earn returns on qualifying digital assets such as RLUSD outside banking hours (Ripple, Oct 26).",
-  "Crypto is mostly lower ahead of Wednesday's Fed decision: bitcoin fell below $80,000 again as Strategy paused its purchases, while XRP was one of the few gainers, up about 0.7%, after the trust bank news (Investing.com, Oct 27). A rate hold is about 91% priced in (CME FedWatch); markets are watching for hints of a December hike.",
-  "US spot XRP ETFs had a $3.61M net outflow on Oct 26, all from Bitwise's fund, after no net flows the day before. Cumulative net inflows are about $1.80B and total net assets about $1.47B (SoSoValue data via TokenPost and PANews). The prior week (through Oct 23) was a small $4.25M net inflow.",
-  "Santiment reports wallets holding 10M+ XRP now hold about 46.87B XRP, roughly 68.5% of supply, their highest share since November 2022 (Santiment, Oct 26 to 27). This is a wallet-size measure; it does not say who owns those wallets.",
-  "GraniteShares filed to push the planned effective date of its proposed 3x long and 3x short XRP (and bitcoin, ether, solana) leveraged ETFs to Nov 30. The filing gives no reason and is not a rejection; these are leveraged products, not spot XRP funds (SEC filing, Oct 26, via Coinpedia).",
-  "Aviva Investors added a tokenized share class of its £22 billion Sterling Liquidity Fund on the XRP Ledger, following its dollar-fund share class in July. The £22B is the whole fund's size; the two tokenized classes together hold a little over £86 million. These are fund shares, not XRP purchases (Financial News, Oct 26).",
-  "Franklin Templeton added about $150M of its tokenized money-market fund shares to the XRP Ledger, bringing its XRPL total to about $200M; these are fund shares, not XRP buys (CoinDesk, Oct 24).",
-  "Ripple's regular monthly escrow release of up to 1 billion XRP is scheduled for Nov 1 (00:00 UTC, which is 6 PM MDT Oct 31); in October 700M was re-locked and 300M stayed out (ledger data via TokenPost). This is routine, not new.",
-  "An XRP Ledger bug fix (fixCleanup3_4_0) was pushed to about Nov 4 after validator support briefly dipped (CoinDesk, Oct 22). Arf and Ripple's RLUSD settlement-loan partnership (Oct 22) has a second phase that depends on validator approval of the XLS-65/66 lending amendments.",
-  "Evernorth (XRPN) filed a preliminary, not-yet-effective S-1 on Oct 23 for up to 5.2M shares it may sell to Cantor (about $80.7M); the filing does not by itself confirm new XRP purchases (SEC filing)."
+  "XRP is about $1.33 Tuesday evening, up about 1.7% over 24 hours, roughly flat (down 0.3%) versus 7 days ago and about 12.3% below 30 days ago (CoinGecko snapshot, 5:57 PM MDT; Kraken last trade $1.3294, 24h range $1.2891 to $1.3329). Bitcoin is back near $80,800, up about 1% on the day, ahead of Wednesday's Fed decision.",
+  "BNY now supports XRP and RLUSD custody: Ripple and BNY announced Oct 27 that BNY's Digital Asset Custody platform now supports XRP and RLUSD for institutional clients. Plans to let BNY clients mint and redeem RLUSD directly, and a tokenized trade finance pilot with C2FO on the XRP Ledger, are still subject to BNY and regulatory approvals. Reported independently by The Block and Cointelegraph.",
+  "Ripple and Robinhood partnership: RLUSD is live on Robinhood Chain and Bitstamp by Robinhood and is expected in the Robinhood app later this year; Robinhood will use RLUSD on the XRP Ledger for institutional settlement and adopt Ripple Treasury. No contract value was disclosed. Announced by Ripple Oct 27; reported by Cointelegraph and The Block.",
+  "Treasury Secretary Scott Bessent spoke with Brad Garlinghouse at Swell on Oct 27, saying dollar-backed stablecoins could strengthen the dollar and add demand for Treasuries (American Banker, CoinDesk). He talked about stablecoins and digital assets broadly, not XRP specifically.",
+  "Ripple's national trust bank got final OCC approval (announced Oct 26; CoinDesk, Benzinga and others reported it Oct 27). It will manage RLUSD reserves and offer business custody; it cannot take deposits or make loans. Today's deals, like the bank, are mostly about Ripple's stablecoin and services; BNY custody is the one item that directly touches XRP."
  ],
- "not_confirmed": "Ripple's trust bank is not replacing the Federal Reserve and cannot take deposits or make loans; it is a charter for RLUSD reserves and custody. The CLARITY Act has not been signed into law: the Senate failed to advance it 49 to 50 on Sept 15 and no new vote is scheduled, so 'Trump signs crypto bill' posts are false, and the ones asking you to message them for a wallet guide fit a common scam pattern. The BlackRock MOU announced overnight is with SBI Holdings and Startale about a yen stablecoin; Ripple and XRP are not part of it. GraniteShares' Nov 30 date is for leveraged funds and is the issuer's own filing, not an SEC ruling on XRP. Ripple is not releasing 1.3 billion XRP on Nov 1: the scheduled escrow release is up to 1 billion XRP. No BlackRock XRP ETF filing or BlackRock–Ripple deal exists. Ripple's CEO did not say XRP's market cap will hit '$196 trillion' or price it at $118,920; that post is still being recirculated. Price 'what if' posts ($100, $327,000 and similar) are speculation with no source. Also still unconfirmed: no Bank of America–Ripple partnership, no Trump family quote about XRP. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins messages fit common scam patterns. Details are in the rumors section.",
+ "not_confirmed": "No outlet confirms the '$60 billion in XRP transfers overnight' posts; the closest real figures are an Oct 19 on-ledger volume spike and September futures volume. BNY supporting XRP custody is real, but it is a custody service for institutions, not a purchase of XRP by BNY. Ripple's trust bank is not replacing the Federal Reserve and cannot take deposits or make loans; it is a charter for RLUSD reserves and custody. The CLARITY Act has not been signed into law: the Senate failed to advance it 49 to 50 on Sept 15 and no new vote is scheduled, so 'Trump signs crypto bill' posts are false, and the ones asking you to message them for a wallet guide fit a common scam pattern. The BlackRock MOU announced overnight is with SBI Holdings and Startale about a yen stablecoin; Ripple and XRP are not part of it. GraniteShares' Nov 30 date is for leveraged funds and is the issuer's own filing, not an SEC ruling on XRP. Ripple is not releasing 1.3 billion XRP on Nov 1: the scheduled escrow release is up to 1 billion XRP. No BlackRock XRP ETF filing or BlackRock–Ripple deal exists. Ripple's CEO did not say XRP's market cap will hit '$196 trillion' or price it at $118,920; that post is still being recirculated. Price 'what if' posts ($100, $327,000 and similar) are speculation with no source. Also still unconfirmed: no Bank of America–Ripple partnership, no Trump family quote about XRP. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins messages fit common scam patterns. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -448,7 +441,7 @@
   [
    "Oct 27–29",
    "Ripple Swell, New York",
-   "Ripple's annual conference, opening today; keynotes include Garlinghouse, Matt Damon and Gary White (Water.org), Bullish CEO Tom Farley; DriveWealth fireside on Oct 28.",
+   "Ripple's annual conference, day 1 done: Robinhood and BNY deals announced, Treasury Secretary Bessent spoke with Garlinghouse. Remaining: DriveWealth fireside Oct 28, more sessions through Oct 29.",
    "Official"
   ],
   [
@@ -496,6 +489,60 @@
  ],
  "news": [
   {
+   "headline": "Ripple Expands Strategic Digital Assets Collaboration with BNY Across Custody and Tokenized Trade Finance",
+   "outlet": "Ripple (press release)",
+   "date": "2026-10-27",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "BNY's Digital Asset Custody platform now supports XRP and RLUSD. Planned RLUSD mint and redeem through BNY and XRPL trade finance work with C2FO are subject to final BNY and regulatory approvals.",
+   "url": "https://ripple.com/ripple-press/ripple-expands-collaboration-with-bny-across-custody-and-tokenized-trade-finance/"
+  },
+  {
+   "headline": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+   "outlet": "The Block",
+   "date": "2026-10-27",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Independent report on the BNY custody expansion and the C2FO pilot; notes the companies have not said when the proposed services and trade finance applications will launch.",
+   "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891"
+  },
+  {
+   "headline": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+   "outlet": "Cointelegraph",
+   "date": "2026-10-27",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "RLUSD is live on Robinhood Chain and Bitstamp, coming to the Robinhood app later this year; Robinhood adopts Ripple Treasury. C2FO told Cointelegraph its Instant Pay service is in testing, with first RLUSD transactions on XRPL expected by year-end.",
+   "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets"
+  },
+  {
+   "headline": "Ripple and Robinhood Partner to Power the Next Generation of Finance",
+   "outlet": "Ripple (press release)",
+   "date": "2026-10-27",
+   "type": "Official",
+   "reliability": "High",
+   "summary": "Ripple's own announcement of the Robinhood deal across RLUSD, Ripple Treasury and Ripple Prime.",
+   "url": "https://ripple.com/ripple-press/ripple-and-robinhood-partner-to-power-the-next-generation-of-finance/"
+  },
+  {
+   "headline": "Bessent: stablecoins will help ensure dollar dominance",
+   "outlet": "American Banker",
+   "date": "2026-10-27",
+   "type": "Mainstream",
+   "reliability": "High",
+   "summary": "At Swell, the Treasury Secretary told Garlinghouse that dollar-backed stablecoins could become an important source of demand for Treasuries, and predicted guardrails against debanking crypto firms.",
+   "url": "https://www.americanbanker.com/news/bessent-stablecoins-will-help-ensure-dollar-dominance"
+  },
+  {
+   "headline": "Scott Bessent puts crypto alongside AI and chips in U.S.-China tech race at Ripple conference",
+   "outlet": "CoinDesk",
+   "date": "2026-10-27",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Bessent framed digital assets as part of a technology contest with China that could fortify the dollar; he did not discuss XRP specifically.",
+   "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
+  },
+  {
    "headline": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
    "outlet": "CoinDesk",
    "date": "2026-10-27",
@@ -512,15 +559,6 @@
    "reliability": "Medium",
    "summary": "Bitcoin fell 0.5% to about $79,830 early Tuesday and slipped below its month-long $80,000 to $87,000 range; XRP was an outlier, up 0.7% after the trust bank approval. The Fed is expected to hold, with a hawkish tone the main risk.",
    "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-80k-as-strategy-pauses-buying-fed-caution-weighs-4974244"
-  },
-  {
-   "headline": "ZEC and NEAR draw inflows as XRP, SOL and HYPE lose funds",
-   "outlet": "TokenPost (SoSoValue data)",
-   "date": "2026-10-26",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "US spot XRP ETFs posted a $3.61M net outflow on Oct 26, all from Bitwise's XRP ETF. Cumulative net inflows $1.81B; total net assets $1.47B.",
-   "url": "https://www.tokenpost.com/news/investing/41560"
   },
   {
    "headline": "XRP Whales Now Control Most Supply Since 2022",
@@ -613,15 +651,6 @@
    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting"
   },
   {
-   "headline": "XRP takes over New York City subway advertising",
-   "outlet": "U.Today",
-   "date": "2026-10-26",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "XRP-branded ads with US flags and the slogan 'Crypto Responsibly' appeared on subway cars and in stations around 42nd Street ahead of Ripple's Swell conference. Cost, length and scope of the campaign are not officially confirmed.",
-   "url": "https://u.today/xrp-takes-over-new-york-city-subway-advertising"
-  },
-  {
    "headline": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
    "outlet": "CoinDesk",
    "date": "2026-10-22",
@@ -629,24 +658,6 @@
    "reliability": "High",
    "summary": "Support for fixCleanup3_4_0 briefly fell to 26 of 35 validators, resetting its 14-day clock; activation moves from Oct 23 to about Nov 4, and support is now 31 of 35.",
    "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours"
-  },
-  {
-   "headline": "Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
-   "outlet": "Arf (with Ripple)",
-   "date": "2026-10-22",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "Swiss-regulated Arf (about $10B a year in settlement volume) will lend RLUSD on XRPL to licensed payment firms for 1 to 5 days. A later phase depends on validators approving the XLS-65/66 lending amendments. No RLUSD amount was disclosed.",
-   "url": "https://arf.one/arf-and-ripple-partner-to-bring-settlement-liquidity-to-the-xrp-ledger/"
-  },
-  {
-   "headline": "Evernorth files preliminary S-1 for up to 5.2M shares under a Cantor equity facility",
-   "outlet": "Stock Titan (SEC filing summary)",
-   "date": "2026-10-23",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "The Ripple-backed XRP treasury company (Nasdaq: XRPN) registered up to 5,218,935 shares it may sell to Cantor, about $80.7M at the cover price. The filing is not yet effective and does not itself confirm new XRP purchases. A separate Oct 19 prospectus covers 11.5M shares issuable from warrants.",
-   "url": "https://www.stocktitan.net/sec-filings/XRPN/s-1-evernorth-holdings-inc-files-s-1-registration-statement-46d601927aa2.html"
   },
   {
    "headline": "Franklin Templeton adds $150 million of money-market fund shares to XRP Ledger, all in one wallet",
@@ -668,6 +679,39 @@
   }
  ],
  "claims": [
+  {
+   "claim": "JUST IN: BNY Mellon, the world's largest custodian, now supports XRP",
+   "who": "Community accounts on X (e.g. @PacificMist), Oct 27",
+   "date": "Oct 27",
+   "type": "Community",
+   "reliability": "High",
+   "check": "True: BNY's custody platform now supports XRP and RLUSD for institutional clients, per Ripple's release and The Block. It is a custody service; it does not mean BNY is buying XRP. Mainstream-corroborated by crypto press, not yet by general financial press in our search.",
+   "post_url": "https://x.com/PacificMist/status/2115055063005827393",
+   "check_title": "The Block: Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+   "check_url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891"
+  },
+  {
+   "claim": "JUST IN: Ripple $XRP and Robinhood $HOOD officially announce strategic partnership",
+   "who": "Watcher.Guru and many copy accounts on X, Oct 27",
+   "date": "Oct 27",
+   "type": "Community",
+   "reliability": "High",
+   "check": "True, though the deal centers on Ripple's RLUSD stablecoin, Ripple Treasury and Ripple Prime rather than XRP. Robinhood will use RLUSD on the XRP Ledger for institutional settlement.",
+   "post_url": "https://x.com/WatcherGuru/status/2115078386284655055",
+   "check_title": "Cointelegraph: Ripple, Robinhood expand partnership",
+   "check_url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets"
+  },
+  {
+   "claim": "JUST IN: Nearly $60 billion in $XRP transfers recorded overnight. What is going on???",
+   "who": "'JAKE XRP COMMUNITY' account on X, Oct 27",
+   "date": "Oct 27",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No data source given and no outlet reports it. The nearest real figures are a $49.66B on-ledger transfer day on Oct 19 (Santiment, via a crypto blog) and nearly $60B in XRP futures volume for all of September. Transfer volume also counts exchange and internal wallet moves, so it is not buying.",
+   "post_url": "https://x.com/deatonskinseys/status/2115090918218875239",
+   "check_title": "Tangem News: September XRP futures volume near $60 billion",
+   "check_url": "https://tangem.com/en/news/markets/44173-xrp-surges-in-trading-volume-as-ledger-hits-1-trillion/"
+  },
   {
    "claim": "RUMORS: Ripple National Trust Bank will replace the Federal Reserve",
    "who": "Circulating on X; debunked by community account XRP Herald, Oct 27",
@@ -854,39 +898,6 @@
    "post_url": "https://x.com/XRPMoonWalkK/status/2114242119846035574",
    "check_title": "TokenPost: Ripple schedules up to 1 billion XRP escrow release for Nov. 1",
    "check_url": "https://www.tokenpost.com/news/investing/29537"
-  },
-  {
-   "claim": "BlackRock's Max Stein highlights a blockchain-agnostic future as XRP ETF rumors surface; holders watch his Swell appearance for signals",
-   "who": "@MackAttackXRP (about 540 views)",
-   "date": "Oct 25",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "Stein is listed on a Swell panel and has said BlackRock is 'agnostic to the blockchain', but he did not name XRP, and BlackRock has not filed for or announced an XRP ETF. 'Watch for signals' is speculation. No mainstream corroboration.",
-   "post_url": "https://x.com/MackAttackXRP/status/2114246041675403318",
-   "check_title": "CoinTurk: BlackRock's Max Stein highlights blockchain-agnostic future",
-   "check_url": "https://en.coin-turk.com/blackrocks-max-stein-highlights-blockchain-agnostic-future-xrp-community-reacts/"
-  },
-  {
-   "claim": "XRP supercycle incoming? $45.50 price target viral as Ripple secures massive $10B payments partner",
-   "who": "@barronturmp8 (name mimics Barron Trump), copied by other accounts",
-   "date": "Oct 25",
-   "type": "Rumor",
-   "reliability": "Contradicted",
-   "check": "Misreads the Arf partnership: $10B is Arf's own annual settlement volume, not a deal size or committed XRP Ledger volume, and the deal uses RLUSD, not XRP. The price target has no source. Lookalike account name. No mainstream corroboration.",
-   "post_url": "https://x.com/barronturmp8/status/2114153724461363211",
-   "check_title": "Arf: Arf and Ripple partner to bring settlement liquidity to the XRP Ledger",
-   "check_url": "https://arf.one/arf-and-ripple-partner-to-bring-settlement-liquidity-to-the-xrp-ledger/"
-  },
-  {
-   "claim": "JUST IN: Evernorth named Ripple, Kraken, Coinbase and BitGo as execution partners to begin deploying its 473 million XRP treasury",
-   "who": "@JakeClavers4dc",
-   "date": "Oct 25",
-   "type": "Community",
-   "reliability": "Low",
-   "check": "Real, but old: Evernorth announced this on Oct 14, subject to closing conditions and approvals, with no amounts disclosed. Reposting it as 'just in' makes it look new.",
-   "post_url": "https://x.com/JakeClavers4dc/status/2114167754634707115",
-   "check_title": "Evernorth press release (Oct 14)",
-   "check_url": "https://ir.evernorth.xyz/news-releases/news-release-details/evernorth-begin-deploying-473-million-xrp-treasury-ripple-kraken"
   }
  ]
 }
