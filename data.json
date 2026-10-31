@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Fri Oct 30, 2026, 3:26 AM MDT",
-  "last_updated_mt": "Fri Oct 30, 2026, 3:26 AM MDT",
-  "price": 1.26,
-  "latest_point": 1.2561,
-  "change_24h_pct": -2.89,
-  "market_cap_usd": 79540941017.81352,
-  "volume_24h_usd": 3632690631.5712523,
-  "cross_check": "$1.2550 last trade on Kraken, 3:26 AM MDT (Kraken 24h range $1.1969 to $1.3169)",
+  "fetched_mt": "Sat Oct 31, 2026, 3:22 AM MDT",
+  "last_updated_mt": "Sat Oct 31, 2026, 3:22 AM MDT",
+  "price": 1.25,
+  "latest_point": 1.2455,
+  "change_24h_pct": -1.03,
+  "market_cap_usd": 78892420626.0125,
+  "volume_24h_usd": 2017609818.9514806,
+  "cross_check": "$1.2450 last trade on Kraken, 3:23 AM MDT (Kraken 24h range $1.2267 to $1.2608)",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -2.9,
-  "change_30d_pct": -15.7,
-  "change_90d_pct": 18.5,
+  "change_7d_pct": -4.1,
+  "change_30d_pct": -16.6,
+  "change_90d_pct": 14.7,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-08-01",
-   1.0599
-  ],
   [
    "2026-08-02",
    1.0856
@@ -375,23 +371,28 @@
   [
    "2026-10-29",
    1.2357
+  ],
+  [
+   "2026-10-30",
+   1.2548
   ]
  ],
  "confirmed": [
-  "XRP is about $1.26 early Friday, down about 2.9% over 24 hours, about 2.9% lower than 7 days ago and about 16% below 30 days ago (CoinGecko snapshot, 3:26 AM MDT; Kraken last trade $1.2550, 24h range $1.1969 to $1.3169). Crypto sold off Thursday evening after Binance disclosed a major hack; CoinDesk reported XRP down as much as 7.4% at the lows, with bitcoin briefly under $77,000.",
-  "Binance hack: Binance said Oct 29 that a security incident had an estimated impact of about $6.3 billion, with about $3 billion frozen on-chain, and that it will cover all losses from its SAFU emergency fund and company funds (Binance announcement, CNBC, BBC). TRM Labs attributes it to North Korea's TraderTraitor group and says funds moved across ten blockchains including the XRP Ledger. Deposits have resumed; Binance expects withdrawals back within about 48 hours. Binance.US says it was not affected.",
-  "US data Oct 29: Q3 GDP grew at a 3.4% annual pace (forecast 3.2%); September PCE inflation was 3.6% year over year and core PCE 3.1%, both in line with forecasts but up from August. The Fed held rates at 3.75% to 4.00% on Oct 28 in a 10 to 2 vote with two members wanting a hike, and markets still lean toward a December hike (CoinDesk, Cointelegraph). Coinbase reported Q3 revenue of $1.20B to $1.22B, slightly below estimates, with adjusted EBITDA above estimates (CNBC, CoinDesk).",
+  "XRP is about $1.25 early Saturday, down about 1.0% over 24 hours, about 4.1% lower than 7 days ago and about 17% below 30 days ago (CoinGecko snapshot, 3:22 AM MDT; Kraken last trade $1.2450, 24h range $1.2267 to $1.2608). Trading has been quieter after Thursday's Binance-driven selloff; bitcoin is near $77,000.",
+  "Binance hack update: co-CEO Richard Teng said Oct 30 that investigators found more breach points than a single compromised laptop, that the attacker abused Ethereum's EIP-7702 delegation feature to control a hot wallet, and that Binance is targeting a withdrawal restart by Sunday, Nov 1, after security testing, with a full proof-of-reserves report Monday, Nov 2 (CoinDesk, BBC, TokenPost). Binance says it has reserved more than $6.34B to cover the roughly $6.3B loss; about $3B is frozen on-chain. The US Secret Service says it is helping trace the funds and the FBI says it is aware (BBC). Deposits are working; withdrawals are still paused.",
+  "Wall Street had a rough Friday: the S&P 500 fell 1.82% to 7,580.07 and the Dow fell 1.09% on Oct 30 (AP). That followed Oct 29 data showing Q3 GDP up 3.4% and core PCE inflation at 3.1%, and the Fed's Oct 28 hold at 3.75% to 4.00% with two members wanting a hike.",
   "Ripple and Coinbase announced today that RLUSD can now be traded and held in the Coinbase app, Coinbase Exchange and Coinbase Prime, with 1:1 conversion from dollars, and deposits and withdrawals on the XRP Ledger, Base and Ethereum (Ripple, Oct 28). This is about the RLUSD stablecoin, not an XRP listing change.",
   "Moody's rated RLUSD A2 long-term and P-1 short-term on Oct 27, citing reserves mostly in short-term US government assets and cash held at BNY, with a 103% coverage target; it also flagged that holders don't yet have a direct claim on reserves (Moody's, Decrypt, The Block). Ripple separately said it is on track for about a $900M annual product revenue run rate (Ripple, Oct 28), and Garlinghouse said on stage, 'We will never give up on XRP' (U.Today).",
   "BNY now supports XRP and RLUSD custody: Ripple and BNY announced Oct 27 that BNY's Digital Asset Custody platform now supports XRP and RLUSD for institutional clients. Plans to let BNY clients mint and redeem RLUSD directly, and a tokenized trade finance pilot with C2FO on the XRP Ledger, are still subject to approvals. Reported independently by The Block and Cointelegraph.",
   "C2FO and Ripple will bring settlement for C2FO's new Instant Pay product onto the XRP Ledger, using RLUSD, so suppliers paid early get funds in seconds instead of days (Ripple, Oct 27). Settlement is in RLUSD, not XRP.",
   "Ripple and Robinhood partnership: RLUSD is live on Robinhood Chain and Bitstamp by Robinhood and is expected in the Robinhood app later in 2026, with no launch date or eligible states announced yet; Robinhood plans institutional settlement in RLUSD on the XRP Ledger, also with no start date (Ripple, Cointelegraph, CryptoSlate Oct 28).",
   "Ripple's national trust bank got final OCC approval (announced Oct 26). It will manage RLUSD reserves and offer business custody; it cannot take deposits or make loans. Treasury Secretary Bessent appeared with Garlinghouse at Swell on Oct 27 and spoke about stablecoins and dollar strength broadly, not XRP specifically.",
-  "US spot XRP ETFs took in about $8.43M on Oct 29, led by Franklin's XRPZ ($5.57M) and Bitwise ($2.86M), after flat days on Oct 27 and 28; cumulative net inflows are about $1.81B and total net assets about $1.47B (SoSoValue via ChainCatcher).",
+  "US spot XRP ETFs had a small net outflow of about $497K on Oct 30: Canary's XRPC took in $922K and Grayscale's GXRP lost $725K. That came after an $8.43M inflow on Oct 29. Cumulative net inflows are about $1.81B and total net assets about $1.42B (SoSoValue via ChainCatcher).",
   "Swell wrapped up Oct 29 in New York. Garlinghouse said Ripple will prioritize XRP 'any place it makes sense' while also using RLUSD and fiat, and set a five-year ambition for XRP to become a standard for institutional payment rails; he gave no price target (TokenPost, FXStreet citing Bloomberg). Separately, XRP Ledger developers proposed a fixCleanup3_5_0 upgrade tightening rules for 'restricted' tokens; it is not active on mainnet (CoinDesk).",
+  "Maple Finance's own disclosures show about 225 million XRP pledged as collateral for three stablecoin loans totaling about $151.8M, due Dec 4, Dec 12 and Jan 15. Displayed collateral levels are about 178% to 188%, and no margin call or liquidation is reported; a maturity can end in repayment or refinancing, not necessarily a sale (CryptoSlate, TokenPost).",
   "Ripple's regular monthly escrow release of up to 1 billion XRP is scheduled for Nov 1 (6 PM MDT Oct 31). This is routine, not new. An XRP Ledger bug fix (fixCleanup3_4_0) is expected to activate about Nov 4 if validator support holds."
  ],
- "not_confirmed": "The CLARITY Act has not passed the Senate: the 'Senate Banking Committee advances CLARITY Act 15 to 9' posts recycle a May 14, 2026 vote, and the full Senate then failed to advance it 49 to 50 on Sept 15. 'Trump signs crypto bill' posts are false. 'Whales now control nearly 74% of supply' does not match the latest Santiment figure of about 68.5% for 10M+ XRP wallets. The '3.7 million XRPL transactions in a day' figure is real but is from Oct 25, after an unusually low Oct 24, so it is not new. BlackRock's appearance at Swell is a digital-assets director on an asset-manager panel, not a BlackRock XRP deal; no BlackRock XRP ETF filing or BlackRock–Ripple deal exists. No outlet confirms the '$60 billion in XRP transfers overnight' or 'Trump met with Ripple' posts. Ripple is not releasing 1.3 billion XRP on Nov 1. 'Binance XRP open interest CRASHED 28%' posts describe a real CryptoQuant figure, but it is a decline over five weeks (since Sept 22), partly because XRP's price fell, not a sudden crash today. 'XRP holders will get paid just for being active on X, starting next week' names no developer and no program and matches engagement-bait patterns. 'Ripple moved 220 million XRP' posts describe on-chain transfers between Ripple-labelled wallets with no stated purpose; internal moves are common before the Nov 1 escrow release and are not a sale. '17 of the biggest banks are live on SWIFT's ledger' is a Great Reset-style claim with no XRP link shown. 'XRP hit $37,000 on Bybit' posts have no evidence; XRP trades near $1.26 on every major venue. 'XRP holder accumulation jumped from 1M to 190M XRP in two weeks' gives no source or wallet definition. 'The Fed is being told to stand down as XRP gets the green light' has no basis. Price 'what if' posts are speculation with no source. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins or message-me-for-a-guide offers fit common scam patterns. Details are in the rumors section.",
+ "not_confirmed": "The CLARITY Act has not passed the Senate: the 'Senate Banking Committee advances CLARITY Act 15 to 9' posts recycle a May 14, 2026 vote, and the full Senate then failed to advance it 49 to 50 on Sept 15. 'Trump signs crypto bill' posts are false. 'Whales now control nearly 74% of supply' does not match the latest Santiment figure of about 68.5% for 10M+ XRP wallets. The '3.7 million XRPL transactions in a day' figure is real but is from Oct 25, after an unusually low Oct 24, so it is not new. BlackRock's appearance at Swell is a digital-assets director on an asset-manager panel, not a BlackRock XRP deal; no BlackRock XRP ETF filing or BlackRock–Ripple deal exists. No outlet confirms the '$60 billion in XRP transfers overnight' or 'Trump met with Ripple' posts. Ripple is not releasing 1.3 billion XRP on Nov 1. 'Binance XRP open interest CRASHED 28%' posts describe a real CryptoQuant figure, but it is a decline over five weeks (since Sept 22), partly because XRP's price fell, not a sudden crash today. 'XRP holders will get paid just for being active on X, starting next week' names no developer and no program and matches engagement-bait patterns. 'Ripple moved 220 million XRP' posts describe on-chain transfers between Ripple-labelled wallets with no stated purpose; internal moves are common before the Nov 1 escrow release and are not a sale. '17 of the biggest banks are live on SWIFT's ledger' is a Great Reset-style claim with no XRP link shown. 'XRP hit $37,000 on Bybit' posts have no evidence; XRP trades near $1.25 on every major venue. 'XRP holder accumulation jumped from 1M to 190M XRP in two weeks' gives no source or wallet definition. 'The Fed is being told to stand down as XRP gets the green light' has no basis. Price 'what if' posts are speculation with no source. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins or message-me-for-a-guide offers fit common scam patterns. 'XRP eyes a new all-time high' posts give no source; XRP is near $1.25, down about 17% in 30 days. 'Canary ETF clients bought $922K of XRP' is accurate for one fund, but total XRP ETF flows were a small net outflow that day. 'Uphold just launched XRP inheritance' is real but dates to Sept 29, not new. Maple's XRP-backed loans are real, but 'forced token sales' is not established. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -446,21 +447,21 @@
  ],
  "calendar": [
   [
-   "Fri Oct 30 to Sat Oct 31",
-   "Binance withdrawals expected to resume",
-   "Binance said within about 48 hours of its Oct 29 to 30 updates; watch whether outflows stay orderly.",
-   "Mainstream"
-  ],
-  [
-   "Fri Oct 30",
-   "Deribit monthly options expiry",
-   "Large monthly crypto options expiry; can add short-term volatility.",
-   "Crypto press"
-  ],
-  [
    "Nov 1 (6 PM MDT Oct 31)",
    "Monthly XRP escrow release",
    "Up to 1B XRP unlocks as usual; Ripple usually re-locks most of it.",
+   "Crypto press"
+  ],
+  [
+   "Sun Nov 1",
+   "Binance withdrawal restart target",
+   "Binance aims to restart withdrawals in phases after security testing; not guaranteed by that date.",
+   "Mainstream"
+  ],
+  [
+   "Mon Nov 2",
+   "Binance full proof-of-reserves report",
+   "Promised by co-CEO Richard Teng after the hack.",
    "Crypto press"
   ],
   [
@@ -480,9 +481,78 @@
    "GraniteShares 3x XRP ETFs new target date",
    "Issuer's planned effective date for leveraged products; not guaranteed.",
    "Official"
+  ],
+  [
+   "Dec 4 to Jan 15",
+   "Maple XRP-backed loan maturities",
+   "About $151.8M in stablecoin loans backed by about 225M XRP come due; repayment or refinancing is possible.",
+   "Crypto press"
   ]
  ],
  "news": [
+  {
+   "headline": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+   "outlet": "CryptoSlate",
+   "date": "2026-10-31",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Maple's disclosures show about 225M XRP backing three loans with about $151.8M in principal due in December and January. Maturities can end in repayment or refinancing; no margin call is reported.",
+   "url": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/"
+  },
+  {
+   "headline": "US XRP and ZEC spot ETFs record a $5.07M combined net outflow",
+   "outlet": "ChainCatcher",
+   "date": "2026-10-31",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "SoSoValue data for Oct 30: XRP ETFs net outflow about $497K (Canary +$922K, Grayscale −$725K); cumulative inflow $1.809B, net assets $1.419B.",
+   "url": "https://www.chaincatcher.com/en/article/2300604"
+  },
+  {
+   "headline": "Binance discovers multiple breach points in $6.3 billion attack, eyes Sunday reopening",
+   "outlet": "CoinDesk",
+   "date": "2026-10-30",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Teng says the attacker used EIP-7702 delegation to control a hot wallet, Binance has reserved more than $6.34B, and withdrawals should return by Sunday if testing passes. A full proof-of-reserves report is planned for Monday.",
+   "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+  },
+  {
+   "headline": "Binance hack updates: US Secret Service helping to track stolen funds",
+   "outlet": "BBC News",
+   "date": "2026-10-30",
+   "type": "Mainstream",
+   "reliability": "High",
+   "summary": "The Secret Service says investigators are working around the clock to trace and recover funds; the FBI says it is aware. Withdrawals stay off until they pass rigorous testing.",
+   "url": "https://www.bbc.com/news/live/cqrmynd3042gt"
+  },
+  {
+   "headline": "How major US stock indexes fared Friday 10/30/2026",
+   "outlet": "AP News",
+   "date": "2026-10-30",
+   "type": "Mainstream",
+   "reliability": "High",
+   "summary": "The S&P 500 fell 140.32 points (1.82%) to 7,580.07 and the Dow fell 572.25 points (1.09%) to 51,770.31.",
+   "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-a01d3551e794fed1a0c317c20bc3f0a2"
+  },
+  {
+   "headline": "Binance Targets Nov. 1 Withdrawal Restart, Plans Reserve Report",
+   "outlet": "TokenPost",
+   "date": "2026-10-30",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Deposits work normally; withdrawals remain suspended. The Nov 1 target depends on completing security tests, so it is not a guarantee.",
+   "url": "https://www.tokenpost.com/news/business/44892"
+  },
+  {
+   "headline": "Important Ripple News and XRP Price Update: October 30",
+   "outlet": "CryptoPotato",
+   "date": "2026-10-30",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Weekly recap of Swell announcements (Coinbase, Robinhood, BNY, Moody's, OCC). Notes XRP hit a multi-month low near $1.19 during the Binance selloff.",
+   "url": "https://cryptopotato.com/important-ripple-news-and-xrp-price-update-october-30/"
+  },
   {
    "headline": "Binance's $6.3 billion hack: What we know and what comes next",
    "outlet": "CNBC",
@@ -538,15 +608,6 @@
    "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o"
   },
   {
-   "headline": "Live updates: Binance confirms security breach, cryptos fall",
-   "outlet": "CoinDesk",
-   "date": "2026-10-29",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "Running coverage of Oct 29: Q3 GDP 3.4%, core PCE 3.1% in line, Coinbase Q3 results, then a late selloff with XRP down 7.4% at the lows as the Binance news spread.",
-   "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
-  },
-  {
    "headline": "Coinbase (COIN) earnings Q3 2026",
    "outlet": "CNBC",
    "date": "2026-10-29",
@@ -599,90 +660,64 @@
    "reliability": "Medium",
    "summary": "Second outlet confirming Garlinghouse's Swell remarks: 'We will never give up on XRP,' with RLUSD described as complementary rather than a rival.",
    "url": "https://beincrypto.com/ripple-ceo-xrp-rlusd-rumors-swell/"
-  },
-  {
-   "headline": "Fed leaves interest rates unchanged, as expected",
-   "outlet": "CoinDesk",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "The Fed held its range at 3.75% to 4.00%. Bitcoin edged up to about $81,000 and the 10-year Treasury yield rose about 4 bp to 5.025%.",
-   "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
-  },
-  {
-   "headline": "Bitcoin shrugs off a hawkish Fed as volatility bets barely budge",
-   "outlet": "Unchained via Yahoo Finance",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "10 to 2 vote with Cook and Hammack dissenting for a hike; Warsh offered no dovish signal. December hike odds rose to about 82.6% (CME FedWatch); bitcoin options volatility was essentially unchanged.",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-shrugs-off-hawkish-fed-220347204.html"
-  },
-  {
-   "headline": "Ripple and Coinbase Partner to Expand Access to Ripple USD",
-   "outlet": "Ripple",
-   "date": "2026-10-28",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "RLUSD is live on Coinbase Prime, Coinbase Exchange and the Coinbase app with 1:1 dollar conversion; deposits and withdrawals on XRPL, Base and Ethereum. International exchange support, including use as collateral, comes later.",
-   "url": "https://ripple.com/ripple-press/ripple-and-coinbase-partner-to-expand-access-to-rlusd/"
-  },
-  {
-   "headline": "Ripple reports banner year approaching $900M annual product revenue run rate",
-   "outlet": "Ripple",
-   "date": "2026-10-28",
-   "type": "Official",
-   "reliability": "High",
-   "summary": "Ripple's own Swell kickoff release: on track to exit 2026 at about $900M annualized product revenue, with 1,700+ institutional customers. Company-reported figures, not audited.",
-   "url": "https://ripple.com/ripple-press/ripple-reports-banner-year-approaching-900m-product-revenue-run-rate-signs-multi-solution-partnerships/"
-  },
-  {
-   "headline": "Moody's assigns investment-grade ratings to Ripple's RLUSD stablecoin",
-   "outlet": "The Block",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "A2 long-term and P-1 short-term deposit ratings for RLUSD issued by Ripple's Standard Custody & Trust Co.; reserves mostly T-bills and cash at BNY with a 103% coverage target.",
-   "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969"
-  },
-  {
-   "headline": "Moody's rates Ripple's $2.6B RLUSD stablecoin A2, a day after OCC bank approval",
-   "outlet": "Decrypt",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "Notes Moody's caveats: the issuer is not bankruptcy-remote and holders lack a direct ownership interest in reserves today; the GENIUS Act taking effect in 2027 would address that. The rating was requested by the issuer.",
-   "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval"
-  },
-  {
-   "headline": "'We Will Never Give Up on XRP': Ripple CEO Ends Speculations",
-   "outlet": "U.Today",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "At the Swell main stage, Garlinghouse pushed back on claims Ripple is abandoning XRP for RLUSD, calling the two complementary.",
-   "url": "https://u.today/we-will-never-give-up-on-xrp-ripple-ceo-ends-speculations"
-  },
-  {
-   "headline": "XRP Open Interest Falls 28% on Binance to $445 Million by Oct. 27",
-   "outlet": "TokenPost",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "CryptoQuant's Darkfost: Binance XRP futures open interest fell 28% since Sept 22, below its 180-day average, partly from the lower price and liquidations. Analysts call it deleveraging; past-pattern rebound talk is not a forecast.",
-   "url": "https://www.tokenpost.com/news/investing/42705"
-  },
-  {
-   "headline": "Robinhood links 29 million app users to Ripple's XRP Ledger",
-   "outlet": "CryptoSlate",
-   "date": "2026-10-28",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Careful read of the Robinhood deal: RLUSD in the Robinhood app is expected later in 2026 with no date or eligible jurisdictions announced, and planned XRP Ledger settlement has no start date. The '29 million users' headline is Robinhood's user base, not users of XRPL today.",
-   "url": "https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/"
   }
  ],
  "claims": [
+  {
+   "claim": "JUST IN: Canary ETF clients but $922K worth of $XRP.",
+   "who": "Community account on X, Oct 31 (copied by many accounts)",
+   "date": "Oct 31",
+   "type": "Community",
+   "reliability": "Medium",
+   "check": "Accurate for Canary's XRPC on Oct 30 per SoSoValue, but it leaves out that Grayscale's GXRP lost $725K and total US XRP ETF flows were a small net outflow (about $497K) that day.",
+   "post_url": "https://x.com/WhaleInsider/status/2116394665062617558",
+   "check_title": "ChainCatcher: SoSoValue XRP ETF data, Oct 30",
+   "check_url": "https://www.chaincatcher.com/en/article/2300604"
+  },
+  {
+   "claim": "🚨 JUST IN: $XRP eyes a new all-time high as the dust settles.",
+   "who": "Community account on X, Oct 30",
+   "date": "Oct 30",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No source, data or reasoning is given. XRP is near $1.25 and down about 17% over 30 days.",
+   "post_url": "https://x.com/RippleXity/status/2116277246189273562",
+   "check_title": "",
+   "check_url": ""
+  },
+  {
+   "claim": "🚨JUST IN: Maple reportedly has around $281 million in $XRP collateral tied to loans, with $151.8 million in stablecoin debt approaching December and January maturities.",
+   "who": "Community account on X, Oct 31 (others add 'risking forced token sales')",
+   "date": "Oct 31",
+   "type": "Community",
+   "reliability": "High",
+   "check": "The figures match Maple's disclosures as reported by CryptoSlate and TokenPost. 'Forced sales' is not established: maturities can end in repayment or refinancing, and no margin call is reported.",
+   "post_url": "https://x.com/strivex_/status/2116447820349943893",
+   "check_title": "CryptoSlate: Maple locks $280M in XRP collateral",
+   "check_url": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/"
+  },
+  {
+   "claim": "🚨 JUST IN: Binance Says It Will Pay Everyone Back... XRP Holders, Here's The CATCH (BREAKING CRYPTO NEWS)?",
+   "who": "Community video account on X, Oct 30",
+   "date": "Oct 30",
+   "type": "Rumor",
+   "reliability": "Low",
+   "check": "Binance has said it will cover all losses from company funds (CoinDesk, BBC). No specific 'catch' for XRP holders is reported; the headline is clickbait framing.",
+   "post_url": "https://x.com/BullrunnersHQ/status/2116316720952647696",
+   "check_title": "CoinDesk: Binance eyes Sunday reopening",
+   "check_url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+  },
+  {
+   "claim": "🚨 JUST IN: Uphold Just Launched XRP INHERITANCE... And It EXPOSES A Huge Gap For XRP Holders (WILD CRYPTO NEWS)?",
+   "who": "Community video accounts on X, Oct 30 to 31",
+   "date": "Oct 31",
+   "type": "Community",
+   "reliability": "Medium",
+   "check": "Uphold's Vault Inheritance for XRP, BTC and HBAR is real but launched Sept 29, 2026, so it is not 'just' launched.",
+   "post_url": "https://x.com/XRPQUEENxpio/status/2116442208589222241",
+   "check_title": "Bitcoin.com News: Uphold adds XRP, Bitcoin inheritance",
+   "check_url": "https://news.bitcoin.com/featured/uphold-adds-xrp-bitcoin-inheritance-citing-331-billion-stranded/"
+  },
   {
    "claim": "🚨JUST IN: An $XRP Ledger developer reveals that XRP holders will GET PAID simply for being active on X, WITHOUT having to hold XRP anymore, starting NEXT WEEK!",
    "who": "Community account on X, Oct 30 (copied by many accounts)",
@@ -770,17 +805,6 @@
    "post_url": "https://x.com/1Oczko/status/2115730630243942563",
    "check_title": "",
    "check_url": ""
-  },
-  {
-   "claim": "🚨JUST IN: $XRP open interest on Binance just CRASHED 28%.",
-   "who": "Many copy-paste XRP accounts on X, Oct 28",
-   "date": "Oct 28",
-   "type": "Community",
-   "reliability": "Medium",
-   "check": "Real figure, misleading framing. CryptoQuant's data shows Binance XRP open interest down about 28% since Sept 22, to about $445M on Oct 27, partly because XRP's price fell 17% in that time. It is a five-week decline in leverage, not a crash today.",
-   "post_url": "https://x.com/Kha1idAf/status/2115472672649785554",
-   "check_title": "TokenPost: XRP Open Interest Falls 28% on Binance to $445 Million by Oct. 27",
-   "check_url": "https://www.tokenpost.com/news/investing/42705"
   }
  ]
 }
