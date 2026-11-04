@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Tue Nov 3, 2026, 3:21 AM MST",
-  "last_updated_mt": "Tue Nov 3, 2026, 3:21 AM MST",
-  "price": 1.25,
-  "latest_point": 1.2544,
-  "change_24h_pct": 0.49,
-  "market_cap_usd": 79462585356.41415,
-  "volume_24h_usd": 1307920350.6956208,
-  "cross_check": "$1.2538 last trade on Kraken, 3:21 AM MST (Kraken 24h range $1.2336 to $1.2617)",
+  "fetched_mt": "Wed Nov 4, 2026, 3:21 AM MST",
+  "last_updated_mt": "Wed Nov 4, 2026, 3:21 AM MST",
+  "price": 1.28,
+  "latest_point": 1.2827,
+  "change_24h_pct": 2.26,
+  "market_cap_usd": 81261467723.25345,
+  "volume_24h_usd": 2545020323.7534103,
+  "cross_check": "$1.2829 last trade on Kraken, 3:21 AM MST (Kraken 24h range $1.2402 to $1.2892)",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -5.6,
-  "change_30d_pct": -17.5,
-  "change_90d_pct": 18.2,
+  "change_7d_pct": -3.2,
+  "change_30d_pct": -14.9,
+  "change_90d_pct": 24.1,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-08-05",
-   1.0613
-  ],
   [
    "2026-08-06",
    1.0339
@@ -375,25 +371,28 @@
   [
    "2026-11-02",
    1.2488
+  ],
+  [
+   "2026-11-03",
+   1.2761
   ]
  ],
  "confirmed": [
-  "XRP is about $1.25 early Tuesday, up about 0.5% over 24 hours, about 5.6% lower than 7 days ago and about 17% below 30 days ago (CoinGecko snapshot, 3:21 AM MST; Kraken last trade $1.2538, 24h range $1.2336 to $1.2617). Bitcoin was near $76,800 on Monday (CNBC).",
-  "Binance published the full zero-knowledge proof for its Oct 31 proof-of-reserves snapshot on Monday, Nov 2, so users can check that balances in 10 tokens, including XRP and RLUSD, were backed at least 1:1 at that time; it is not a full audit, and about 5% of the hacked assets (less-liquid tokens) are still being replaced (The Block, Crypto Briefing, Unchained). Phase two of withdrawals began at 04:00 UTC Tuesday (9 PM MST Monday) across nine networks including the XRP Ledger, rolling out pair by pair; another reserve snapshot is planned for Wed Nov 4 (Reuters, Cointelegraph). Net outflows slowed to about $2.57B on Monday from $6.1B on Sunday (DefiLlama via Cointelegraph).",
-  "Today, Tue Nov 3, is the US midterm election. Democrats are widely expected to win the House, with the Senate less certain (CNBC). Crypto groups have spent about $176M on the races (Reuters). The CLARITY market-structure bill stalled in the Senate in September, and any crypto bill in the next Congress still needs 60 Senate votes (CNBC, CoinDesk).",
+  "XRP is about $1.28 early Wednesday, up about 2.3% over 24 hours, about 3.2% lower than 7 days ago and about 15% below 30 days ago (CoinGecko snapshot, 3:21 AM MST; Kraken last trade $1.2829, 24h range $1.2402 to $1.2892). Bitcoin dipped to about $75,600 overnight, a seven-week low, then rebounded above $78,000 (Cointelegraph, CoinDesk, Reuters).",
+  "Binance published the full zero-knowledge proof for its Oct 31 proof-of-reserves snapshot on Monday, Nov 2, so users can check that balances in 10 tokens, including XRP and RLUSD, were backed at least 1:1 at that time; it is not a full audit, and about 5% of the hacked assets (less-liquid tokens) are still being replaced (The Block, Crypto Briefing, Unchained). Phase two of withdrawals began at 04:00 UTC Tuesday (9 PM MST Monday) across nine networks including the XRP Ledger, rolling out pair by pair; another reserve snapshot covering more tokens is planned for today, Wed Nov 4, with its proof expected about 40 to 50 hours later (Reuters, Cointelegraph, Unchained). Net outflows slowed to about $2.57B on Monday from $6.1B on Sunday (DefiLlama via Cointelegraph).",
+  "Democrats won control of both the House and the Senate in Tuesday's midterm elections (AP via Cointelegraph, Reuters). Crypto markets fell overnight on the results, then recovered; analysts quoted by Reuters and Crypto Briefing say a Democratic Congress may slow market-structure bills such as the stalled CLARITY Act and increase scrutiny of Trump-linked crypto ventures. New members take office in January.",
   "Ripple and Coinbase announced Oct 28 that RLUSD can now be traded and held in the Coinbase app, Coinbase Exchange and Coinbase Prime, with 1:1 conversion from dollars, and deposits and withdrawals on the XRP Ledger, Base and Ethereum (Ripple, Oct 28). This is about the RLUSD stablecoin, not an XRP listing change.",
   "Moody's rated RLUSD A2 long-term and P-1 short-term on Oct 27, citing reserves mostly in short-term US government assets and cash held at BNY, with a 103% coverage target; it also flagged that holders don't yet have a direct claim on reserves (Moody's, Decrypt, The Block). Ripple separately said it is on track for about a $900M annual product revenue run rate (Ripple, Oct 28), and Garlinghouse said on stage, 'We will never give up on XRP' (U.Today).",
   "BNY now supports XRP and RLUSD custody: Ripple and BNY announced Oct 27 that BNY's Digital Asset Custody platform now supports XRP and RLUSD for institutional clients. Plans to let BNY clients mint and redeem RLUSD directly, and a tokenized trade finance pilot with C2FO on the XRP Ledger, are still subject to approvals. Reported independently by The Block and Cointelegraph.",
   "Ripple and Robinhood partnership: RLUSD is live on Robinhood Chain and Bitstamp by Robinhood and is expected in the Robinhood app later in 2026, with no launch date or eligible states announced yet; Robinhood plans institutional settlement in RLUSD on the XRP Ledger, also with no start date (Ripple, Cointelegraph, CryptoSlate Oct 28).",
-  "Ripple's national trust bank got final OCC approval (announced Oct 26). It will manage RLUSD reserves and offer business custody; it cannot take deposits or make loans. Treasury Secretary Bessent appeared with Garlinghouse at Swell on Oct 27 and spoke about stablecoins and dollar strength broadly, not XRP specifically.",
-  "US spot XRP ETFs saw about $529,510 in net outflows on Mon Nov 2, after about +$4.3M for the week of Oct 26 to 30 (SoSoValue via crypto.news and TokenPost). Cumulative net inflows are about $1.81B and total net assets about $1.42B. US spot bitcoin ETFs lost nearly $399M the same day.",
-  "RLUSD supply on the XRP Ledger fell about 28% in one day, from about 982 million to 707 million tokens between Oct 30 and Oct 31 UTC, while RLUSD on Ethereum rose about 5.7% (TokenPost, CryptoSlate citing DefiLlama). The cause is not established; Ripple has rebalanced RLUSD between chains before. A main XRP/RLUSD trading pool on the ledger changed by less than 1%.",
-  "SEC Chair Paul Atkins said on Oct 30 at the Economic Club of Dallas that 'most crypto assets are not themselves securities,' pointing to the agency's proposed Regulation Crypto Assets, which is still a proposal (24/7 Wall St). Ripple CEO Brad Garlinghouse said about half of RLUSD now sits on the XRP Ledger and the rest on Ethereum (TokenPost, Oct 31).",
+  "US spot XRP ETFs had no net flows on Tue Nov 3, after about $529,510 of net outflows on Mon Nov 2 (SoSoValue via TokenPost and ChainCatcher). Cumulative net inflows are about $1.81B and total net assets about $1.46B.",
+  "Ripple minted about 110.57 million RLUSD on the XRP Ledger in one transaction at 20:43 UTC on Nov 2, the largest single RLUSD issuance on the ledger so far, followed by about 38.8 million more that evening (on-chain record via Bitcoin.com News, Coin Edition). That brings RLUSD on the ledger to about 859 million, back up from about 707 million on Oct 31; RLUSD's total market cap across chains is about $2.56B. A mint creates stablecoins, not XRP demand by itself.",
+  "SEC Chair Paul Atkins said on Oct 30 at the Economic Club of Dallas that 'most crypto assets are not themselves securities,' pointing to the agency's proposed Regulation Crypto Assets, which is still a proposal (24/7 Wall St). Ripple CEO Brad Garlinghouse wrote on X on Nov 3 that 'RLUSD isn't competing with XRP. It's competing with other stablecoins' (The Crypto Basic).",
   "Maple Finance's own disclosures show about 225 million XRP pledged as collateral for three stablecoin loans totaling about $151.8M, due Dec 4, Dec 12 and Jan 15. Displayed collateral levels are about 178% to 188%, and no margin call or liquidation is reported; a maturity can end in repayment or refinancing, not necessarily a sale (CryptoSlate, TokenPost).",
   "Ripple's November escrow cycle is complete: 1 billion XRP was released at 00:00 UTC Nov 1 (6 PM MDT Oct 31), and Ripple re-locked 700 million XRP in three new escrows that open in June and July 2029, leaving 300 million XRP outside escrow, the same pattern as September and October (TokenPost, Coinpaper, Whale Alert). That does not show the 300 million were sold. XRP Insights counts about 31.1 billion XRP still in 99 Ripple escrows.",
   "An XRP Ledger fix, fixCleanup3_4_0, is set to activate about 7:46 AM MST Wednesday, Nov 4, if support from 33 of 35 tracked validators holds. It closes a loophole where an account allowed only to burn issued tokens (such as stablecoins) could create new ones in some cases; CoinDesk found no record of it being exploited, and XRP's own supply is not affected (CoinDesk, XRPLWin)."
  ],
- "not_confirmed": "The CLARITY Act has not passed the Senate: the 'Senate Banking Committee advances CLARITY Act 15 to 9' posts recycle a May 14, 2026 vote, and the full Senate then failed to advance it 49 to 50 on Sept 15. 'Trump signs crypto bill' posts are false. 'Whales now control nearly 74% of supply' does not match the latest Santiment figure of about 68.5% for 10M+ XRP wallets. The '3.7 million XRPL transactions in a day' figure is real but is from Oct 25, after an unusually low Oct 24, so it is not new. BlackRock's appearance at Swell is a digital-assets director on an asset-manager panel, not a BlackRock XRP deal; no BlackRock XRP ETF filing or BlackRock–Ripple deal exists. No outlet confirms the '$60 billion' or '$73 billion in XRP transfers overnight' posts or the 'Trump met with Ripple' posts. Ripple is not releasing 1.3 billion XRP on Nov 1. 'Binance XRP open interest CRASHED 28%' posts describe a real CryptoQuant figure, but it is a decline over five weeks (since Sept 22), partly because XRP's price fell, not a sudden crash today. 'XRP holders will get paid just for being active on X, starting next week' names no developer and no program and matches engagement-bait patterns. 'Ripple moved 220 million XRP' posts describe on-chain transfers between Ripple-labelled wallets with no stated purpose; internal moves are common around escrow releases and are not a sale. '17 of the biggest banks are live on SWIFT's ledger' is a Great Reset-style claim with no XRP link shown. 'XRP hit $37,000 on Bybit' posts have no evidence; XRP trades near $1.25 on every major venue. 'XRP holder accumulation jumped from 1M to 190M XRP in two weeks' gives no source or wallet definition. 'The Fed is being told to stand down as XRP gets the green light' has no basis. Price 'what if' posts are speculation with no source. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins or message-me-for-a-guide offers fit common scam patterns. 'XRP eyes a new all-time high' posts give no source; XRP is near $1.25, down about 17% in 30 days. 'Canary ETF clients bought $922K of XRP' is accurate but is one fund on Oct 30, still being reposted as new; total XRP ETF flows were about +$4.3M for that week and about -$0.5M on Nov 2. 'Uphold just launched XRP inheritance' is real but dates to Sept 29, not new. Maple's XRP-backed loans are real, but 'forced token sales' is not established. 'North Korea's $6.3 billion XRP heist' posts are wrong: the $6.3B was taken from Binance hot wallets across many networks and assets, not XRP alone. 'RLUSD enters Aave DeFi' is not new: RLUSD has had Aave markets on Ethereum for some time, and Aave does not run on the XRP Ledger. 'XRP is set to obliterate the anti-XRP army' gives no source or event. 'Kalshi traders expect XRP to reach $1.40 this month' overstates it: Kalshi's November market prices XRP topping $1.40 at any point before Nov 30 at roughly 50%, a coin flip, not a forecast. 'Garlinghouse confirmed Ripple will become a major SWIFT shareholder by Nov 24' has no source; Ripple has announced nothing of the kind. '$196.88 per XRP within days' posts label themselves rumors and give no basis. 'Stablecoin supply on the XRP Ledger just surpassed $1 billion' recycles a Q3 report; RLUSD on the ledger fell to about 707 million on Oct 31. Details are in the rumors section.",
+ "not_confirmed": "The CLARITY Act has not passed the Senate: the 'Senate Banking Committee advances CLARITY Act 15 to 9' posts recycle a May 14, 2026 vote, and the full Senate then failed to advance it 49 to 50 on Sept 15. 'Trump signs crypto bill' posts are false. 'Whales now control nearly 74% of supply' does not match the latest Santiment figure of about 68.5% for 10M+ XRP wallets. The '3.7 million XRPL transactions in a day' figure is real but is from Oct 25, after an unusually low Oct 24, so it is not new. BlackRock's appearance at Swell is a digital-assets director on an asset-manager panel, not a BlackRock XRP deal; no BlackRock XRP ETF filing or BlackRock–Ripple deal exists. No outlet confirms the '$60 billion' or '$73 billion in XRP transfers overnight' posts or the 'Trump met with Ripple' posts. Ripple is not releasing 1.3 billion XRP on Nov 1. 'Binance XRP open interest CRASHED 28%' posts describe a real CryptoQuant figure, but it is a decline over five weeks (since Sept 22), partly because XRP's price fell, not a sudden crash today. 'XRP holders will get paid just for being active on X, starting next week' names no developer and no program and matches engagement-bait patterns. 'Ripple moved 220 million XRP' posts describe on-chain transfers between Ripple-labelled wallets with no stated purpose; internal moves are common around escrow releases and are not a sale. '17 of the biggest banks are live on SWIFT's ledger' is a Great Reset-style claim with no XRP link shown. 'XRP hit $37,000 on Bybit' posts have no evidence; XRP trades near $1.25 on every major venue. 'XRP holder accumulation jumped from 1M to 190M XRP in two weeks' gives no source or wallet definition. 'The Fed is being told to stand down as XRP gets the green light' has no basis. Price 'what if' posts are speculation with no source. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins or message-me-for-a-guide offers fit common scam patterns. 'XRP eyes a new all-time high' posts give no source; XRP is near $1.25, down about 17% in 30 days. 'Canary ETF clients bought $922K of XRP' is accurate but is one fund on Oct 30, still being reposted as new; total XRP ETF flows were about +$4.3M for that week and about -$0.5M on Nov 2. 'Uphold just launched XRP inheritance' is real but dates to Sept 29, not new. Maple's XRP-backed loans are real, but 'forced token sales' is not established. 'North Korea's $6.3 billion XRP heist' posts are wrong: the $6.3B was taken from Binance hot wallets across many networks and assets, not XRP alone. 'RLUSD enters Aave DeFi' is not new: RLUSD has had Aave markets on Ethereum for some time, and Aave does not run on the XRP Ledger. 'XRP is set to obliterate the anti-XRP army' gives no source or event. 'Kalshi traders expect XRP to reach $1.40 this month' overstates it: Kalshi's November market prices XRP topping $1.40 at any point before Nov 30 at roughly 50%, a coin flip, not a forecast. 'Garlinghouse confirmed Ripple will become a major SWIFT shareholder by Nov 24' has no source; Ripple has announced nothing of the kind. '$196.88 per XRP within days' posts label themselves rumors and give no basis. 'Stablecoin supply on the XRP Ledger just surpassed $1 billion' recycles a Q3 report; RLUSD on the ledger fell to about 707 million on Oct 31. 'Bloomberg spotlights XRP in 10 early races' misreads a Bloomberg election headline ('Blue Ripple or Wave?') that is about House districts, not Ripple or XRP. 'Bitrue hints XRP could reach a new all-time high this year' is not supported by Bitrue's own analysis, which discusses near-term support and resistance; XRP's high is $3.65, about 185% above today's price. '$XRP is erupting' describes a roughly 2% daily move that tracked bitcoin. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -448,27 +447,21 @@
  ],
  "calendar": [
   [
-   "Tue Nov 3 (today)",
-   "US midterm elections",
-   "Results could affect crypto legislation such as the stalled CLARITY Act.",
-   "Mainstream"
-  ],
-  [
-   "Tue Nov 3 onward",
+   "Since Nov 3",
    "Binance phase-two withdrawals",
    "Began 04:00 UTC; 103 coin-network pairs on nine networks reopen one by one after security checks.",
    "Official"
   ],
   [
-   "Wed Nov 4, about 7:46 AM MST",
+   "Today, Wed Nov 4, about 7:46 AM MST",
    "XRPL fixCleanup3_4_0 activation",
    "If validator support stays above 80% through the 14-day window that began Oct 21.",
    "Crypto press"
   ],
   [
-   "Wed Nov 4",
+   "Today, Wed Nov 4",
    "Binance new reserve snapshot",
-   "Covers more tokens; Binance says the zero-knowledge proof takes about 40 to 50 hours to generate after the snapshot.",
+   "Covers more tokens than the Oct 31 snapshot; Binance says the zero-knowledge proof takes about 40 to 50 hours to generate, so roughly Nov 6.",
    "Crypto press"
   ],
   [
@@ -485,6 +478,60 @@
   ]
  ],
  "news": [
+  {
+   "headline": "Crypto tracks stocks higher after Democrat midterm wins",
+   "outlet": "Reuters (via Yahoo Finance)",
+   "date": "2026-11-04",
+   "type": "Mainstream",
+   "reliability": "High",
+   "summary": "Cryptocurrencies recovered Wednesday from overnight losses after Democrats won both houses of Congress. Bitcoin briefly hit a six-week low, then traded up 0.7% at $78,354 by 0841 GMT.",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-dips-democrat-midterm-wins-073507740.html"
+  },
+  {
+   "headline": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm uncertainty fades",
+   "outlet": "CoinDesk",
+   "date": "2026-11-04",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Bitcoin fell just below $76,000 as Democrats won Congress, then recovered to about $78,300; traders bought about $420M of call options on election day.",
+   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+  },
+  {
+   "headline": "2026 US midterm election live updates: Democrats win both chambers",
+   "outlet": "Cointelegraph",
+   "date": "2026-11-04",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Democrats won the House (per AP) and the Senate. Results could affect the stalled CLARITY Act and bring more scrutiny of Trump's crypto ventures; crypto-backed Sen. Pete Ricketts held Nebraska.",
+   "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto"
+  },
+  {
+   "headline": "Ripple CEO says RLUSD competes with other stablecoins, not XRP",
+   "outlet": "The Crypto Basic",
+   "date": "2026-11-04",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Garlinghouse replied on X on Nov 3: 'RLUSD isn't competing with XRP. It's competing with other stablecoins.' The article notes RLUSD payments don't automatically create XRP demand.",
+   "url": "https://thecryptobasic.com/2026/11/04/ripple-ceo-steps-in-to-support-xrp-against-rlusd/"
+  },
+  {
+   "headline": "Binance reopens XRP withdrawals while Ripple mints $110M in RLUSD in one go",
+   "outlet": "Bitcoin.com News",
+   "date": "2026-11-03",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Ripple issued 110.57M RLUSD on the XRP Ledger at 20:43 UTC Nov 2, the largest single mint there, with about 38.8M more after; XRPL RLUSD is now about 859M.",
+   "url": "https://news.bitcoin.com/altcoins/ripple-mints-110m-rlusd-binance-reopens-xrp-withdrawals/"
+  },
+  {
+   "headline": "Altcoin spot ETFs: HYPE alone draws inflows; XRP flat",
+   "outlet": "TokenPost",
+   "date": "2026-11-03",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "XRP spot ETFs recorded no net flows on Nov 3 (SoSoValue). Cumulative net inflows $1.81B; net assets $1.46B.",
+   "url": "https://www.tokenpost.com/news/investing/48196"
+  },
   {
    "headline": "Binance begins second withdrawal phase, exchange outflows slow",
    "outlet": "Cointelegraph",
@@ -522,15 +569,6 @@
    "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
   },
   {
-   "headline": "Dollar declines ahead of U.S. midterms as oil falls; bitcoin steadies after crypto theft",
-   "outlet": "CNBC",
-   "date": "2026-11-02",
-   "type": "Mainstream",
-   "reliability": "High",
-   "summary": "Bitcoin fell 1.16% to about $76,841 Monday as markets waited on Tuesday's midterm elections; Binance customers have withdrawn almost $5B since it reopened.",
-   "url": "https://www.cnbc.com/2026/11/02/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist.html"
-  },
-  {
    "headline": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
    "outlet": "CoinDesk",
    "date": "2026-11-02",
@@ -538,81 +576,53 @@
    "reliability": "Medium",
    "summary": "fixCleanup3_4_0 is on track for about 14:46 UTC Nov 4 with 33 of 35 validators. It stops burn-only delegates from minting issued tokens; no known exploit; XRP supply unaffected.",
    "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens"
-  },
-  {
-   "headline": "Binance sees $3.64 billion in net outflows as withdrawals resume",
-   "outlet": "CNBC",
-   "date": "2026-11-02",
-   "type": "Mainstream",
-   "reliability": "High",
-   "summary": "Binance says it processed $4.65B in withdrawals and $1.01B in deposits on Nov 1, about 2.1% of its $171B in assets, and that withdrawal volumes were stabilizing. All 15 phase-one networks, including XRP, reopened by 12:36 UTC.",
-   "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html"
-  },
-  {
-   "headline": "Binance Has Shed $16B Since The Hack as Its Proof Lands Tuesday",
-   "outlet": "Bitcoin.com News",
-   "date": "2026-11-02",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "DefiLlama shows Binance's tracked assets down about $16.6B since Oct 29, a figure that also reflects falling prices and the stolen funds. The full zero-knowledge reserve proof is now due by Nov 3 UTC.",
-   "url": "https://news.bitcoin.com/exchanges/binance-sheds-15-7b-proof-of-reserves-tuesday/"
-  },
-  {
-   "headline": "Ripple Returns 700 Million XRP to Escrow After November Release",
-   "outlet": "TokenPost",
-   "date": "2026-11-02",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Three EscrowCreate transactions (500M plus two 100M) re-locked 700M of the 1B released, leaving 300M outside escrow. The transactions do not show any sale. Matches Whale Alert's lock records.",
-   "url": "https://www.tokenpost.com/news/investing/46261"
-  },
-  {
-   "headline": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
-   "outlet": "CryptoSlate",
-   "date": "2026-11-02",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "DefiLlama showed XRPL RLUSD supply down 28.7% on Oct 31 while Ethereum RLUSD rose 5.7%. The cause is unresolved; a main XRP/RLUSD pool moved less than 1%.",
-   "url": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/"
-  },
-  {
-   "headline": "U.S. XRP Spot ETFs Add $4.33 Million in Weekly Net Inflows",
-   "outlet": "TokenPost",
-   "date": "2026-11-02",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "SoSoValue data for Oct 26 to 30: XRPZ +$5.57M, XRPC +$922K, Bitwise -$1.44M. Cumulative inflows $1.81B, net assets $1.42B.",
-   "url": "https://www.tokenpost.com/news/investing/46108"
-  },
-  {
-   "headline": "Binance Restores XRP, Ether (ETH) and USDC Withdrawal Routes",
-   "outlet": "TokenPost",
-   "date": "2026-11-01",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "XRP withdrawals over the XRP network reopened on Nov 1, along with ETH and USDC on Base, after bitcoin and some Ethereum and BNB Chain routes.",
-   "url": "https://www.tokenpost.com/news/business/45791"
-  },
-  {
-   "headline": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
-   "outlet": "Reuters (via Investing.com)",
-   "date": "2026-11-01",
-   "type": "Mainstream",
-   "reliability": "High",
-   "summary": "Bitcoin withdrawals resumed shortly after 06:00 GMT Sunday, with ether, BNB and some stablecoins next. Binance says it covered 95% of the stolen tokens with company money; the FBI has tied the heist to North Korea.",
-   "url": "https://www.investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388"
-  },
-  {
-   "headline": "1 Billion XRP on Move as Ripple Makes First Escrow Release in November",
-   "outlet": "U.Today",
-   "date": "2026-11-01",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Whale Alert reported two 500M XRP unlocks. Ripple has usually re-locked about 700M of each release; this month's re-lock was not yet reported.",
-   "url": "https://u.today/1-billion-xrp-on-move-as-ripple-makes-first-escrow-release-in-november?amp="
   }
  ],
  "claims": [
+  {
+   "claim": "🚨JUST IN: $110.6 MILLION worth of RLUSD minted directly on the XRP Ledger.",
+   "who": "Community account on X, Nov 3 (about 800 views)",
+   "date": "Nov 3",
+   "type": "Community",
+   "reliability": "High",
+   "check": "Accurate: the on-chain record shows 110.57M RLUSD issued at 20:43 UTC Nov 2, reported by Bitcoin.com News and Coin Edition. It is new stablecoin supply, not XRP buying.",
+   "post_url": "https://x.com/Chloe_XRPL/status/2117631037719114158",
+   "check_title": "Bitcoin.com News: Ripple mints $110M in RLUSD in one go",
+   "check_url": "https://news.bitcoin.com/altcoins/ripple-mints-110m-rlusd-binance-reopens-xrp-withdrawals/"
+  },
+  {
+   "claim": "JUST IN: 🚨 Bloomberg spotlights XRP in 10 early races to watch on Tuesday night.",
+   "who": "Small account on X, Nov 3",
+   "date": "Nov 3",
+   "type": "Rumor",
+   "reliability": "Low",
+   "check": "Misreading. The Bloomberg article, 'Blue Ripple or Wave? 10 Early Races to Watch,' is about House districts signaling a Democratic wave. It does not mention Ripple the company or XRP.",
+   "post_url": "https://x.com/popmemecoin/status/2117634764882452874",
+   "check_title": "Bloomberg: Early election results in 10 districts could signal House control",
+   "check_url": "https://www.bloomberg.com/news/articles/2026-11-03/blue-ripple-or-wave-10-early-races-to-watch-on-tuesday-night"
+  },
+  {
+   "claim": "🚨JUST IN: Major $XRP exchange Bitrue hints that XRP could reach a NEW ALL-TIME HIGH this year.",
+   "who": "Large community account on X, Nov 3 (about 3.3K views)",
+   "date": "Nov 3",
+   "type": "Rumor",
+   "reliability": "Low",
+   "check": "Bitrue's published analysis discusses near-term support around $1.23 and resistance around $1.31, not a record target. A new high above $3.65 would need roughly a 185% gain from about $1.28.",
+   "post_url": "https://x.com/Steph_iscrypto/status/2117632911927066753",
+   "check_title": "AInvest: XRP's 'breakout' and new all-time high are different claims",
+   "check_url": "https://www.ainvest.com/news/xrp-breakout-time-high-claims-185-gap-2611/"
+  },
+  {
+   "claim": "🚨JUST IN: $XRP is erupting.",
+   "who": "Large community account on X, Nov 3 (about 11K views)",
+   "date": "Nov 3",
+   "type": "Community",
+   "reliability": "Low",
+   "check": "No figures given. XRP rose about 2% over 24 hours, in line with bitcoin's roughly 1.8% move, after a dip on midterm results (CoinGecko, Cointelegraph).",
+   "post_url": "https://x.com/Steph_iscrypto/status/2117640446000140403",
+   "check_title": "",
+   "check_url": ""
+  },
   {
    "claim": "🚨 JUST IN: Brad Garlinghouse has reportedly confirmed that Ripple will become a major shareholder of SWIFT by November 24th, potentially allowing SWIFT to integrate $XRP for global payments!",
    "who": "Large community account on X, Nov 3 (about 4.4K views)",
@@ -656,50 +666,6 @@
    "post_url": "https://x.com/officiallindell/status/2117430819438342198",
    "check_title": "Coinpaper: XRP Ledger Stablecoin Supply Hits $1.03B",
    "check_url": "https://coinpaper.com/38190/xrp-ledger-stablecoin-supply-hits-1-03-billion-as-transfers-jump-39-5-to-14-billion"
-  },
-  {
-   "claim": "🚨JUST IN: Nearly $73 BILLION in $XRP transfers recorded overnight. Wtf is going on???",
-   "who": "Community account on X, Nov 1",
-   "date": "Nov 1",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "No source, explorer link or wallet is given, and no outlet reports it. It repeats the pattern of last week's '$60 billion overnight' posts. XRP's whole market value is about $79B.",
-   "post_url": "https://x.com/3tdwarrior001/status/2117068117952344183",
-   "check_title": "",
-   "check_url": ""
-  },
-  {
-   "claim": "JUST IN: $XRP price currently forecasted to go as $1.40 this month, per Kalshi traders.",
-   "who": "Large community news account on X, Nov 2 (about 27K views, copied by others)",
-   "date": "Nov 1",
-   "type": "Community",
-   "reliability": "Low",
-   "check": "Kalshi does run a November market on whether XRP trades above $1.40 at any point before Nov 30, and it was priced around 50% (about even odds). That is a bet on a single touch, not a forecast that XRP will get there or stay there.",
-   "post_url": "https://x.com/WhaleInsider/status/2117144891239371004",
-   "check_title": "Kalshi: How high will XRP get in November?",
-   "check_url": "https://kalshi.com/markets/kxxrpmaxmon/xrp-max-monthly/kxxrpmaxmon-xrp-26nov30"
-  },
-  {
-   "claim": "JUST IN: Canary Capital clients bought 741,980 XRP worth approximately $922,000 through its spot ETF. Institutional demand continues to flow into XRP.",
-   "who": "Community account on X, Nov 1 (about 15K views, copied by others)",
-   "date": "Nov 1",
-   "type": "Community",
-   "reliability": "Medium",
-   "check": "Canary's XRPC did take in about $922K, but that was Oct 30 and it is being reposted as new. Total US spot XRP ETF flows were about +$4.3M for the whole week of Oct 26 to 30 (SoSoValue via TokenPost).",
-   "post_url": "https://x.com/BankXRP/status/2117106269807075478",
-   "check_title": "TokenPost: U.S. XRP Spot ETFs Add $4.33 Million in Weekly Net Inflows",
-   "check_url": "https://www.tokenpost.com/news/investing/46108"
-  },
-  {
-   "claim": "JUST IN: RLUSD supply on the XRP Ledger dropped 29% in a day, but the main trading pool's reserves barely changed.",
-   "who": "Community account on X, Nov 1",
-   "date": "Nov 1",
-   "type": "Community",
-   "reliability": "High",
-   "check": "Accurate: DefiLlama and ledger snapshots show XRPL RLUSD supply fell about 28% between Oct 30 and Oct 31 while Ethereum RLUSD rose. The cause is not established, and the drop is not evidence of a run on RLUSD.",
-   "post_url": "https://x.com/TradeLabsAI/status/2117100487002763423",
-   "check_title": "CryptoSlate: RLUSD supply fell 29% on XRPL",
-   "check_url": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/"
   }
  ]
 }
