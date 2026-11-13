@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Thu Nov 12, 2026, 3:24 AM MST",
-  "last_updated_mt": "Thu Nov 12, 2026, 3:24 AM MST",
-  "price": 1.054,
-  "latest_point": 1.054,
-  "change_24h_pct": -0.68,
-  "market_cap_usd": 66906616483,
-  "volume_24h_usd": 1529351568,
-  "cross_check": "$1.0538 last trade on Kraken, 3:24 AM MST (Kraken 24h range $1.0361 to $1.0795)",
+  "fetched_mt": "Fri Nov 13, 2026, 3:24 AM MST",
+  "last_updated_mt": "Fri Nov 13, 2026, 3:24 AM MST",
+  "price": 1.028,
+  "latest_point": 1.028,
+  "change_24h_pct": -2.37,
+  "market_cap_usd": 65318973070,
+  "volume_24h_usd": 2099024567,
+  "cross_check": "$1.0270 last trade on Kraken, 3:24 AM MST (Kraken 24h range $0.9967 to $1.0555)",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -20.2,
-  "change_30d_pct": -22.6,
-  "change_90d_pct": 5.5,
+  "change_7d_pct": -14.2,
+  "change_30d_pct": -24.7,
+  "change_90d_pct": 2.6,
   "range_90d": "$0.99 (Aug 16) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-08-14",
-   0.9986
-  ],
   [
    "2026-08-15",
    1.0018
@@ -375,21 +371,25 @@
   [
    "2026-11-11",
    1.0518
+  ],
+  [
+   "2026-11-12",
+   1.0402
   ]
  ],
  "confirmed": [
-  "XRP is about $1.05 early Thursday, down about 0.7% over 24 hours, about 20% lower than 7 days ago and about 23% below 30 days ago (CoinGecko snapshot, 3:24 AM MST; $1.0538 last trade on Kraken (Kraken 24h range $1.0361 to $1.0795)). Wednesday's daily close was about $1.05, near the 60-session low of about $1.03 set Tuesday. XRP trades below its 50-, 100- and 200-day averages (about $1.27, $1.29 and $1.35), and the daily RSI momentum gauge is near 23 to 24, in oversold territory, which does not by itself signal a bottom (FXStreet). Analysts are watching $1.00 as the main support level; that is opinion, not a forecast.",
-  "Bitcoin held near $73,000 to $74,000 on Wednesday after Tuesday's hotter-than-expected October CPI, even as stocks rebounded on CoreWeave earnings; CME FedWatch put the odds of a quarter-point Fed hike in December near 90% (CoinDesk). US spot bitcoin ETFs had a fourth straight day of outflows ($95M on Tuesday), crypto futures liquidations jumped to about $725M in 24 hours, and XRP open interest fell 3.8% against a 1.8% price drop, a sign of leveraged money leaving rather than new shorts (CoinGlass via CoinDesk).",
-  "US spot XRP ETFs had no net flows on Wed Nov 11, after outflows of about $10.4M on Nov 9 and $7.6M on Nov 10 (SoSoValue via FXStreet, CryptoPotato). The last day with net inflows was Oct 29. Cumulative net inflows are about $1.8B and net assets about $1.2B.",
+  "XRP is about $1.03 early Friday, down about 2.4% over 24 hours, about 14% lower than 7 days ago and about 25% below 30 days ago (CoinGecko snapshot, 3:24 AM MST; $1.0270 last trade on Kraken (Kraken 24h range $0.9967 to $1.0555)). Overnight it briefly traded just under $1.00 on Kraken for the first time since August. Thursday's daily close was about $1.04, and its intraday low of about $1.015 was the weakest in 60 sessions (The Crypto Basic). FXStreet counts a ninth straight day of declines, with XRP below its 50-, 100- and 200-day averages (about $1.26, $1.29 and $1.34) and the daily RSI momentum gauge near 22, deep in oversold territory, which does not by itself signal a bottom. Analysts cite $1.00 and the Aug 17 low near $0.99 as levels to watch; that is opinion, not a forecast.",
+  "Bitcoin fell to about $71,000 on Thursday, its lowest since August, and slid further to below $69,000 overnight (FXStreet). MarketWatch and The Block tied Thursday's drop to Nvidia CEO Jensen Huang's abrupt resignation hitting tech stocks, MSCI's decision to drop bitcoin holder Strategy (MSTR) from its indexes on Nov 30, and five straight days of US spot bitcoin ETF outflows totaling about $1.44B (CoinDesk). The 10-year Treasury yield rose above 5.1% and fed funds futures price about a quarter-point Fed hike in December (Reuters via Bitcoin Magazine). Crypto liquidations topped $750M on Thursday, mostly long positions (CoinGlass via The Block).",
+  "US spot XRP ETFs had no net flows on Thu Nov 12, the second flat day in a row, after outflows of about $10.4M on Nov 9 and $7.6M on Nov 10 (SoSoValue via TokenPost). The last day with net inflows was Oct 29. Cumulative net inflows are about $1.80B and net assets about $1.16B.",
   "On the XRP Ledger, the proposed native lending amendment has 22 of 35 trusted-validator votes, up from 19 in mid-October, and the SingleAssetVault amendment it depends on has 23; each needs 29 held for two straight weeks, so neither is live and there is no activation date (CoinDesk, Nov 12). The design offers fixed-term loans with no borrower collateral, relying on off-chain underwriting by loan brokers. Separately, XRPL developers will reset Testnet and Devnet on Nov 25, wiping test accounts; the main XRP Ledger is not affected (CryptoPotato).",
+  "XRP Ledger unique senders, a measure of active accounts, rose to about 41,700, roughly 42% above the 30-day average of about 29,300 and a four-month high, though far below the all-time high of about 106,000 (TokenPost, U.Today). Payment volume jumped about 207% to about 1.16B XRP on Nov 9 (XRPScan via TokenPost). Both count activity, including exchange transfers during a sell-off, not buying.",
   "At Ripple's Swell 2026 event, CEO Brad Garlinghouse said Ripple's large XRP holdings do not give it control of the XRP Ledger: Ripple runs one of the 35 validators on the recommended list, and holding XRP carries no voting weight (DailyCoin, Nov 10). Ripple does control the timing of its own escrow releases.",
-  "XRP Ledger payment volume jumped about 207% to about 1.16B XRP on Nov 9, roughly double its 30-day average (XRPScan data via TokenPost); that counts XRP moved in payments, including exchange transfers, and is not a measure of buying. Santiment counts about 343,500 wallets holding at least 10,000 XRP, up about 16,800 (5.2%) since Feb 9 (via Bitcoin.com News); wallet counts can shift with transfers and custody changes.",
   "Ripple CTO Emeritus David Schwartz said in X posts on Nov 9 and 10 that his holdings are down from a high of about 26M XRP to about 3M, from about 1,500 BTC to 1, and from about 40,000 ETH to 6; he sold about 2.5M XRP in 2025. He cited his own discomfort with risk, said sales are pre-arranged in writing with an attorney at least 30 days ahead, and still holds Ripple stock. He also told frustrated holders there is 'no secret plan' (crypto.news, Coinpedia). These are personal sales over years, not a new Ripple sale.",
   "Binance reopened withdrawals for HYPE and APT (TokenPost, Nov 9) and is targeting about Fri Nov 13 for its remaining paused tokens (INJ, PLASMA, NEAR, LTC) and all tokens on already-restored networks; that is a target, not a guarantee (Binance Recovery Update #9 via MABOnChain). XRP withdrawals on the XRP Ledger reopened Nov 3 and XRP on Ethereum on Nov 6.",
   "BNY now supports XRP and RLUSD custody: Ripple and BNY announced Oct 27 that BNY's Digital Asset Custody platform now supports XRP and RLUSD for institutional clients. Plans to let BNY clients mint and redeem RLUSD directly, and a tokenized trade finance pilot with C2FO on the XRP Ledger, are still subject to approvals (The Block, Cointelegraph).",
   "Ripple's November escrow cycle is complete: 1 billion XRP was released at 00:00 UTC Nov 1, and Ripple re-locked 700 million XRP in three new escrows that open in June and July 2029, leaving 300 million XRP outside escrow, the same pattern as September and October (TokenPost, Coinpaper, Whale Alert). That does not show the 300 million were sold."
  ],
- "not_confirmed": "The CLARITY Act has not passed the Senate: the 'Senate Banking Committee advances CLARITY Act 15 to 9' posts recycle a May 14, 2026 vote, and the full Senate then failed to advance it 49 to 50 on Sept 15. 'Trump signs crypto bill' posts are false. 'U.S. has signed a bill to replace FedNow with a next-generation payment system powered by XRP' and 'RealToken on XRP Ledger will unlock $650 trillion on Nov 14' posts are false; no such law or unlock exists. '$28,000 per XRP' price predictions and 'if you hold 500+ XRP you might already be a millionaire' posts are speculation with no source. 'Convert your funds into XRP as banks go cashless' and 'get money out of the bank / financial reset' posts are engagement bait with no official basis. 'Whales now control nearly 74% of supply' does not match the latest Santiment figure of about 68.5% for 10M+ XRP wallets. BlackRock's appearance at Swell is a digital-assets director on an asset-manager panel, not a BlackRock XRP deal. No outlet confirms the '$60 billion' or '$73 billion in XRP transfers overnight' posts or the 'Trump met with Ripple' posts. 'XRP hit $37,000 on Bybit' posts have no evidence; XRP trades near $1.20 on every major venue. 'The Fed is being told to stand down as XRP gets the green light' has no basis. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins or message-me-for-a-guide offers fit common scam patterns. 'North Korea's $6.3 billion XRP heist' posts are wrong: the $6.3B was taken from Binance hot wallets across many networks and assets, not XRP alone. 'XRP shorts on Bitfinex surge 652.89% to 468.2 MILLION' does not match Bitfinex's public margin data. 'Central banks agreed on a $5,000 set price for XRP' has no source. 'Explosive Goldman Sachs connection to XRP' is a teaser for a video with no document. 'Bloomberg spotlights XRP in 10 early races' misreads a Bloomberg election headline about House districts. 'Garlinghouse confirmed Ripple will become a major SWIFT shareholder by Nov 24' has no source. '$196.88 per XRP within days' posts label themselves rumors and give no basis. 'Bank of America announces an official large-scale partnership with Ripple' posts are false: neither company has announced one; BofA's documented link is as a connected bank in Ripple Treasury's (GTreasury) software gateway, not an XRP deal. 'Warren says the CLARITY Act will blow up the economy' recycles a May 2026 committee-hearing quote, not new news. 'Trump XRP payment claims, Nov 22' has no source. 'A $60 trillion bank just said which one it wants, XRP or XLM' is a video teaser with no named bank or document. 'Trump has signed an order opening 401(k)s to crypto' posts this weekend are not new: no new order was signed; the pending step is the Labor Department's final 401(k) alternatives rule, under White House review since Nov 5. '99.5% chance of XRP at $3,300 per coin, insane SEC filing' is a video teaser that names no filing. 'Frustrated XRP investors threatening to sell everything once they break even' is commentary, not data. 'Nearly $83 billion in XRP transfers recorded overnight' posts name no source or on-chain tracker, and follow the same template as earlier '$60 billion' and '$73 billion' posts. 'CNBC calls XRP the hottest crypto trade of the year' clips recycle a Jan 6, 2026 CNBC Power Lunch segment, when XRP was near $2.40. 'Kevin Warsh officially sworn in as Fed Chair' is old news: he took office May 22, 2026. 'Fed XRP settlement testing' and '20% XRP burn' claims have no source. 'Former Ripple employee says this is where millionaires are made' names no one. 'ETF clients buy $3 million of XRP, bringing ETF net assets to $1.43 billion' is contradicted: XRP ETFs had about $10.4M of outflows on Nov 9 and net assets near $1.24B. 'XRP Ledger introduces quantum-proof accounts' overstates a draft roadmap design that is not live. 'Senator Van Hollen will not vote for the CLARITY Act' is not new: he opposed it in May and voted no on Sept 15. 'Former Goldman Sachs analyst warns $0.30 is next' names no one. 'A newly activated wallet received $167.7 million of XRP' gives no transaction or source. 'Ripple's founder dumped nearly all his XRP' posts misstate a real disclosure: David Schwartz is a former CTO and XRP Ledger co-architect, not Ripple's founder, and says he still holds about 3M XRP plus Ripple stock. 'Kazakhstan's central bank invested $100 million in crypto funds, including XRP' is half right: the roughly $100M fund allocation is reported (Bloomberg via crypto.news), but no report names XRP. 'Brad Garlinghouse says long-term XRP holders will be very happy, something big may be coming' gives no date, video or source. 'A valuation report says 500 XRP could be worth $1.1 million by 2028' names no report, implies about $2,200 per XRP, and is attached to a token promotion. '$280 million of certified diamonds tokenized on XRP' is recycled from February. 'A former SWIFT engineer predicts a $100 to $250 XRP repricing in 2027' names no engineer and gives no basis; it is a prediction, not news. 'Ripple Mint launches' posts dated this week recycle a July 23, 2026 Ripple announcement. Details are in the rumors section.",
+ "not_confirmed": "The CLARITY Act has not passed the Senate: the 'Senate Banking Committee advances CLARITY Act 15 to 9' posts recycle a May 14, 2026 vote, and the full Senate then failed to advance it 49 to 50 on Sept 15. 'Trump signs crypto bill' posts are false. 'U.S. has signed a bill to replace FedNow with a next-generation payment system powered by XRP' and 'RealToken on XRP Ledger will unlock $650 trillion on Nov 14' posts are false; no such law or unlock exists. '$28,000 per XRP' price predictions and 'if you hold 500+ XRP you might already be a millionaire' posts are speculation with no source. 'Convert your funds into XRP as banks go cashless' and 'get money out of the bank / financial reset' posts are engagement bait with no official basis. 'Whales now control nearly 74% of supply' does not match the latest Santiment figure of about 68.5% for 10M+ XRP wallets. BlackRock's appearance at Swell is a digital-assets director on an asset-manager panel, not a BlackRock XRP deal. No outlet confirms the '$60 billion' or '$73 billion in XRP transfers overnight' posts or the 'Trump met with Ripple' posts. 'XRP hit $37,000 on Bybit' posts have no evidence; XRP trades near $1.20 on every major venue. 'The Fed is being told to stand down as XRP gets the green light' has no basis. 'Reset is live' countdowns, 'QFS card' help desks, airdrops and move-your-coins or message-me-for-a-guide offers fit common scam patterns. 'North Korea's $6.3 billion XRP heist' posts are wrong: the $6.3B was taken from Binance hot wallets across many networks and assets, not XRP alone. 'XRP shorts on Bitfinex surge 652.89% to 468.2 MILLION' does not match Bitfinex's public margin data. 'Central banks agreed on a $5,000 set price for XRP' has no source. 'Explosive Goldman Sachs connection to XRP' is a teaser for a video with no document. 'Bloomberg spotlights XRP in 10 early races' misreads a Bloomberg election headline about House districts. 'Garlinghouse confirmed Ripple will become a major SWIFT shareholder by Nov 24' has no source. '$196.88 per XRP within days' posts label themselves rumors and give no basis. 'Bank of America announces an official large-scale partnership with Ripple' posts are false: neither company has announced one; BofA's documented link is as a connected bank in Ripple Treasury's (GTreasury) software gateway, not an XRP deal. 'Warren says the CLARITY Act will blow up the economy' recycles a May 2026 committee-hearing quote, not new news. 'Trump XRP payment claims, Nov 22' has no source. 'A $60 trillion bank just said which one it wants, XRP or XLM' is a video teaser with no named bank or document. 'Trump has signed an order opening 401(k)s to crypto' posts this weekend are not new: no new order was signed; the pending step is the Labor Department's final 401(k) alternatives rule, under White House review since Nov 5. '99.5% chance of XRP at $3,300 per coin, insane SEC filing' is a video teaser that names no filing. 'Frustrated XRP investors threatening to sell everything once they break even' is commentary, not data. 'Nearly $83 billion in XRP transfers recorded overnight' posts name no source or on-chain tracker, and follow the same template as earlier '$60 billion' and '$73 billion' posts. 'CNBC calls XRP the hottest crypto trade of the year' clips recycle a Jan 6, 2026 CNBC Power Lunch segment, when XRP was near $2.40. 'Kevin Warsh officially sworn in as Fed Chair' is old news: he took office May 22, 2026. 'Fed XRP settlement testing' and '20% XRP burn' claims have no source. 'Former Ripple employee says this is where millionaires are made' names no one. 'ETF clients buy $3 million of XRP, bringing ETF net assets to $1.43 billion' is contradicted: XRP ETFs had about $10.4M of outflows on Nov 9 and net assets near $1.24B. 'XRP Ledger introduces quantum-proof accounts' overstates a draft roadmap design that is not live. 'Senator Van Hollen will not vote for the CLARITY Act' is not new: he opposed it in May and voted no on Sept 15. 'Former Goldman Sachs analyst warns $0.30 is next' names no one. 'A newly activated wallet received $167.7 million of XRP' gives no transaction or source. 'Ripple's founder dumped nearly all his XRP' posts misstate a real disclosure: David Schwartz is a former CTO and XRP Ledger co-architect, not Ripple's founder, and says he still holds about 3M XRP plus Ripple stock. 'Kazakhstan's central bank invested $100 million in crypto funds, including XRP' is half right: the roughly $100M fund allocation is reported (Bloomberg via crypto.news), but no report names XRP. 'Brad Garlinghouse says long-term XRP holders will be very happy, something big may be coming' gives no date, video or source. 'A valuation report says 500 XRP could be worth $1.1 million by 2028' names no report, implies about $2,200 per XRP, and is attached to a token promotion. '$280 million of certified diamonds tokenized on XRP' is recycled from February. 'A former SWIFT engineer predicts a $100 to $250 XRP repricing in 2027' names no engineer and gives no basis; it is a prediction, not news. 'Ripple Mint launches' posts dated this week recycle a July 23, 2026 Ripple announcement. 'Global reset' and 'XRP reset' posts are wrong about the main ledger: the only reset scheduled is for the XRPL Testnet and Devnet developer networks on Nov 25, and real XRP on mainnet is not affected. 'Raymond James disclosed XRP ETF holdings in its 13F' is unverified: no outlet reports it and the 13F summaries we checked do not show an XRP ETF position. Details are in the rumors section.",
  "legend": [
   [
    "Official",
@@ -446,7 +446,7 @@
   [
    "Dec 9",
    "Fed rate decision",
-   "After the hotter October CPI, CME FedWatch put the odds of a quarter-point December hike near 90% (CoinDesk).",
+   "Fed funds futures price about a quarter-point December hike (Reuters via Bitcoin Magazine); CME FedWatch put the odds near 90% (CoinDesk).",
    "Mainstream"
   ],
   [
@@ -460,6 +460,12 @@
    "XRPL Testnet and Devnet reset",
    "Developer test networks will be wiped and restarted; the main XRP Ledger and real XRP balances are not affected (CryptoPotato).",
    "Crypto press"
+  ],
+  [
+   "Nov 30",
+   "MSCI removes Strategy (MSTR) from its indexes",
+   "Index funds tracking MSCI benchmarks may have to sell the bitcoin-holding company's stock; not an XRP event, but it weighs on crypto sentiment (MarketWatch, The Block).",
+   "Mainstream"
   ],
   [
    "Dec 31",
@@ -481,6 +487,78 @@
   ]
  ],
  "news": [
+  {
+   "headline": "Crypto Today: Bitcoin, Ethereum, XRP extend losses as bears tighten their grip",
+   "outlet": "FXStreet",
+   "date": "2026-11-13",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Bitcoin below $69,000, Ether below $2,000, and XRP just above $1.00 on a ninth straight day of declines; daily RSI near 22. Price levels are analyst opinion.",
+   "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-losses-as-bears-tighten-their-grip-202611130929"
+  },
+  {
+   "headline": "Crypto Price Analysis, Nov. 13: Bitcoin slides 6.7% as XRP tests $1",
+   "outlet": "The Crypto Basic",
+   "date": "2026-11-13",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "XRP closed Thursday near $1.04 after a $1.015 low, the weakest in 60 sessions; a four-hour candle touched about $0.997. Technical levels are opinion.",
+   "url": "https://thecryptobasic.com/2026/11/13/crypto-price-analysis-btc-xrp-sui-link-and-zec-nov-13-bitcoin-slides-6-7-as-xrp-tests-1/"
+  },
+  {
+   "headline": "Bitcoin tumbles below $72,000 in pile-up of AI jitters, crypto concerns",
+   "outlet": "MarketWatch",
+   "date": "2026-11-12",
+   "type": "Mainstream",
+   "reliability": "High",
+   "summary": "Bitcoin fell about 4% as Nvidia confirmed CEO Jensen Huang's exit and MSCI set new rules that drop Strategy from its global indexes on Nov 30.",
+   "url": "https://www.marketwatch.com/story/bitcoin-tumbles-below-72-000-in-pile-up-of-ai-jitters-crypto-concerns-2nd-update-8e73e266"
+  },
+  {
+   "headline": "Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets",
+   "outlet": "The Block",
+   "date": "2026-11-12",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "Bitcoin traded as low as $71,200; Ether, Solana and XRP each fell more than 3.5% in 24 hours, and over $750M of positions were liquidated (CoinGlass).",
+   "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
+  },
+  {
+   "headline": "Bitcoin slips with tech stocks as Nvidia CEO turmoil and ETF outflows weigh",
+   "outlet": "CoinDesk",
+   "date": "2026-11-12",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "US spot bitcoin ETFs lost $299.9M Wednesday, a fifth straight outflow day totaling about $1.44B; CME FedWatch put December hike odds near 90%.",
+   "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
+  },
+  {
+   "headline": "Altcoin spot ETFs: SOL and Avalanche draw inflows as Zcash loses $9.88 million",
+   "outlet": "TokenPost (SoSoValue data)",
+   "date": "2026-11-12",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "XRP spot ETFs had no net flows on Nov 12, a second flat day; cumulative net inflows $1.80B, net assets $1.16B.",
+   "url": "https://www.tokenpost.com/news/investing/56252"
+  },
+  {
+   "headline": "XRPL validator says the only 'XRP reset' coming is for Testnet and Devnet",
+   "outlet": "The Crypto Basic",
+   "date": "2026-11-12",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "The Nov 25 reset wipes developer test networks after a server failure; XRP Ledger mainnet, real XRP balances and transaction history are unaffected, and holders need to do nothing.",
+   "url": "https://thecryptobasic.com/2026/11/12/xrpl-validator-says-the-only-xrp-reset-thats-coming-is-for-testnet-and-devnet/"
+  },
+  {
+   "headline": "XRP price falls 22% since Garlinghouse's 'never give up' pledge",
+   "outlet": "99Bitcoins via TradingView News",
+   "date": "2026-11-12",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "XRP hit $1.0216 on Binance Thursday, its lowest since August, and is down about 22% since the Oct 28 Swell event versus about 11% for bitcoin; recaps Ripple's RLUSD and ledger plans.",
+   "url": "https://www.tradingview.com/news/99Bitcoins:d3b098edc094b:0-xrp-price-falls-22-since-garlinghouse-s-never-give-up-pledge-what-is-ripple-s-plan/"
+  },
   {
    "headline": "Ripple's bank-lending system moves closer to launch on the XRP Ledger",
    "outlet": "CoinDesk",
@@ -534,81 +612,64 @@
    "reliability": "Medium",
    "summary": "XRPScan data show payment volume about double the 30-day average; it measures XRP moved in payments, not buying demand.",
    "url": "https://www.tokenpost.com/news/investing/53625"
-  },
-  {
-   "headline": "XRP price falls to $1.06 as ETF outflows and bearish momentum weigh",
-   "outlet": "crypto.news",
-   "date": "2026-11-11",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "XRP dipped to about $1.03 intraday after trading above $1.10, with repeated failures to hold above $1.08; ETF outflows and weak sentiment cited. Support and resistance levels are analyst opinion.",
-   "url": "https://crypto.news/xrp-price-falls-to-1-06-as-etf-outflows-and-bearish-momentum-weigh/"
-  },
-  {
-   "headline": "Ripple's David Schwartz says he sold most of his Bitcoin, XRP, Ethereum",
-   "outlet": "crypto.news",
-   "date": "2026-11-11",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "In X posts on Nov 9 and 10, Schwartz said his holdings fell from about 26M XRP to about 3M over the years, cited risk aversion, and said sales are pre-arranged with an attorney at least 30 days ahead.",
-   "url": "https://crypto.news/ripple-david-schwartz-xrp-sales-community-backlash/"
-  },
-  {
-   "headline": "Crypto Today: Bitcoin, Ethereum and XRP struggle to find footing amid spot ETF outflows",
-   "outlet": "FXStreet",
-   "date": "2026-11-11",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "XRP spot ETFs saw nearly $8M of outflows on Tuesday, a second straight day; net assets about $1.19B. XRP near $1.06 with daily RSI about 24 (oversold).",
-   "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-and-xrp-struggle-to-find-footing-amid-spot-etf-outflows-202611111005"
-  },
-  {
-   "headline": "XRP sets a new 60-day low at $1.03",
-   "outlet": "The Crypto Basic",
-   "date": "2026-11-11",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "XRP closed Tuesday near $1.055 after a $1.03011 low, the weakest in 60 daily sessions; it remains below its falling 20- and 50-day averages.",
-   "url": "https://thecryptobasic.com/2026/11/11/crypto-price-analysis-eth-xrp-zec-hype-and-jup-nov-11-zcash-falls-10-as-xrp-sets-new-60-day-low/"
-  },
-  {
-   "headline": "Ripple CEO: big XRP holdings don't mean control",
-   "outlet": "DailyCoin",
-   "date": "2026-11-10",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "At Swell 2026, Garlinghouse said holding XRP gives no control over ledger rules; Ripple runs one of 35 recommended validators.",
-   "url": "https://dailycoin.com/ripple-ceo-big-xrp-holdings-dont-give-ledger-control/"
-  },
-  {
-   "headline": "Bitcoin falls to nearly three-month low after disappointing inflation data",
-   "outlet": "CoinDesk",
-   "date": "2026-11-10",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "October CPI rose 0.4% versus 0.3% expected and core 0.3% versus 0.2%; yields jumped as traders priced in a December Fed hike, and bitcoin barely held $73,000 while ether, XRP and solana fell more.",
-   "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat"
-  },
-  {
-   "headline": "XRP Ledger's quantum plan needs owners to switch off old wallet keys",
-   "outlet": "CoinDesk",
-   "date": "2026-11-10",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "A draft design in the XRPL Foundation's 2027 roadmap would let owners add a quantum-resistant ML-DSA-44 key and disable the old one, with no extra fee. Still in development; not live. Ripple targets a full transition by 2028.",
-   "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
-  },
-  {
-   "headline": "Binance targets Nov 13 to reopen withdrawals for six altcoins",
-   "outlet": "MABOnChain",
-   "date": "2026-11-07",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Recap of Recovery Update #9: HYPE, INJ, APT, PLASMA, NEAR and LTC targeted by the end of next week; each route still needs security checks. No exact day given.",
-   "url": "https://mabonchain.com/news/binance-targets-november-13-six-altcoin-withdrawals-hype-inj-apt/"
   }
  ],
  "claims": [
+  {
+   "claim": "JUST IN: $XRP price down over 15% in the past 7 days.",
+   "who": "@WhaleInsider on X (about 28K views), Nov 13",
+   "date": "Nov 13",
+   "type": "Community",
+   "reliability": "High",
+   "check": "Roughly accurate: CoinGecko showed XRP down about 14% over 7 days at 3:24 AM MST, and other trackers show more depending on the start time. FXStreet counts a ninth straight day of declines.",
+   "post_url": "https://x.com/WhaleInsider/status/2121131020674277867",
+   "check_title": "FXStreet: Crypto Today: Bitcoin, Ethereum, XRP extend losses as bears tighten their grip",
+   "check_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-losses-as-bears-tighten-their-grip-202611130929"
+  },
+  {
+   "claim": "JUST IN: $XRP Ledger activity jumps 42%, with active accounts reaching 41,700!",
+   "who": "@Steph_iscrypto on X (about 2.5K views) and copies, Nov 13",
+   "date": "Nov 13",
+   "type": "Community",
+   "reliability": "Medium",
+   "check": "Real number, missing context: unique senders hit about 41,700, about 42% above the 30-day average and a four-month high, but far below the all-time high near 106,000. Activity during a sell-off includes exchange transfers; it does not show buying.",
+   "post_url": "https://x.com/Steph_iscrypto/status/2121151087067766918",
+   "check_title": "TokenPost: XRP Ledger sender count reaches about 41,700, a four-month high",
+   "check_url": "https://www.tokenpost.com/news/investing/55557"
+  },
+  {
+   "claim": "CHARLIE WARD - THE GLOBAL RESET - WHITE HATS IN CONTROL - TRUST THE PLAN #XRP #XRPL #Reset",
+   "who": "@simple_crypto7 on X, Nov 11",
+   "date": "Nov 11",
+   "type": "Rumor",
+   "reliability": "Contradicted",
+   "check": "The only reset scheduled is for the XRPL Testnet and Devnet developer networks on Nov 25, after a server failure. Mainnet and real XRP balances are not affected, and holders need to do nothing. Anyone asking you to 'move' or 'verify' XRP for a reset fits a common scam pattern.",
+   "post_url": "https://x.com/simple_crypto7/status/2120543504313061679",
+   "check_title": "The Crypto Basic: XRPL validator says the only 'XRP reset' coming is for Testnet and Devnet",
+   "check_url": "https://thecryptobasic.com/2026/11/12/xrpl-validator-says-the-only-xrp-reset-thats-coming-is-for-testnet-and-devnet/"
+  },
+  {
+   "claim": "JUST IN: A $1.94 TRILLION financial giant is now on the XRP ETF holders list. Raymond James Financial has disclosed XRP ETF holdings in its latest SEC 13F filing.",
+   "who": "@Xaif_Crypto, @Alexwest64 and others on X, Nov 13",
+   "date": "Nov 13",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "No outlet reports it, and the summaries of Raymond James's Q3 2026 13F (filed Nov 12, holdings as of Sept 30) that we checked do not show an XRP ETF position. Even if a small position exists, a 13F often reflects client accounts at a broker, not a firm bet.",
+   "post_url": "https://x.com/Xaif_Crypto/status/2121183946784555164",
+   "check_title": "13F.info: Raymond James Financial Q3 2026 13F holdings",
+   "check_url": "https://13f.info/13f/000072000526000081-raymond-james-financial-inc-q3-2026"
+  },
+  {
+   "claim": "JUST IN: '99.5% Chance' of XRP at $3,300 per coin!? INSANE SEC filing...",
+   "who": "@mqgxcIwOBx6BnuO on X, Nov 13",
+   "date": "Nov 13",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "Recycled video teaser (seen here Nov 8) that names no filing. A $3,300 price would value XRP at roughly $200 trillion, about twice the world's annual economic output.",
+   "post_url": "https://x.com/mqgxcIwOBx6BnuO/status/2121045165263716493",
+   "check_title": "",
+   "check_url": ""
+  },
   {
    "claim": "JUST IN: Brad Garlinghouse says Ripple owns billions of $XRP, but that does NOT mean it controls XRP.",
    "who": "@LunarKind0q and many near-identical accounts on X, Nov 11 to 12",
@@ -661,50 +722,6 @@
    "reliability": "Unverified",
    "check": "Names no engineer, gives no basis, and no outlet reports it. A $100 price would value XRP at several trillion dollars. The same text is being copy-pasted across many small accounts, a common engagement pattern.",
    "post_url": "https://x.com/jakerr3/status/2120764536089464916",
-   "check_title": "",
-   "check_url": ""
-  },
-  {
-   "claim": "JUST IN: Ripple CTO Emeritus David Schwartz says he sold nearly all his crypto, cutting holdings from 26M $XRP, 1,500 $BTC and 40,000 $ETH to ~3M $XRP, 1 $BTC and 6 $ETH.",
-   "who": "@CryptoMeterIO and several similar accounts on X, Nov 11",
-   "date": "Nov 11",
-   "type": "Community",
-   "reliability": "High",
-   "check": "Accurate: it matches Schwartz's own X posts on Nov 9 and 10. Context: the sales happened over years, he cites personal risk aversion, sales are pre-arranged with an attorney, and he still holds about 3M XRP and Ripple stock. Posts calling him Ripple's 'founder' are wrong; he is a former CTO and XRP Ledger co-architect.",
-   "post_url": "https://x.com/CryptoMeterIO/status/2120374051415953770",
-   "check_title": "crypto.news: Ripple's David Schwartz says he sold most of his Bitcoin, XRP, Ethereum",
-   "check_url": "https://crypto.news/ripple-david-schwartz-xrp-sales-community-backlash/"
-  },
-  {
-   "claim": "JUST IN: Kazakhstan's Central Bank has officially invested around $100 million in cryptocurrency funds, including $XRP.",
-   "who": "@skipper_xrp on X (about 1.4K views), Nov 11",
-   "date": "Nov 11",
-   "type": "Community",
-   "reliability": "Low",
-   "check": "Half right: Bloomberg (Nov 5) and a Nov 9 interview with a deputy governor report about $190M invested from Kazakhstan's $700M crypto reserve, including about $100M in crypto funds (Ege DeFi, Brevan Howard Digital, PDO). No report names XRP as a holding.",
-   "post_url": "https://x.com/skipper_xrp/status/2120318735810781602",
-   "check_title": "crypto.news: Kazakhstan invests $190M as its $700M crypto reserve takes shape",
-   "check_url": "https://crypto.news/kazakhstan-crypto-reserve-190-million-funds-etfs/"
-  },
-  {
-   "claim": "JUST IN: Brad Garlinghouse says long term #XRP holders will be \"very happy.\" After years of patience... something big may be coming.",
-   "who": "@SenatorLump8 and @CsnLummis on X (accounts styled after Sen. Lummis), Nov 11",
-   "date": "Nov 11",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "Gives no date, video or source for the quote, and no outlet reports a new Garlinghouse statement like this. The posting accounts imitate a senator's name, a common pattern for engagement or scam accounts.",
-   "post_url": "https://x.com/SenatorLump8/status/2120347858155049430",
-   "check_title": "",
-   "check_url": ""
-  },
-  {
-   "claim": "JUST IN: $280 MILLION worth of certified diamonds have now been tokenized on $XRP.",
-   "who": "@AustinCryptoCom on X, Nov 11",
-   "date": "Nov 11",
-   "type": "Community",
-   "reliability": "Low",
-   "check": "Not new: the $280M diamond tokenization claim circulated in February 2026 and has been re-posted as 'just in' several times since. No new announcement this week.",
-   "post_url": "https://x.com/AustinCryptoCom/status/2120401982825398572",
    "check_title": "",
    "check_url": ""
   }
