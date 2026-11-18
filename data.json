@@ -1,25 +1,21 @@
 {
  "snapshot": {
-  "fetched_mt": "Tue Nov 17, 2026, 3:28 AM MST",
-  "last_updated_mt": "Tue Nov 17, 2026, 3:28 AM MST",
-  "price": 0.9551,
-  "latest_point": 0.9553,
-  "change_24h_pct": 0.71,
-  "market_cap_usd": 60656464174.08464,
-  "volume_24h_usd": 1534478824.0141258,
-  "cross_check": "$0.9544 last trade on Kraken, 3:28 AM MST (Kraken 24h range $0.9418 to $0.9765); 7d and 30d changes are CoinGecko rolling figures",
+  "fetched_mt": "Wed Nov 18, 2026, 3:30 AM MST",
+  "last_updated_mt": "Wed Nov 18, 2026, 3:30 AM MST",
+  "price": 0.9975,
+  "latest_point": 0.9975,
+  "change_24h_pct": 4.39,
+  "market_cap_usd": 63356843204.047104,
+  "volume_24h_usd": 1798124700.2468472,
+  "cross_check": "$0.9954 last trade on Kraken, 3:31 AM MST (Kraken 24h range $0.9450 to $1.0068); 7d and 30d changes are CoinGecko rolling figures",
   "source": "CoinGecko public API",
   "source_url": "https://www.coingecko.com/en/coins/xrp",
-  "change_7d_pct": -11.8,
-  "change_30d_pct": -25.8,
-  "change_90d_pct": -13.6,
+  "change_7d_pct": -5.2,
+  "change_30d_pct": -23.4,
+  "change_90d_pct": -21.3,
   "range_90d": "$0.91 (Nov 14) to $1.57 (Sep 22)"
  },
  "closes": [
-  [
-   "2026-08-19",
-   1.1051
-  ],
   [
    "2026-08-20",
    1.2682
@@ -375,16 +371,20 @@
   [
    "2026-11-16",
    0.9546
+  ],
+  [
+   "2026-11-17",
+   0.9829
   ]
  ],
  "confirmed": [
-  "XRP is about $0.955 early Tuesday, roughly flat over 24 hours (CoinGecko, about +0.4% to +0.7% depending on the endpoint) and about 12% lower than 7 days ago (CoinGecko rolling 7-day change; $0.9544 last trade on Kraken, Kraken 24h range $0.9418 to $0.9765). It closed Monday at about $0.955 (CoinGecko daily close), still above Saturday's low of about $0.89, its lowest since November 2024. It is down about 26% over 30 days (CoinGecko). FXStreet's Tuesday note puts XRP well below its 50-, 100- and 200-day averages with RSI near 25, in oversold territory; oversold is not a signal that a bottom is in.",
-  "Bitcoin is about $64,200 to $64,900 early Tuesday, still near the four-month low of about $62,000 hit over the weekend and down for six straight weeks (Investing.com, CoinGecko). US stocks fell Monday (Nasdaq −2.49%, S&P 500 −1.92%), and the Crypto Fear and Greed Index read 12 as of 00:00 UTC Nov 17 (KuCoin daily report). Markets are pricing a 25 or 50 basis point Fed hike in December (CME FedWatch via Investing.com). Strategy said Monday it bought 485 BTC for about $33M (Investing.com).",
+  "XRP is about $0.997 early Wednesday, up about 4.4% over 24 hours (CoinGecko) and about 5% to 6% lower than 7 days ago (CoinGecko rolling 7-day change; $0.9954 last trade on Kraken, Kraken 24h range $0.9450 to $1.0068). It briefly traded back above $1.00 overnight (FXStreet, crypto.news). It closed Tuesday at about $0.983 (CoinGecko daily close), up about 10% from Saturday's low near $0.89, its lowest since November 2024, but is still down about 23% over 30 days (CoinGecko). FXStreet and crypto.news both note XRP remains below its key moving averages, with resistance cited near $1.05 to $1.12; a one-day bounce is not a trend change.",
+  "Bitcoin is about $64,350 to $64,700 early Wednesday, roughly flat over 24 hours and still near the four-month low of about $62,000 hit over the weekend (CoinGecko, FXStreet). The Crypto Fear and Greed Index reads 11, Extreme Fear, down from 12 a day earlier (Alternative.me). FOMC minutes are due Wednesday, and derivatives traders widely expect a 25 basis point Fed hike in December (FXStreet, Nov 18).",
   "Evernorth (Nasdaq: XRPN), the Ripple-backed XRP treasury company, reported cumulative write-downs of about $505M on its pre-listing XRP, carrying 346 million XRP at $342M at the end of September, nearly 60% below its original recorded value (about $2.44 per XRP on average) (CoinDesk, Nov 17, from its first quarterly report filed Nov 13). This is an accounting impairment that its rules do not let it reverse when prices recover; it does not mean Evernorth sold XRP. XRPN closed Monday down 5%.",
-  "US spot XRP ETFs had a net outflow of about $19.13M for the week of Nov 9 to 13, the largest weekly outflow since March 2026 (TokenPost, Bitcoin.com News). Early Monday Nov 16 data is partial: CryptoKeyhole, which reads issuer holdings files, shows Canary's XRPC down about 5.2M XRP (about $5.0M) and 21Shares' TOXR flat, with Bitwise and Franklin still to report as of 05:35 UTC Nov 17; CryptoETF.today shows no net flow for Bitwise's XRP fund Monday. Cumulative net inflows since launch remain about $1.79B and combined net assets about $1.15B (TokenPost, as of Nov 15).",
-  "Binance's XRP futures open interest was about $325.7M on Nov 16, down about 81% from roughly $1.7B at its July 2025 peak and the lowest since November 2024 (CryptoQuant data via The Crypto Basic, Nov 17). On-chain analyst Darkfost says whale net outflows of XRP from Binance have exceeded $127M since Nov 10, about $21M on Monday alone (CoinNess, Nov 17); exchange outflows are often read as holding demand, but they do not show who moved the coins or why. Lower open interest means less leverage, not necessarily less selling.",
+  "US spot XRP ETFs had a net outflow of about $6.14M on Nov 17: Canary's XRPC about −$5.0M and Grayscale's GXRP about −$1.1M, with Bitwise, Franklin and 21Shares flat (TokenPost, SoSoValue data; Crypto Briefing). That follows a $19.13M net outflow for the week of Nov 9 to 13, the largest weekly outflow since March. Cumulative net inflows since launch are about $1.78B to $1.80B, and total assets across the five funds are about $1.08B to $1.15B (Crypto Briefing).",
+  "About 281 million XRP (roughly $270M) moved from one holder into two wallets that are not identified as exchange deposit addresses, on Nov 6 and Nov 17; the receiving wallets were activated Oct 5 and tested with small transfers, which CoinDesk says is consistent with a planned custody move rather than a sale. The funding trail leads back to a Bitstamp-labeled wallet, which does not establish who controls the funds (CoinDesk, Nov 18, using XRPScan data). Separately, Binance's XRP futures open interest was about $325.7M on Nov 16, down about 81% from its July 2025 peak (CryptoQuant via The Crypto Basic), and a CryptoQuant contributor puts XRP's 30-day Binance liquidity index at a three-month low (crypto.news, Nov 18); thinner liquidity can mean sharper moves either way.",
   "Ripple's Nov 16 Swell 2026 recap says the company expects to exit 2026 approaching a $900M annualized product revenue run rate with more than 1,700 institutions using Ripple (Ripple, Official; company figures, not audited). It says the proposed XRPL Single Asset Vault and Lending Protocol remain subject to validator approval. RLUSD supply is about $2.80B, ahead of PayPal's PYUSD at $2.63B (DefiLlama via Bitcoin.com News, Nov 16).",
-  "On the XRP Ledger, the proposed native lending amendment has 22 of 35 trusted-validator votes and the SingleAssetVault amendment it depends on has 23; each needs 29 held for two straight weeks, so neither is live and there is no activation date (CoinDesk, Nov 12). Separately, XRPL developers will reset Testnet and Devnet from 8 to 9 p.m. ET on Nov 25 after a server failure, wiping test accounts; the main XRP Ledger, real XRP balances and transaction history are not affected (TokenPost, Nov 14).",
+  "On the XRP Ledger, the proposed native lending amendments (LendingProtocol and LendingProtocolV1_1) have 23 of 35 trusted-validator votes and SingleAssetVault has 24, each up one from the prior tally (crypto.news, Nov 18 tally; CoinDesk had 22 on Nov 12). Each needs 29 held for two straight weeks, so neither is live and there is no activation date. Separately, XRPL developers will reset Testnet and Devnet from 8 to 9 p.m. ET on Nov 25 after a server failure, wiping test accounts; the main XRP Ledger and real XRP balances are not affected (CryptoPotato).",
   "Binance has reopened withdrawals on 87 networks, including LTC and NEAR, and says it plans to restore all remaining withdrawal services before next weekend (TokenPost, Nov 13). XRP withdrawals were not among the paused tokens in its latest list.",
   "Ripple's Oct 27 partnerships still stand but are mostly plans: BNY now supports XRP and RLUSD custody, while direct RLUSD mint/redeem at BNY is subject to approvals (The Block, Cointelegraph). Robinhood plans to use RLUSD on the XRP Ledger for institutional settlement through Bitstamp and to add RLUSD to its app later in 2026, with no start date or volume announced (Ripple, CryptoSlate). Separately, Ripple's RLUSD stablecoin supply has passed PayPal's PYUSD, about $2.80B vs $2.63B per DefiLlama, making it the seventh-largest stablecoin (Bitcoin.com News, Nov 16); RLUSD growth is not the same thing as demand for XRP.",
   "At Ripple's Swell 2026 event, CEO Brad Garlinghouse said Ripple's large XRP holdings do not give it control of the XRP Ledger: Ripple runs one of the 35 validators on the recommended list, and holding XRP carries no voting weight (DailyCoin, Nov 10). Ripple CTO Emeritus David Schwartz disclosed on Nov 9 and 10 that his own holdings are down from about 26M XRP to about 3M over years of pre-arranged sales (crypto.news); that is a personal disclosure, not a Ripple sale.",
@@ -495,6 +495,51 @@
  ],
  "news": [
   {
+   "headline": "XRP whales moved $270 million during the selloff. The coins didn't go to exchanges",
+   "outlet": "CoinDesk",
+   "date": "2026-11-18",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "281M XRP moved into two non-exchange wallets prepared weeks earlier with test transfers, consistent with custody rather than selling; funding trail leads to a Bitstamp-labeled wallet, which does not prove who owns the funds.",
+   "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges"
+  },
+  {
+   "headline": "Crypto Today: Bitcoin pressured below $65K, ETH tests $1,800 while XRP reclaims $1.00",
+   "outlet": "FXStreet",
+   "date": "2026-11-18",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "XRP back near $1.00 while BTC stalls under $65K; Fear and Greed at 11; FOMC minutes due Wednesday and a December hike widely expected. Technical commentary, not a forecast.",
+   "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-pressured-below-65k-eth-tests-1-800-while-xrp-reclaims-100-202611181012"
+  },
+  {
+   "headline": "XRP price reclaims $1 as Ripple's lending plans advance, but can the recovery hold?",
+   "outlet": "crypto.news",
+   "date": "2026-11-18",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "XRP traded $0.9468 to $1.01 on Nov 18; lending amendments at 23 of 35 validator votes, SingleAssetVault 24 (29 needed for two weeks); Binance liquidity index at a three-month low (CryptoQuant contributor).",
+   "url": "https://crypto.news/xrp-price-prediction-1-dollar-recovery-ripple-lending/"
+  },
+  {
+   "headline": "Altcoin spot ETFs: XRP, LINK and HYPE post outflows as others hold steady",
+   "outlet": "TokenPost",
+   "date": "2026-11-17",
+   "type": "Crypto press",
+   "reliability": "High",
+   "summary": "US spot XRP ETFs had $6.14M net outflows on Nov 17 (SoSoValue data).",
+   "url": "https://www.tokenpost.com/news/investing/60094"
+  },
+  {
+   "headline": "Grayscale and Canary XRP ETFs see $6.14 million in combined outflows",
+   "outlet": "Crypto Briefing",
+   "date": "2026-11-17",
+   "type": "Crypto press",
+   "reliability": "Medium",
+   "summary": "Canary XRPC about −$5.0M, Grayscale GXRP about −$1.1M; Bitwise, Franklin and 21Shares flat. Cumulative inflows about $1.78B to $1.80B.",
+   "url": "https://cryptobriefing.com/grayscale-canary-xrp-etf-outflows/"
+  },
+  {
    "headline": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
    "outlet": "CoinDesk",
    "date": "2026-11-17",
@@ -549,33 +594,6 @@
    "url": "https://ripple.com/insights/ripple-swell-2026-recap/"
   },
   {
-   "headline": "Crypto daily market report, Nov 17, 2026",
-   "outlet": "KuCoin News",
-   "date": "2026-11-17",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Nasdaq −2.49% and S&P 500 −1.91% Monday on an AI-stock selloff; BTC near $64,900, Fear and Greed 12; US spot BTC ETFs about −$2.35B over two weeks. Exchange-published report.",
-   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-17-2026"
-  },
-  {
-   "headline": "XRP ETF flows today by fund",
-   "outlet": "CryptoKeyhole",
-   "date": "2026-11-17",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Partial Nov 16 data from issuer files: XRPC about −$5.0M, TOXR flat; Bitwise and Franklin not yet in as of 05:35 UTC Nov 17. Funds held about 1.07B XRP on Nov 13.",
-   "url": "https://cryptokeyhole.com/etf-flows/xrp/"
-  },
-  {
-   "headline": "XRP at $0.95 as ETFs bleed $19M in a week with Grayscale leading the exit",
-   "outlet": "Bitcoin.com News",
-   "date": "2026-11-16",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "Spot XRP ETFs lost $19.13M Nov 9 to 13: Grayscale GXRP −$12.71M, Bitwise −$9.40M, Franklin XRPZ +$4.45M. The prior week had zero inflow days.",
-   "url": "https://news.bitcoin.com/market-updates/xrp-etfs-19-million-weekly-outflows-grayscale/"
-  },
-  {
    "headline": "XRP spot ETFs post $19.13 million in weekly net outflows",
    "outlet": "TokenPost",
    "date": "2026-11-16",
@@ -585,15 +603,6 @@
    "url": "https://www.tokenpost.com/news/investing/58018"
   },
   {
-   "headline": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-   "outlet": "The Block",
-   "date": "2026-11-15",
-   "type": "Crypto press",
-   "reliability": "High",
-   "summary": "About $2B of crypto positions liquidated in 24 hours over the weekend; BTC down about 14% on the week. Zhao's denial is his own statement on X.",
-   "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
-  },
-  {
    "headline": "Ripple's RLUSD supply just passed PayPal's PYUSD",
    "outlet": "Bitcoin.com News",
    "date": "2026-11-16",
@@ -601,36 +610,53 @@
    "reliability": "High",
    "summary": "DefiLlama data: RLUSD about $2.80B (up about 15% in 30 days) vs PYUSD $2.63B; RLUSD is now the seventh-largest stablecoin. This is about Ripple's stablecoin, not XRP's price.",
    "url": "https://news.bitcoin.com/stablecoins/ripple-rlusd-passes-paypal-pyusd-stablecoin/"
-  },
-  {
-   "headline": "XRP price prediction: Can $0.90 hold as futures leverage plunges?",
-   "outlet": "crypto.news",
-   "date": "2026-11-16",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Binance XRP futures open interest about $325M, lowest since November 2024 (CryptoQuant); RSI about 26. Support levels and long-term targets quoted are analyst opinions.",
-   "url": "https://crypto.news/xrp-price-prediction-leverage-liquidations-90-cents/"
-  },
-  {
-   "headline": "XRP whales move 240 million tokens as price crashes to two-year low of $0.89",
-   "outlet": "CryptoCompass",
-   "date": "2026-11-15",
-   "type": "Crypto press",
-   "reliability": "Medium",
-   "summary": "Two 120M XRP transfers (Whale Alert) through unidentified wallets, with no movement to exchanges seen. Owner and purpose unknown.",
-   "url": "https://cryptocompass.com/articles/xrp-whales-move-240-million-tokens-as-price-crashes-to-two-year-low-of-0-89"
-  },
-  {
-   "headline": "Top 3 price predictions: BTC, ETH, XRP remain locked in a bearish trend despite oversold signals",
-   "outlet": "FXStreet",
-   "date": "2026-11-16",
-   "type": "Mainstream",
-   "reliability": "Medium",
-   "summary": "BTC about $64,651, XRP about $0.959 after a yearly low of $0.893. Technical analysis; levels are the writer's view.",
-   "url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eth-xrp-remain-locked-in-a-bearish-trend-despite-oversold-signals-202611160303"
   }
  ],
  "claims": [
+  {
+   "claim": "JUST IN: 140M $XRP ($136M) transferred to an unknown wallet 🐋 Whales don't move this much for nothing… What do you think is coming?",
+   "who": "@XrpUdate on X (also reposted by other accounts), Nov 17",
+   "date": "Nov 17",
+   "type": "Community",
+   "reliability": "Medium",
+   "check": "The transfer is real (140,351,238 XRP on Nov 17, per XRPScan via CoinDesk), but the hint that something big is coming is unsupported. CoinDesk found the receiving wallet was set up weeks earlier with test transfers and is not an exchange deposit address, which looks like custody, not a sale. Mainstream crypto press corroborates the transfer only.",
+   "post_url": "https://x.com/XrpUdate/status/2122716696175952225",
+   "check_title": "CoinDesk: XRP whales moved $270 million during the selloff",
+   "check_url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges"
+  },
+  {
+   "claim": "JUST IN: The U.S. Department of Energy is now developing energy market settlement infrastructure on the $XRP Ledger, an industry worth TRILLIONS of dollars annually.",
+   "who": "@CHADSARTIN__COM on X, Nov 17",
+   "date": "Nov 17",
+   "type": "Rumor",
+   "reliability": "Low",
+   "check": "Only crypto outlets (TokenPost, ZyCrypto, AInvest) report a DOE-linked XRP Ledger project, and they name no utilities, funding, volumes, timeline, or whether the XRP token itself is used. No DOE announcement or mainstream report was found. The 'trillions' figure describes the whole energy market, not this project.",
+   "post_url": "https://x.com/CHADSARTIN__COM/status/2122828869795475769",
+   "check_title": "AInvest: The Energy Department is testing a crypto settlement rail. The token is not the business.",
+   "check_url": "https://www.ainvest.com/news/energy-department-testing-crypto-settlement-rail-token-business-2611/"
+  },
+  {
+   "claim": "JUST IN: U.S. Treasury Reserve Banking System is Officially on QFS running on XRPL through XRP.",
+   "who": "@AlexWest960 on X, Nov 17",
+   "date": "Nov 17",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "False as stated: there is no 'Quantum Financial System' and no Treasury or Federal Reserve announcement of any move to the XRP Ledger. No mainstream or crypto press corroboration. 'QFS' posts are a recurring conspiracy theme often tied to scams.",
+   "post_url": "https://x.com/AlexWest960/status/2122752860366705091",
+   "check_title": "U.S. Treasury press releases",
+   "check_url": "https://home.treasury.gov/news/press-releases"
+  },
+  {
+   "claim": "🚨 JUST IN: Prepare for $XRP supercycle.",
+   "who": "@RippleXity on X, Nov 17",
+   "date": "Nov 17",
+   "type": "Rumor",
+   "reliability": "Unverified",
+   "check": "Hype with no source or data. XRP is down about 23% over 30 days and still below its key moving averages (CoinGecko, FXStreet). Same account also posted 'god candle' predictions. No corroboration.",
+   "post_url": "https://x.com/RippleXity/status/2122638948447256823",
+   "check_title": "CoinGecko: XRP price",
+   "check_url": "https://www.coingecko.com/en/coins/xrp"
+  },
   {
    "claim": "JUST IN: Wells Fargo, one of America's largest banks, has reportedly disclosed exposure to the Bitwise $XRP ETF in its latest 13F filing.",
    "who": "@strivex_ on X, Nov 17",
@@ -685,39 +711,6 @@
    "post_url": "https://x.com/DigitalFinucx/status/2122556440326107474",
    "check_title": "",
    "check_url": ""
-  },
-  {
-   "claim": "JUST IN: The upcoming $XRP god candle will shock the world.",
-   "who": "@RippleXity on X (about 32K views), Nov 15",
-   "date": "Nov 15",
-   "type": "Rumor",
-   "reliability": "Unverified",
-   "check": "A hype prediction with no source, data or date. XRP is about $0.95 and down about 15% on the week (CoinGecko). Copies appeared from several accounts. No mainstream corroboration.",
-   "post_url": "https://x.com/RippleXity/status/2121939917089743287",
-   "check_title": "CoinGecko: XRP price",
-   "check_url": "https://www.coingecko.com/en/coins/xrp"
-  },
-  {
-   "claim": "Major Korean bank just DROPPED SWIFT for Ripple Payments. Jeonbuk Bank is now using $XRP to tap into the $150 trillion cross-border payments market.",
-   "who": "@MechelKirbyX on X (video post), Nov 15",
-   "date": "Nov 15",
-   "type": "Rumor",
-   "reliability": "Low",
-   "check": "Not new and overstated: Ripple and Jeonbuk Bank announced the partnership on Aug 18 (Cointelegraph). The companies did not say whether transfers use XRP, RLUSD or fiat rails, and nothing says the bank dropped SWIFT. No mainstream corroboration of XRP use.",
-   "post_url": "https://x.com/MechelKirbyX/status/2121932787489939475",
-   "check_title": "Cointelegraph: South Korea's Jeonbuk Bank taps Ripple for cross-border payments (Aug 18)",
-   "check_url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments"
-  },
-  {
-   "claim": "$215M IN XRP MOVED AS PRICE CRASHED TO $0.89 — WHALE ACCUMULATION OR WALLET ROTATION?",
-   "who": "@ANCrypto_ on X (about 1.8K views), Nov 15",
-   "date": "Nov 15",
-   "type": "Community",
-   "reliability": "Medium",
-   "check": "The transfers are real: Whale Alert flagged two 120M XRP moves on Nov 15 through unidentified wallets, with no exchange deposits seen (CryptoCompass). Whether it is accumulation is unknown; moving coins between wallets is not buying. Crypto-press corroboration only.",
-   "post_url": "https://x.com/ANCrypto_/status/2121967033000870085",
-   "check_title": "CryptoCompass: XRP whales move 240 million tokens as price crashes to two-year low",
-   "check_url": "https://cryptocompass.com/articles/xrp-whales-move-240-million-tokens-as-price-crashes-to-two-year-low-of-0-89"
   }
  ]
 }
